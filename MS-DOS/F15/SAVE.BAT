@@ -1,0 +1,1 @@
+copy hallfame hallfame.old
