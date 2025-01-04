@@ -1,0 +1,59 @@
+
+
+HANGMAN - GALGENMéNNCHEN
+
+VERSION 2.0
+
+AUTOR UND COPYRIGHT:
+D. Schumacher
+SERVICO-SOFTWARE
+
+MUSTER UND VERTRIEB:
+
+SERVICO SOFTWARE
+POSTFACH    1836
+TEL. 04261-82285
+FAX  04261-84136
+27348  ROTENBURG
+
+
+HANDBUCH
+
+Es gibt im Grunde gar nichts zu erklÑren. Gegeben Sie den Buchstaben
+ein, den Sie in dem gesuchten Wort vermuten. Liegen Sie richtig, so
+geht es dem MÑnnchen nicht an den Kragen und es verfÑrbt sich kein
+Kîrperteil.
+
+Anders ist es, wenn Sie den falschen Buchstaben erraten haben.
+Sieben Fehl-Versuche stehen Ihnen  zur VerfÅgung.
+Dann hÑngt das MÑnnchen am Galgen.
+
+Knapp 500 Worte sind integriert!!!
+
+
+Besonders eignet sich das Spiel auch als GedÑchtnis-Training fÅr
+Jung und Alt und besonders zum Verteifen der Rechtschreibkenntnisse.
+
+
+Das Programm ist Shareware, was hei·en soll:
+
+Sie haben die Mîglichkeit, das Programm Åber einen Zeitraum von 14
+Tagen zu testen. Mîchten Sie es weiternutzen so senden Sie bitte
+DM 10,-- (Scheck/Schein) an die obige Adresse.
+
+Am Besten lassen sie die Datei BESTELL.TXT  ausdrucken.
+
+
+Bleiben Sie ehrlich. SERVICO hat etwas gegen Raubkopien.
+
+
+Herzliche GrÅ·e
+
+D. Schumacher
+Autor
+
+Systemvoraussetzung:
+
+VGA-Grafik-Karte, XT oder AT, DOS ab 3.1
+
+

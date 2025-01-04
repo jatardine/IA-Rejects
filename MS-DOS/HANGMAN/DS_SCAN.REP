@@ -1,0 +1,48 @@
+
+ DatentrÑger in Laufwerk B hat keine DatentrÑgerbezeichnung
+ Verzeichnis von B:\
+
+BESTELL  TXT      1288 20.10.93   18:08
+HAENDLER TXT       553 21.10.93   12:54
+HANDBUCH TXT      1257 21.10.93   12:56
+HANGMAN  DAT      3782 20.10.93   17:57
+HANGMAN  EXE     46491 21.10.93   12:49
+        5 Datei(en)      53371 Byte
+                        306176 Byte frei
+___________________________________________________________________________
+SCAN 9.19 V108     1993/10/31   00:28
+Options: b: /A /report marep
+
+
+Drive B: has no volume label.
+
+Disk B: contains 1 directories and 5 files.
+
+ No viruses found.
+___________________________________________________________________________
+Protokoll - 31. Oktober 1993  0:29
+
+F-PROT 2.09 vom: 17. Juli 1993
+Virus-Signaturen vom: 15. Juli 1993
+
+Methode:    Sicheres Suchen
+Suche nach: B:
+Aktion:     Nur Protokoll
+Objekte:    Boot/File/Trojaner/Komprimiert
+Dateien:    Alle Dateien
+
+Boot-Sektor durchsuchen B:
+Volume <kein Label> durchsuchen.
+
+Ergebnisse der Virensuche:
+
+Dateien:           5  (52 KByte)
+GeprÅft:           5  (52 KByte)
+Partition-Records: 0
+DOS Boot-Sektoren: 1
+
+Zeit:              0:07 Minuten
+
+Keine verdÑchtige Dateien oder Boot-Sektoren beziehungsweise
+Partition-Records wurden von F-PROT gefunden.
+
