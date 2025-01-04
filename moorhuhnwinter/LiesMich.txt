@@ -1,0 +1,13 @@
+Hinweise zu Moorhuhn Winter-Edition
+
+Wir haben uns viel Mühe gegeben, sowohl das alte Spielgefühl beizubehalten,
+als auch so viele Verbesserungen wie möglich zu realisieren. Das Ergebnis
+wird hoffentlich lang anhaltender Spielspaß sein.
+
+Damit du in den Genuss der Moorhuhn Winter-Edition kommst, müssen auf deinem
+System sowohl DirectX als auch die neusten Grafik-
+und Soundkartentreiber installiert sein. Sollte es Probleme beim Spielstart
+geben, empfehlen wir zunächst, die neusten Treiber vom Hersteller der Hardware
+zu besorgen (am besten von dessen Website) und zu installieren.
+
+Viel Spaß!
