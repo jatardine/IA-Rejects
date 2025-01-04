@@ -1,0 +1,38 @@
+VERSION 3.2 !!!
+
+ALL THESE FILES SHOULD BE THERE :
+
+BREAKIN  EXE    83760  24.12.93   0.33 
+EXTRA    ANI    10754  24.12.93   0.33 
+ENEMY    SPR    11379  24.12.93   0.33 
+BREAKIN  ANI    28517  24.12.93   0.33 
+BLOCKS   BUP    31824  24.12.93   0.33 
+TESTLVL  BCK    10366  24.12.93   0.33 
+TESTLVL          2520  24.12.93   0.33 
+TESTLVL  HIT     1260  24.12.93   0.33 
+REGIST   D       1551  24.12.93   0.33 
+MTVSMALL FNT     7196  24.12.93   0.33 
+MTV      FNT    30686  24.12.93   0.33 
+GOLF     FNT     8934  24.12.93   0.33 
+JOECK    PIC    64768  24.12.93   0.33 
+B3       PIC    64768  24.12.93   0.33 
+HIGHSC   PIC    64768  24.12.93   0.33 
+EXPLO4           3612  24.12.93   0.33 
+TOP100   ASG     1900  24.12.93   0.33 
+REGIST   E       1420  24.12.93   0.33 
+XSOFT2   PIC    64768  24.12.93   0.33
+
+Breakin requirements: 286 12Mhz or higer
+		      VGA (Color recommended)
+       	              about 450Kb free Memory
+		      using 320x200x256
+		      Mouse		
+
+
+about Breakin: Breakin is another Breakout game ... 
+               using 256 Colors ...
+               with mouse-control only.....
+	       Guess not bad ....	
+               Play and see ...
+	       
+ ASG	      

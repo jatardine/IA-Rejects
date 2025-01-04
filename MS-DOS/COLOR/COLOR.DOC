@@ -1,0 +1,204 @@
+   =========================================================================
+   ===                                                                   ===
+   ===                         C O L O R S T A R                         ===
+   ===                                                                   ===
+   ===         Geschicklichkeitsspiel fr IBM PCs und Kompatible         ===
+   ===                                                                   ===
+   ===                               von                                 ===
+   ===                                                                   ===
+   ===                     LARS SCHENK & FRANK HORN                      ===
+   ===                                                                   ===
+   ===         * * *   D O S - T R E N D   V E R S I O N   * * *         ===
+   ===                                                                   ===
+   =========================================================================
+===                                                                         ===
+===    Dies ist ein Produkt, das mittels des Shareware-Konzeptes vermark-   ===
+===    tet wird. Dies bedeutet, daá Sie das Recht haben die Prfversion     ===
+===    und diese Dokumentation nach Belieben an andere Interessenten wei-   ===
+===    terzugeben, vorausgesetzt dies geschieht in der ursprnglichen       ===
+===    und unmodifizierten Form. Von dieser Auflage sind sowohl Software    ===
+===    (in der Prfversion) als auch Dokumentation betroffen.               ===
+===    Jede gewerbliche Nutzung dieses Produktes sowie die Weitergabe in    ===
+===    Verbindung mit einem kommerziellen Produkt ist strengstens unter-    ===
+===    sagt.                                                                ===
+===    Prfen Sie in aller Ruhe die Sharewareversion unseres Produktes.     ===
+===    šberzeugen Sie sich selbst von der Qulit„t unserer Software.         ===
+===    Wenn Sie Interesse an diesem Produkt haben und die vielen Vorzge    ===
+===    der Vollversion genieáen wollen, so k”nnen Sie sich als Benutzer     ===
+===    fr eine Lizenzgebhr von 50,-- DM unter folgender Adresse           ===
+===    registrieren lassen:                                                 ===
+===                                                                         ===
+===                      Lars Schenk EDV                                    ===
+===                      Schwartauer Landstraáe 22                          ===
+===                      D-2400 Lbeck                                      ===
+===                                                                         ===
+===                      Tel.: 0451/406615                                  ===
+===                                                                         ===
+===    Alternativ kann der Registrierungsbetrag auch auf das Konto          ===
+===    106.028.004 bei der Kreissparkasse Ostholstein BLZ 213 522 40 ber-  ===
+===    wiesen werden (Verwendungszweck: "Registrierung COLORSTAR").         ===
+===    Es empfiehlt sich jedoch, uns zus„tzlich durch einen Anruf oder      ===
+===    eine Postkarte von der šberweisung zu informieren, da so die Zeit    ===
+===    bis zur Auslieferung Ihrer lizensierten Programmversion nicht vom    ===
+===    Zeitpunkt der n„chsten šberprfung des Kontostandes abh„ngig         ===
+===    ist, sondern wir auf Ihre šberweisung warten und unmittelbar nach    ===
+===    Eingang der Buchung die Software auf die Reise schicken!             ===
+===                                                                         ===
+===    Wenngleich die Shareware-Version nicht in ihren Funktionen einge-    ===
+===    schr„nkt ist, so enth„lt Sie doch als kleine Erinnerung fr Sie,     ===
+===    sich als Benutzer registrieren zu lassen, einen Textbildschirm, der  ===
+===    automatisch nach jeder Beendigung des Programmes aufgeblendet wird.  ===
+===    Unmittelbar nach Eingang Ihrer Lizenzgebhr, erhalten Sie von uns    ===
+===    die aktuellste Version des Programmes, die diesen Hinweis nicht      ===
+===    mehr enth„lt. Zus„tzlich erhalten Sie mit der Vollversion des        ===
+===    Spiels weitere Level. Ingesammt beinhaltet die Vollversion 88 Level. ===
+===    In der Shareware Version sind nur 20 Level enthalten, um Ihnen       ===
+===    sozusagen den Appetit anzuregen. Bitte haben Sie hierfr Verst„ndnis.===
+===                                                                         ===
+===    Alle Auslieferungen erfolgen standardm„áig im 5 1/4" = 360KB-Format. ===
+===    Wahlweise OHNE AUFPREIS ist die Lieferung auf 3 1/2" = 720KB m”glich.===
+===                                                                         ===
+===============================================================================
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ·
+   ³Hinweise zur DOS-TREND VERSIONº
+   ÔÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+   Die vorliegende Prfversion von COLORSTAR wurde fr die Ver”ffentlichung
+   in der DOS-TREND berarbeitet, da die normale Prfversion nicht in ihrer
+   vollen L„nge auf die Diskette gepaát h„tte. Haben Sie also bitte Verst„nd-
+   nis dafr, daá diese Anleitung sehr stark gekrzt wurde und das Programm um
+   einige Features gekrzt werden muáte. So ist z.B. auf die Wiedergabe von
+   digitalisierten Adlib-Sound Samples verzichtet worden, da hier eine Menge
+   Speicherplatz fr aufgewendet werden muá. Nichts desto trotz kann auch
+   diese Prfversion eine Menge Spielspaá vermitteln und Sie erhalten ja
+   mit unserer Vollversion jede Menge Zusatznutzen.
+
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ·
+   ³Die Registrierung hat viele Vorteile!º
+   ÔÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+   1. Unmittelbar nach Eingang Ihrer Lizenzgebhr, erhalten Sie  von  uns
+   die   aktuelle   VOLLERSION    des     Programmes,    die    keinerlei
+   "Shareware-Einschr„nkungen" mehr enth„lt.
+
+   2. Die  VOLLVERSION  beitet Ihnen nicht nur 20 Level sondern ganze 88,
+   die es richtig in sich haben und Ihnen viele, viele Stunden  Spielspaá
+   garantieren.
+
+   3. Als  ein  besonderen  BONUS  erhalten Sie von uns neben der Arcade-
+   Version  (die 88 Level fr Sie bereith„lt)  eine  Standardversion  des
+   Spiels,in der die Level nicht mehr mit bestimmten "Aufgaben" verknpft
+   sind. In der Standardversion geht es einfach ganz ureigen darum,  alle
+   herunterkommenden  "Teilchen"  irgendwie "wegzubekommen" und m”glichst
+   viele Punkte zu machen - klar, das der Schwierigkeitsgrad mit der Zeit
+   steigt...     Die  Spielfeldgr”áe  der  Standardversion  ist  optional
+   einstellbar und bietet somit nochmals eine  Variationsm”glichkeit  fr
+   den Schwierigkeitgrad.
+
+   4. Da Sie  sich  zur  Registrierung  zum  COLORSTAR entschieden haben,
+   k”nnen  wir  wohl  davon  ausgehen,  daá  Sie  generell gerne "Knobel-
+   und  Geschicklichkeitsspiele" spielen.  Da m”chten wir Ihnen eine ganz
+   besondere  Freude  machen: Sie erhalten mit der VOLLVERSION von COLOR-
+   STAR  unsere  "Tetris"  Variante  "STONESTAR",  welches  den  gleichen
+   Qualit„tstandart besitz wie "COLORSTAR".  šbrigens:  STONESTAR  k”nnen
+   Sie   NICHT  als  Sharewareversion erhalten - dieses Programm kann nur
+   mit der  VOLLVERSION  des  COLORSTAR  zusammen  erworben  werden.  Sie
+   erhalten also  bei  einer  Registrierung  (fr  nur  50,-- DM)  gleich
+   drei (3) Programme:
+
+     a) COLORSTAR - Arcade Version   (mit 88 verschiedenen Leveln)
+     b) COLORSTAR - Standard Version
+     c) STONESTAR - Tetrisvariante   (mit optional erweiterten Steinesatz
+                                      und ebenfalls mit AdLib-Sound)
+
+
+   5. Sie erhalten  die  aktuelle  Programmversion,  die  verfgbar  ist.
+   Wenn  Sie  diese  Anleitung  lesen  dann  ist  die  Ihnen  vorliegende
+   Sharewareversion evtl. schon veraltet.  Die  aktuelle  Programmversion
+   ist inzwischen verbessert und berarbeitet worden.
+
+   6. Als REGISTRIERTER ANWENDER geh”hren dann auch Sie  zu  unserem  gut
+   betreuten Kundenstamm! Sie erhalten stets  Informationen  ber  unsere
+   aktuellen  Neu-  und  Weiterentwicklungen.  Da  wir  auf  sehr  vielen
+   Gebieten der Programmentwicklung t„tig  sind,  ist  die  Chance  groá,
+   daá unsere neuesten  Produkte  auch  fr  Sie  interessant  sind.  Wir
+   haben bisher z.B. folgende Projekte realisiert:
+
+   o VGA BOX (Konbelspielesammlung fr VGA-Systeme)
+   o EGA-Puzzle
+   o EGA/CGA Moving Puzzle
+   o VGA/EGA Digidisk
+   o Tool-Sammlungen fr DOS
+   o Unterhaltungsprogramme
+     - AD-Run (Geschicklichkeits Spiel)
+     - Lachsack PC
+     - Weihnachtsgruá PC
+   o Programmentwicklungssysteme und Tools fr Turbo Pascal
+     - Maskstar
+     - Maskstar Plus
+     - Pullstar Plus
+     - TP Tools OOP
+     - TP Game Toolbox
+   o Videomaster (prof. Videothekenverwaltung)
+   o ZZ-Serie (Vertriebsform jedoch z.Z. noch nicht gekl„rt)
+     - Ultra-Leistungsstarke Verwaltungsprogramm-Serie
+     - Modernes, Leistungsstarkes Text-Verarbeitung-Programm
+       mit dirkekter Schnittstelle zur Adressenverwaltung
+     - WarenEingangsBuch zur Erstellung von šberweisungsformularen
+   o Cardstar  (universelles Karteikartensystem)
+   o EtikettenStar (universeller Etiketteneditor)
+   o AdressenStar  (professionelle Adressenverwaltung)
+   o Slidestar:
+     Professionelles Grafik-Pr„sentationsprogramm fr VGA-Systeme mit
+     Adlib- und Soundblaster (Digi-Sound) untersttzung
+
+   7.  Sie  erhalten  preisgnste  Updatem”glichkeiten  auf  nachfolgende
+   Programmversionen mit einem erweiterten Leistungsumfang.
+   8. Sie k”nnen kostenlosen Gebrauch von unserer  Hotline  machen,  wenn
+   Sie Rckfragen zur  Benutzung  des  Programmes  haben.  Leider  mssen
+   Sie die anfallenden Telefongebhren noch  selbst  tragen.  Sie  k”nnen
+   sich aber auch schriftlich an uns wenden.
+
+
+   Voraussetzungen:
+   ================
+
+   Nachfolgend sind s„mtliche Voraussetzungen fr den Betrieb des
+   Programmes aufgefhrt:
+
+   Das Spiel l„uft auf allen IBM PCs oder Kompatiblen. Da das Spiel-
+   prinzip die Darstellung aller Elemente in sog. Pseudografik erlaubt,
+   kann das Programm sogar auf MDA und Hercules Karten verwendet werden.
+   Auf Monchrom-Systemen werden anstelle von Farben verschiedene Graustuffen
+   dargestellt. Somit kann ColorStar auch auf Monochrom-Systemen gefahren
+   werden jedoch wird dadurch der Schwierigkeitsgrad enorm erh”ht.
+   Selbstverst„ndlich werden CGA, EGA und VGA Karten voll untersttzt.
+   Mind. 512 KByte Arbeitsspeicher sind Voraussetzung fr den Betrieb von
+   ColorStar. Die Verwendung einer Festplatte ist nicht unbedingt
+   erforderlich. Das Spiel kann auch von Diskette gespielt werden.
+
+   Die AdLibkarte (oder Kompatible) wird ebenso untersttzt, ist jedoch
+   keine Voraussetzung.
+
+   Als Voraussetzung von der Softwareseite ist MS-DOS ab der Version 3.0
+   zu nennen.
+
+
+   Leistungsbeschreibung:
+   ======================
+
+   o Coloris-Variante
+   o 20 Level in der Sharewareversion (88 Level in der Vollversion)
+   o AdLib-Untersttzung
+   o Digitale-Sound-Samples auf AdLib (nicht in dieser Edition)
+   o frei definierbare Tastatursteuerung
+   o High-Scoreliste
+
+           Viel Erfolg und Spaá beim Spielen wnschen Ihnen
+
+                 die Autoren LARS SCHENK und FRANK HORN
+
+   Lbeck im Oktober 1990
+
+
