@@ -1,0 +1,158 @@
+-----------------------------------------------------------------------------
+Beginn Werbetext fr DOPPELKOPF PROFESSIONELL 1.0 im ASCII-Format
+-----------------------------------------------------------------------------
+DOPPELKOPF PROFESSIONELL 1.0 
+Das in Zusammenarbeit mit dem Deutschen Doppelkopf-Verband e. V. entwickelte
+DOPPELKOPF PROFESSIONELL 1.0 beherrscht alle Farbspiele, Grandspiele(Damen-,
+Buben- und Damen-Buben-Soli) sowie das Ohne-Trumpf-Spiel einschlieálich 
+Varianten wie Joker, erste od. zweite Dolle tief, Limits, Kontra, Re,
+Fuchs, Karlchen Mller u. a.
+In der jederzeit zur Verfgung stehenden One-Line-Hilfe k”nnen die
+Doppelkopfregeln nachgelesen werden.
+Bei Spielbeginn wird man bei DOPPELKOPF PROFESSIONELL gefragt, ob man
+ein Solo wagen m”chte. Hierbei besteht immer die M”glichkeit, sich
+seine Spielkarten nach den Spielarten entsprechend umsortiert anzeigen zu
+lassen.
+Am Spielende wird korrekt abgerechnet und die Spiele in einer fortlaufenden 
+Spielliste eingetragen.
+Es bestehen immer die folgenden M”glichkeiten:
+Sich die Stiche des laufenden Spiels nochmals zeigen zu lassen,
+sich einen Tip geben zu lassen und 
+die Partie abzuspeichern.
+Die Bedienung von DOPPELKOPF PROFESSIONELL ist sehr einfach und leicht
+erlernbar. Alle Eingabem”glichkeiten werden am Bildschirm angezeigt.
+DOPPELKOPF PROFESSIONELL paát sich der Bildschirmaufl”sung an.
+
+Weitere Features:
+* Spielkarten im franz”sischen oder deutschen Bild
+* verschiedene Spielst„rken
+* Animations - und Soundeffekte
+* Sprachausgabe
+* Letzter Stich - und Tip - Funktionen
+* Automatischer Spielmodus
+
+Preis der Vollversion: 30,00 DM
+----------------------------------------------------------------------------
+     E N D E  des Werbetextes 
+----------------------------------------------------------------------------
+Weitere Programme:
+
+OFFIZIERSSKAT 2.0
+Eine beliebte Variante des Skatspiels ist das auch unter dem Namen
+Bauernskat bekannte OFFIZIERSSKAT.
+Wem fr dieses Kartenspiel der Spielpartner fehlt, vergngt sich mit 
+dem deutschen Programm OFFIZIERSSKAT 2.0.
+Wie beim "richtigen" Skat geht es bei OFFIZIERSSKAT 2.0 um das Ausspielen, 
+Abwerfen und Stechen von Karten.
+Bevor es losgeht, k”nnen die Eckparameter des Spiels festgelegt werden. Hier
+stehen unter anderen zwei Spielst„rken des Computers zur Auswahl, es wird 
+festgelegt, wer als erster ausspielt, ob der franz”sische oder der deutsche 
+Kartensatz verwandt werden soll, welches Bild die Kartenrchseiten haben 
+sollen und ob eine Trennlinie zwischen die Parteien gezogen wird und
+welches Hintergrundmuster gegebenenfalls geladen werden soll. 
+Am Spielbeginn verteilt das Programm die Spielkarten und auf der Grundlage
+der ersten vier aufgedeckten Spielkarten wird vom Computer bzw. dem Spieler
+der Trumpf bestimmt. Neben dem Farbenspiel beherrscht OFFIZIERSSKAT 2.0
+auch den Grand. Es wird nach den g„ngigen Regeln gespielt und gez„hlt. Die 
+aktuellen Augenst„nde werden auf Wunsch angezeigt. Der Spielablauf selbst ist 
+kinderleicht, da nichts anderes zu tun ist, als die auszuspielende Karte mit 
+der Maus anzuklicken. Tastaturbedienung kann jedoch auch eingeschaltet werden.
+Neben der gelungenen Spielfl„che ist vor allem die digitale Sprachausgabe
+bemerkenswert. Sie gibt den vom Computer gew„hlten Trumpf bekannt und h„lt 
+fest, wer ein Spiel gewonnen hat. Wer zu schummeln versucht, wird von der 
+Sprachausgabe unmiáverst„ndlich auf seinen Fehler hingewiesen und gemaáregelt.
+Fr jedes beendete Spiel gibt es, je nach Einstellung, entweder zwischen 
+einem und vier Punkten oder die Abrechnung erfolgt nach Skatregeln.
+Die Vollversion von OFFIZIERSSKAT 2.0 bietet zus„tzlich eine Tip-Funktion 
+w„hrend des Spiels an und besitzt die M”glichkeit ein Spiel vorzeitig zu
+beenden.
+
+Features:
+* Spielkarten im franz”sischen oder deutschen Bild
+* verschiedene Kartenrckseiten
+* individuell anpassungsf„hige Punktez„hlung
+* verschiedene Gewinnstufen einstellbar
+* Abrechnung nach Skatregeln
+* Spielstil einstellbar
+* Animations - und Soundeffekte
+* Sprachausgabe
+* Letzter Stich - und Tip - Funktionen
+* Spielabkrzung
+* Automatischer Spielmodus
+* Steuerung ber Maus und Tastatur
+* Abspeichern der Einstellungen in Konfigurationsdatei
+* Speicherm”glichkeiten verschiedener Einstellungen
+* Anpassung an die eingestellte Bildschirmaufl”sung
+* umfangreiche Online-Hilfe
+
+Warnung! OFFIZIERSSKAT macht schtig. Passen Sie daher gut auf, daá 
+Sie morgens nicht zu sp„t zur Arbeit kommen!
+
+* WinChips 1.01 *
+WinChips ist ein spannendes Strategiespiel. Sie können Ihren Rechner
+oder einen Mitspieler herausfordern. Sinn des Spiels ist es,
+durch Einwerfen von Chips in das Spielfeld ( 6 X 7 ) eine 4er Reihe 
+zu bilden. Hört sich leicht an. Aber probieren Sie es
+einmal! 
+Extras: 4 Spielstufen, Demo, Zugrücknahme, Tip u.v.m. 
+Um WinChips spielen zu können, benötigen Sie mind. einen PC AT
+oder kompatibelen, eine Maus, 2MB RAM, DOS ab Vers. 3.0 sowie Windows3.x.
+Preis der VV: DM 10 - als Update: DM 5
+
+* Ration 1.01 *
+Bei Ration, dem spannenden Kartenspiel unter Windows,
+ist Köpfchen gefragt.
+Versuchen Sie gegen zwei starke vom Computer simulierte Spieler 
+so wenig Punkte wie möglich zu kassieren! Die Regeln sind dabei stark 
+an denen des beim Skat traditionell gespielten Ramschs angelehnt.
+Damit Sie Ihre Gedanken ausschließlich der Taktik widmen können, 
+bietet das Programm eine intuitive Bedienung. Dabei steht Ihnen 
+eine jederzeit abrufbare Hilfe zur Seite, der Sie u. a. auch noch 
+die genauen Spielregeln entnehmen können.
+Auch die liebevoll, im franz. Bild gestalteten, Karten 
+sowie zahlreiche Einstellungsmöglichkeiten sorgen für lang anhaltende
+Spielfreude.
+Ration benötigt PC/AT, mind. 2 MB RAM, Windows 3.x und Maus.
+Preis der VV: DM 20 
+
+* WinLozzi 1.0, Siebzehnundvier 1.0 und Zocken 1.0 *
+sind Glücksspiele mit Karten, bei denen Sie so richtig Geld verlieren
+können.
+Ansprechende Grafik, teilweise Sound und eine kinderleichte Bedienung
+sind auch bei diesen Spielen selbstverständlich.
+Preis der Vollversion: je DM 10,00
+
+Jetzt neu:
+* Doppelkopf Professionell 1.0 *
+Doppelkopf Professionell beherrscht alle Farbspiele, Grandspiele(Damen-,
+Buben- und Damen-Buben-Soli) sowie das Ohne-Trumpf-Spiel einschließlich 
+Varianten wie Joker, erste od. zweite Dolle tief, Limits, Kontra, Re,
+Fuchs, Karlchen Müller u. a.
+In der jederzeit zur Verfügung stehenden One-Line-Hilfe können die
+Doppelkopfregeln nachgelesen werden.
+Bei Spielbeginn wird man bei Doppelkopf Professionell gefragt, ob man
+ein Solo wagen möchte. Hierbei besteht immer die Möglichkeit, sich
+seine Spielkarten nach den Spielarten entsprechend umsortiert anzeigen zu
+lassen.
+Am Spielende wird korrekt abgerechnet und die Spiele in einer fortlaufenden 
+Spielliste eingetragen.
+Es bestehen immer die folgenden Möglichkeiten:
+sich die Stiche des laufenden Spiels nochmals zeigen zu lassen,
+sich einen Tip geben zu lassen und 
+die Partie abzuspeichern.
+Die Bedienung des Programms ist sehr einfach und leicht erlernbar. Alle
+Eingabemöglichkeiten werden am Bildschirm angezeigt.
+Das Programm paßt sich der Bildschirmauflösung an.
+
+Alle unsere Programme laufen unter Windows 3.1x und Windows 9x.
+
+Möchten Sie erst die Sharewareversionen testen, senden Sie bitte für jedes
+Programm, das Sie testen möchten, eine Diskette und einen an sich 
+selbst adressierten und ausreichend frankierten Rückumschlag.
+...Und falls Sie hierzu zu faul sind, können Sie sich den oben genannten
+Flimmerkram für ein paar Pfennige mehr ohne Aufwand zusenden lassen.
+Jedes Sharewarerogramm (inkl.Porto und Versand) für DM 5 (lechs)
+Um weitere Programme des Spielebox-Teams zu bestellen, dürfen Sie sich
+gerne der Datei REGIST.TXT bedienen.
+
+(C)1995-1996 Uwe Rosenke & Ch. Kreutzberg GbR

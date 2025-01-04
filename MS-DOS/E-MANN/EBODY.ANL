@@ -1,0 +1,468 @@
+Ein LM-Manual zu electroBODY
+
+
+
+
+
+
+
+
+
+
+                          X Land-ADAMIK presents
+
+
+
+
+
+
+
+              Û             Û              ÛßßßßÜ ÜßßßßÜ ÛßßßßÜ Û   Û
+        ÛßßßÛ Û ÛßßßÛ Ûßßßß Ûß Ûßßß ÛßßßÛ  ÛÜÜÜÜß Û    Û Û    Û  ßÜß
+        Ûßßßß Û Ûßßßß Û     Û  Û    Û   Û  Û    Û Û    Û Û    Û   Û
+        ßßßßß ß ßßßßß ßßßßß ß  ß    ßßßßß  ßßßßß   ßßßß  ßßßßß    ß
+
+       ÄÄÄÄÄ  Sharewareversion 1.2 (c) Copyrigt by X Land-ADAMIK  ÄÄÄÄÄ
+
+
+
+
+
+
+        Diese Sharewareversion kann von jedem kopiert und an Freunde un
+        Bekannte weitergegeben werden. nderungen des Disketteninhaltes
+        oder der Inhalte einzelner Dateien sind stafbar!
+
+
+
+        Die Sharewareversion ist das erste Level des Spieles electroBODY,
+        welches in der Vollversion nicht nur schneller ist, sondern auch
+        8 groáe und umfangreiche Level mit noch besserer Grafik und mehr
+        als 720 R„umen bietet. Weitere Vorteile und Informationen fr die
+        Registrierung finden Sie am Ende dieses LM-Manuals und beim Be-
+        enden des Spieles.
+
+
+
+
+
+
+
+
+
+
+        HARDWAREANFORDERUNGEN
+        ßßßßßßßßßßßßßßßßßßßßßß
+
+        IBM XT/AT/386/486 oder kompatibler PC mit mind. 640K RAM und
+        12 Mhz. Eine Festplatte wird empfohlen, ist jedoch nicht er-
+        forderlich. Die Bedieung des Spieles erfolgt wahlweise ber
+        die Tastatur oder Joystick.
+
+        electroBODY untersttzt alle Grafikkarten sowie die g„ngigen
+        Soundkarten wie AdLib, SoundBlaster oder Covox.
+
+        electroBODY ben”tigt 580K _freien_ Speichers oder beim aus-
+        gestelltem Sound 480K. Falls das Spiel trotz gengender
+        Speicherkapazit„ten nicht lauff„hig sein sollte, mssen die
+        AUTOEXEC.BAT und/oder die CONFIG.SYS von Speicherfressern und
+        TSRs befreit werden. Ab MS-DOS 5.0 kann man diese auch ber
+        den lh-Befehl in den UpperMemoryBlock geladen werden.
+
+
+
+
+
+       electro BODY
+       ßßßßßßßßßßßß
+
+       Jack wachte auf, schaute sich um und anschliessend warf er
+       einen Blick auf die Uhr. Auf der Erde begann es um diese Zeit hell
+       zu werden. Nachdem er einen Blick in seine Notizen riskiert hatte,
+       merkte er, daá es keinen Sinn hat, sich jetzt mit seinen Forschungen
+       zu besch„ftigen, so daá er beschloá, in seine Kabine zu gehen, um
+       noch ein wenig zu schlafen.
+       Er schaltete alle Ger„te im Labor langsam nacheinander ab, um
+       nicht vollst„ndig aufzuwachen, bis nur noch das leise Ger„usch
+       der Ventilation zu vernehmen war, ber das er sich st„ndig
+       wunderte. Warum haben die Entwickler einer solchen, hochmodernen
+       Weltraumstation so laute Lfter verwendet. Dieses erinnerte ihn
+       immer an einen PC, den er Mal als kleiner Junge zu Weihnachten
+       bekam. Doch vielleicht ist es besser so, denn eine v”llige Stille
+       weit entfernt von jeglichen bewohnten Planeten und der Erde h„tte
+       jeden Menschen zum Wahnsinn treiben k”nnen.
+
+       Jetzt machte er sich auf, um auf die Wohnebene zu kommen, wo sich
+       seine Kabine befand. Unterwegs zum Fahrstuhl fiel ihm das Fehlen
+       des st”renden Lfterger„usches auf. Er wunderte sich, warum
+       ber die Terminals keine Alarmmeldungen ausgegeben werden, denn
+       schlieálich kann ein Versagen der Ventilation und des
+       Ausgleichsystems fr die gesamte Mannschaft zum Verh„ngnis
+       werden. Er rechnete mit dem automatischen Einschalten der
+       Notaggregate, als er die Fahrstuhltr erreichte.
+
+       Er nutze die Gelegenheit und versuchte ber das an der
+       Fahrstuhltr installierte Terminal Verbindung mit der
+       Kontrollstation aufzunehmen. Die Verbindung wurde binnen Sekunden
+       aufgebaut, doch er bekam nur ein gestresstes Gesicht zu sehen und
+       aus dem Lautsprecher klangen die Worte eines der Besatzungsmitglieder:
+
+       - Keine Zeit fr Fragen, wir haben ernsthafte Probleme hier...
+
+       Die Verbindung wurde abgebrochen und langsam versagte die
+       Stromversorgung auf dieser Ebene. Jack beschloá zu seinem Labor zu
+       laufen, in der Hoffnung, eine Lichtquelle zu finden. Von da aus
+       versuchte er auch seine Frau zu erreichen, doch die Verbindung zur
+       Wohnebene konnte nicht aufgebaut werden. Jetzt ging auch hier das
+       Licht aus. Schnell durchsuchte er seinen Schreibtisch und fand
+       eine alte Taschenlampe, die er vor einigen Tagen seinem Sohn
+       wegnahm, um ihn davon abzubringen, sp„t in der Nacht Bcher
+       unter der Bettdecke zu lesen.
+
+       Er taste sich im Dunkeln zum Fahrstuhl durch und muáte dort
+       feststellen, daá die Bedienungselemente seine Befehle nicht
+       annahmen. Er horchte an der Fahrstuhltuer, denn immer weniger
+       vertraute er der Technik, doch diese behielt Recht: im
+       Fahrstuhlschacht tat sich nichts.
+
+       Die Erinnerung, daá es irgendwo einen Notausgang gab, trieb ihn
+       den Korridor entlang, bis zu einer recht ungew”hnlich
+       aussehenenden Tr, die manuell zu ”ffnen war. Eine unendliche
+       Menge metallischer Treppen war zu erkennen, und als er den
+       Lichtpegel der Taschenlampe nach oben richtete, verschwand dieser
+       in der Dunkelheit. Da merkte er, daá er noch einen weiten Weg vor
+       sich haben muss.
+
+
+       Es dauerte ungef„hr zehn oder fnfzehn Minuten bis er die
+       n„chste Ebene erreichte. Als er versuchte, die Tr zu ”ffnen,
+       h”rte er Ger„usche, die jeder Soldat als Kampfger„usche
+       identifizieren wrde. Ein Schuá traff die Tr und er sprang
+       erschrocken zur Seite. Als er erneut versuchte die Tr zu
+       ”ffnen, stellte er fest, daá diese klemmte. Langsam fing er an,
+       sich ernsthafte Sorgen um seine Familie zu machen und stieg die
+       Treppe immer schneller nach oben.
+
+       Kurz bevor er die n„chste Ebene erreicht hatte, h”rte er die
+       dortige Nottr aufgehen, was ihn dazu brachte, sich hinter einem
+       Steuerungskasten zu verstecken. Irgendjemand feuerte einen
+       gewaltigen Schuá ab, dem eine entsprechende Explosion folgte.
+       Pl”tzlich h”rte er, wie sich jemand in seine Richtung bewegte,
+       an ihm vorbei ging, sich umdrehte und seine Waffe auf ihn
+       richtete.
+       Jack lieá die Taschenlampe fallen, die beim Aufprall wieder
+       aufleuchtete...
+
+       Er erkannte einen Bekannten vom Wachpersonal, den er bei einem der
+       vielen Lehrg„nge kennengelernt hat: Jim.
+       Wie verdutzt starrten sich beide an.
+
+       - "Was machst du hier? Ich dachte unten w„re um diese Zeit keiner
+       mehr da."
+
+       - "Stell keine dummen Fragen. Was ist hier berhaupt los?" fragte
+       Jack und schob die Laserwaffe von seinem Koerper weg.
+
+       - "Du wirst es nicht glauben, aber wir werden von Fremden
+       angegriffen. Alle oberen Ebenen werden von ihren Robotern
+       eingenommen. Sie haben die Kontrolle ber alle unsere
+       Steuerungssysteme."
+
+       -"Was ist mit dem Rest der Mannschaft?" wollte Jack wissen.
+
+       -"Nichts, wenn ich das Mal so sagen darf. Ich bin anscheinend der
+       Einzige, der diesen Kampf dort oben berlebt hat."
+
+       -"Und der zivile Teil der Mannschaft? Ich muá zu meiner Familie!"
+
+       Ohne auf Jims Antwort zu warten, bewegte er sich nach oben. Wie ein
+       Blitz rannte Jim hinter im her und hielt in mit Gewalt auf.
+
+       -"H”r auf! Auch sie haben Wiederstand geleistet, doch die Fremden
+       haben einfach die Ausgleichsanlage der Ebene abgestellt und alle
+       anderen Systeme lahmgelegt. Das konnte niemand berleben."
+
+       -"Ich muá dahin!" schrie Jack und versuchte sich von dem gebten
+       Griff des W„chters zu befreien. Doch dieser zerrte ihn nach unten
+       und versuchte ihn zu beruhigen.
+
+       W„hrend beide gegeneinander ank„mpften, sprengte jemand die
+       Nottr und ein Roboter erschien vor ihren Augen. Jim lieá Jack los
+       und feuerte auf den Gegner. Der Schuá traf eine Leitung in der Wand,
+       was den Roboter irritierte. Jim schoá erneut, diesmal jedoch
+       gezielter. Einzelteile des Roboters flogen durch die Luft.
+       Jetzt wurde es Jack klar. Er kann nur noch fliehen und schloá sich
+       Jim an. Beide rannten nach unten, bis Jack nach dem Ziel fragte.
+
+
+       -"Wir mssen zum Hangar. Dort unten drfte noch keiner der
+       Fremden sein. Es ist die einzige Chance unser Leben zu retten."
+
+       Kurze Zeit sp„ter kamen sie bei der Hangartr an und ”ffneten
+       sie, aufgrund der fehlenden hydraulischen Untersttzung, nur mit
+       gr”áter Mhe. Einige Raumgleiter standen abflugbereit. Sie
+       beschlossen einen der groáen Gleiter zu nehmen, da keinesfalls
+       bekannt war, wie lang ihre Reise dauern wrde.
+
+       W„hrend Jim die Systeme berprfte, nahm Jack in der Machine Platz und
+       bestaunte die Bedienungselemente, die er bislang nur von auáen
+       kannte. Als Jim wieder einstieg, sagte er:
+
+       -"Hier bist du verkehrt. Du muát an die Laserkanonen."
+
+       -"Laserkanonen? Erwartest du einen Angriff?"
+
+       -"Nein, aber ich muáte alles im Hangar lahmlegen und aus Versehen
+       habe ich die Rampenautomatik besch„digt. Nun mssen wir diese
+       sprengen, um hier heil 'rauszukommen. In der linken oberen Ecke
+       wird grn die Entfernung angezeigt. Wenn diese 20 erreicht, muát
+       du die SDL-Laser abfeuern. Nicht frher und nicht sp„ter."
+
+       Bevor Jack irgendetwas sagen konnte, h”rte er wie die Maschinen
+       gestartet wurden und schon erreichte seine Anzeige den Wert 20. Er
+       feuerte die Waffen ab, doch nicht nur die SDL, sondern auch die
+       VFGs, die zusammen mit den Turbinen den Gleiter so schnell
+       beschleunigten, daá beide ohnm„chtig wurden...
+
+
+       Als sie wieder zu sich kamen, waren sie weit von der Raumstation
+       entfernt, fern jeder Gefahr. Das Bordsteuerungssystem flog sie
+       automatisch zum n„chsten besiedelten Planeten. Bevor sie diesen
+       erreichten, wurden sie von einem Patroilliengleiter aufgehalten
+       und erz„hlten der Besatzung, was sie erlebt haben.
+
+       Jim kehrte zur Erde zurck, wo er einen h”heren Posten besetzen
+       durfte und Jack verblieb eine l„ngere Zeit unter „rztlicher
+       Beobachtung in einer Klinik. Die ganze Zeit ber dachte er nur an
+       Rache.
+
+       Nachdem er aus der Klinik entlassen worden ist, kehrt auch er auf
+       die Erde zurck und lieá sich jede Entsch„digung von den
+       Versicherungen auszahlen. Dieses Geld investierte er in einige,
+       nicht immer legale Gesch„fte, bis er gengend Geld hatt, um
+       seinen Rachefeldzug zu starten.
+
+       Er flog zum Planeten XEPTON, der fr die Ausbildung bester
+       K„mpfer berhmt war und lieá sich dort ausbilden. Kurze Zeit
+       sp„ter unterzog er sich einigen komplizierten und gef„hrlichen
+       Operationen, die aus einem Menschen ein cyborg-„hnliches Wesen
+       machten. Ein mechanisch-menschlicher K”rper, mit dem Verstand und
+       den Qualtit„ten eines Menschen, untersttzt durch ein
+       intelligentes Computersystem. Trotz seines Alters hatte er mehr
+       Kraft und Ausdauer als jeder jngere und die gesammelten
+       Erfahrungen auf der Raumstation k”nnen ihm helfen, seine Mission
+       erfolgreich zu beenden. Desweiteren kann er mit der Untersttzung
+       des Milit„rs rechnen, doch erst, wenn er selbst diese Mission
+       berlebt....
+
+
+       Nun sind Sie Jack, ein Cyborg mit bermenschlichen Qualit„ten,
+       ausgerstet mit High-Tech und einer Superwaffe, die mit
+       entsprechender Energie fast alles zerst”ren k”nnte...
+
+       Ihre Gegner sind jedoch auch nicht ohne, denn schlieálich machten
+       sie vielen Soldaten nicht nur das Leben schwer, sondern beendeten
+       dieses auch erbarmungslos.
+       Durch die vielen Versuche, die Weltraumstation zurck zu erobern,
+       sahen sich die Fremden gezwungen, einige nderungen an dieser
+       vorzunehmen und diverse Sicherheitsmechanismen einzubauen, die den
+       Menschen nur aus Science-Fiction-Filem oder der Zeit der gipter
+       bekannt sind...
+
+       Zus„tzlich wurden viele Einrichtungen der Menschen durch die der
+       Fremden ausgetauscht. Als bestes Beispiel k”nnen hier die
+       Fahrsthle dienen. Diese wurden entfernt und an ihrer Stelle bauten
+       die Fremden Teleporter auf. Wohin diese Jack bringen werden weis man
+       nie...
+
+
+
+        STEUERUNG
+        ßßßßßßßßß
+
+        Die Steuerung des Spieles erfolgt wahlweise ber die numerische
+        Tastatur oder einen PC-Joystick. Der Joystick kann mit <F8>
+        eingeschaltet oder mit <F7> ausgeschaltet werden.
+
+        Cursortasten                      Funktionstasten
+        ------------                      ---------------
+
+        <OBEN> --- Springen               <F2> - Save (nur Vollversion)
+        <UNTEN> -- Teleportieren          <F3> - Restore (n. Vollversion)
+        <LINKS> -- Links gehen            <F5> - Pause (weiter mit ENTER)
+        <RECHTS> - Rechts gehen           <F6> - Sound EIN/AUS
+        <SPACE> -- Feuern                 <F10> - Spiel beenden
+
+
+
+        LET's GO
+        ßßßßßßßß
+
+        Das Spiel sollte mittels der HDINST.BAT auf die Festplatte
+        installiert werden, wobei man HDINST mitteilen muá, welche
+        Laufwerkskennung die Festplatte auf Ihrem Rechner hat.
+        Meist erfolgt die Installation ber HDINST C:
+
+        Jetzt wird electroBODY auf der Festplatte im Verzeichnis \EB
+        installiert und nach der Installation erfolgt der automatische
+        Aufruf des Setupprogrammes, ber das Sie electroBODY mitteilen
+        k”nnen, welche Konfiguration fr das Spiel verwendet werden soll.
+
+
+        Nachdem das Spiel installiert worden ist, kann man es durch die
+        Eingabe von EB aufrufen. Zuerst erscheint der Intro-Bildschirm.
+        An dieser Stelle kann man entweder die <LEERTASTE> (Space)
+        bet„tigen um das Spiel zu beginnen oder einige Sekunden warten,
+        damit electroBODY das Demo startet, das einen geringen und nicht
+        gerade den interessantesten Teil des letzten Levels der Vollversion
+        vorfhrt.
+
+
+
+        Covox-SoundModul
+        ßßßßßßßßßßßßßßßß
+
+        Das Covox-Soundmodul ist eine „uáerst interessante Alternative
+        gegenber den, doch recht teuren, Soundkarten wie AdLib oder
+        SoundBlaster.
+        Beim Covox-Soundmodul handelt es sich um einen speziellen
+        D/A-Wandler, der von allen XLanD-ADAMIK-Spielen untersttzt wird.
+
+        Das Covox-Soundmodul wird an die parallele Schnittstelle des PCs
+        angeschlossen und ber ein Chinch-Kabel mit Ihrer HiFi-Anlage, oder
+        anderen Ger„ten, die Chinch-Eing„nge besitzen, verbunden.
+
+        Die Ergebnisse, die das Covox-Soundmodul liefert, k”nnen ohne
+        Bedenken mit der Soundqualit„t der g„ngigen Soundkarten verglichen
+        werden.
+
+        Bei Verwendung des Covox-Soundmoduls ansstelle des PC-Lautsprechers
+        wird das Spiel auf die Geschwindigkeit der Vollversion gebracht!
+                                                (Kleiner Tip des Autors ;-)
+
+        Andere XLanD-ADAMIK-Produkte
+        ßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+        Auáer electroBODY gibt es momentan das Spiel HeartLight PC, eine
+        neue Umsetzung der Boulderdash-Spielidee. HeartLight PC bietet
+        excellente Grafik und durchgehende Hintergrundmeldodien sowie
+        realistische Vordergrundsounds.
+
+        Derzeit werden weitere Programme vorbereitet, die sp„testens im
+        M„rz '93 erscheinen werden:
+
+        DOSSufler - Eine ausgezeichnete Benutzerhilfe fr MS-DOS, die nicht
+                    nur im Hintergrund ausfhrliche Informationen zu den
+                    einzelnen Funktionen bietet, sondern erl„utert
+                    automatische alle auftrettenden Fehlermeldungen und
+                    gibt Ratschl„ge, wie diese behoben werden k”nnen.
+
+        Robbo ----- Ein weiteres Spiel mit ausgezeichneter Grafik und
+                    perfektem Sound. Was die Spielidee angeht: lassen Sie
+                    sich berraschen...
+
+
+
+
+       VOLLVERSION
+       ßßßßßßßßßßß
+
+        Die Vollversion bietet sehr viele Vorteile gegenber der
+        Sharewareversion. Hier die Wichtigsten:
+
+        - 8 Level mit mehr als 720 R„umen
+        - Neue Gegner und tkische Fallen
+        - Noch bessere Grafik, mehr Sound, Sprache und Melodien
+        - wesentlich schneller als die Sharewareversion
+        - Save & Restore-Funktion
+        - MC mit dem gesamten electroBODY-Soundtrack
+        - Deutsches Handbuch & Registierkarte
+        - Nutzung der Hotline bei Fragen zum Spiel oder Ihren Computer!
+        - Windows-F„higkeit (386'er)
+
+
+        PREISE
+        ßßßßßß
+
+
+       elektro BODY  => DM 49,- /sfrs. 44,-  /™S 350,-
+
+       Heartlight PC => DM 49,- /sfrs. 44,-  /™S 350,-
+
+       *COVOX-SoundM => DM 19,- /sfrs. XXXX  /™S XXX,-
+
+
+
+
+
+
+
+
+       * Das Covox-SoundModul wird mit deutschsprachiger
+         Installationsanleitung und Testsoftware ausgeliefert.
+
+
+
+        Ihre Bestellung kann entweder ber Ihren H„ndler erfolgen oder
+        direkt bei
+
+
+
+
+        CDV Software
+        Postfach 2749
+        W-7500 Karlsruhe 1
+
+        Telefon: 0721 / 97224-0
+        Telefax: 0721 / 21314
+        Btx:     *BTX#
+
+
+         Viel Spaá mit Programmen von X LanD-ADAMIK wnscht Ihnen
+
+                                CDV Software
+
+                          øøøøøøøøøøøøøøøøøøøøøøø
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,161 @@
+        Herzlichen Dank fr Ihr Interesse an unseren Spielprogrammen.
+	
+	Wir vertreiben diese Software als Shareware,
+	d. h. Sie erhalten fr die erhobene Gebhr zun„chst
+        voll spielf„hige Sharewarefassungen unserer
+	nur in wenigen Funktionen eingeschränkten 
+	Programme zum Kennenlernen und Testen. 
+	Wollen Sie ein Programm danach regelm„áig nutzen,
+	mssen Sie zus„tzlich die Registrierungsgebhr  
+	an das Spielebox-Team entrichten. Sie erhalten dann
+	die jeweilige Vollversion sowie eine Registriernummer 
+	und weitere Leistungen wie Benachrichtigungen ber 
+	neue und verbesserte Programme des Spielebox-Teams,
+	verbilligte Updates und Untersttzung bei Problemen.
+
+	Alle unsere Programme laufen unter Windows 3.1x und Windows 9x.
+	
+	Hier nun Kurzbeschreibungen unserer Programme:
+
+	* Doppelkopf Professionell 1.0 
+	Das in Zusammenarbeit mit dem Deutschen Doppelkopf-Verband e. V. entwickelte
+	Doppelkopf Professionell beherrscht alle Farbspiele, Grandspiele(Damen-,
+	Buben- und Damen-Buben-Soli) sowie das Ohne-Trumpf-Spiel einschließlich 
+	Varianten wie Joker, erste od. zweite Dolle tief, Limits, Kontra, Re,
+	Fuchs, Karlchen Müller u. a.
+	In der jederzeit zur Verfügung stehenden One-Line-Hilfe können die
+	Doppelkopfregeln nachgelesen werden.
+	Bei Spielbeginn wird man bei Doppelkopf Professionell gefragt, ob man
+	ein Solo wagen möchte. Hierbei besteht immer die Möglichkeit, sich
+	seine Spielkarten nach den Spielarten entsprechend umsortiert anzeigen zu
+	lassen.
+	Am Spielende wird korrekt abgerechnet und die Spiele in einer fortlaufenden 
+	Spielliste eingetragen.
+	Es bestehen immer die folgenden Möglichkeiten:
+        Sich die Stiche des laufenden Spiels nochmals zeigen zu lassen,
+	sich einen Tip geben zu lassen und 
+	die Partie abzuspeichern.
+	Die Bedienung des Programms ist sehr einfach und leicht erlernbar. Alle
+	Eingabemöglichkeiten werden am Bildschirm angezeigt.
+	Doppelkopf Professionell paßt sich der Bildschirmauflösung an.
+	Preis der Vollversion: 30,00 DM
+
+	* Ration 1.01
+	RATION ist ein Kartenspiel fr 3 Spieler, das sich in seinen
+	Regeln eng an das Spiel Ramsch anlehnt.
+	Dabei simuliert der Computer den 2. und 3. Spieler.
+	RATION ist kein Glcksspiel. K”pfchen ist gefragt! 
+	Ziel jedes Spielers ist es, beim Bedienen und Stechen so
+	wenig, auf gar keinen Fall aber die meisten Augen, zu 
+	erhalten.
+	Das Programm Ration bietet viel Bedienungskomfort, so daá
+	man den Kopf ausschlieálich der Taktik widmen kann.
+	Sollte man jedoch wirklich einmal nicht zurechtkommen,
+	bietet die jederzeit verfgbare Hilfe (im Windows-
+	Help-Format) Beistand.
+	Eine genaue Beschreibung der Unterschiede zur Vollversion
+	ist in der Programmhilfe aufrufbar.
+	Lassen Sie sich noch eine Warnung auf den Weg geben:
+	Von diesem Spiel kommt man nicht so schnell wieder los!
+	Preis der Vollversion: 20,00 DM, Update: 10,00 DM
+
+	* Offiziersskat 2.0
+        Eine beliebte Variante des Skatspiels ist das auch unter dem Namen
+        Bauernskat bekannte OFFIZIERSSKAT.
+        Wem fr dieses Kartenspiel der Spielpartner fehlt, vergngt sich mit 
+        dem deutschen Programm OFFIZIERSSKAT 2.0.
+        Wie beim "richtigen" Skat geht es bei OFFIZIERSSKAT 2.0 um das Ausspielen, 
+        Abwerfen und Stechen von Karten.
+        Bevor es losgeht, k”nnen die Eckparameter des Spiels festgelegt werden. Hier
+        stehen unter anderen zwei Spielst„rken des Computers zur Auswahl, es wird 
+        festgelegt, wer als erster ausspielt, ob der franz”sische oder der deutsche 
+        Kartensatz verwandt werden soll, welches Bild die Kartenrchseiten haben 
+        sollen und ob eine Trennlinie zwischen die Parteien gezogen wird und
+        welches Hintergrundmuster gegebenenfalls geladen werden soll. 
+        Am Spiel beginn verteilt das Programm die Spielkarten und auf der Grundlage
+        der ersten vier aufgedeckten Spielkarten wird vom Computer bzw. dem Spieler
+        der Trumpf bestimmt. Neben dem Farbenspiel beherrscht OFFIZIERSSKAT 2.0
+        auch den Grand. Es wird nach den g„ngigen Regeln gespielt und gez„hlt. Die 
+        aktuellen Augenst„nde werden auf Wunsch angezeigt. Der Spielablauf selbst ist 
+        kinderleicht, da nichts anderes zu tun ist, als die auszuspielende Karte mit 
+        der Maus anzuklicken. Tastaturbedienung kann jedoch auch eingeschaltet werden.
+        Neben der gelungenen Spielfl„che ist vor allem die digitale Sprachausgabe
+        bemerkenswert. Sie gibt den vom Computer gew„hlten Trumpf bekannt und h„lt 
+        fest, wer ein Spiel gewonnen hat. Wer zu schummeln versucht, wird von der 
+        Sprachausgabe unmiáverst„ndlich auf seinen Fehler hingewiesen und gemaáregelt.
+        Fr jedes beendete Spiel gibt es, je nach Einstellung, entweder zwischen 
+        einem und vier Punkten oder die Abrechnung erfolgt nach Skatregeln.
+        Die Vollversion von OFFIZIERSSKAT 2.0 bietet zus„tzlich eine Tip-Funktion 
+        w„hrend des Spiels an und besitzt die M”glichkeit ein Spiel vorzeitig zu
+        beenden.
+        
+        Features:
+        * Spielkarten im franz”sischen oder deutschen Bild
+        * verschiedene Kartenrckseiten
+        * individuell anpassungsf„hige Punktez„hlung
+        * verschiedene Gewinnstufen einstellbar
+        * Abrechnung nach Skatregeln
+        * Spielstil einstellbar
+        * Animations - und Soundeffekte
+        * Sprachausgabe
+        * Letzter Stich - und Tip - Funktionen
+        * Spielabkrzung
+        * Automatischer Spielmodus
+        * Steuerung ber Maus und Tastatur
+        * Abspeichern der Einstellungen in Konfigurationsdatei
+        * Speicherm”glichkeiten verschiedener Einstellungen
+        * Anpassung an die eingestellte Bildschirmaufl”sung
+        * umfangreiche Online-Hilfe
+
+        Warnung! OFFIZIERSSKAT macht schtig. Passen Sie daher gut auf, daá 
+        Sie morgens nicht zu sp„t zur Arbeit kommen!
+	Preis der Vollversion: 20,00 DM
+
+	* WinChips 1.01
+	WinChips ist ein spannendes Strategiespiel. Sie k”nnen 
+	Ihren Rechner oder einen Mitspieler herausfordern. 
+	Sinn des Spiels ist es, durch Einwerfen von Chips 
+	in das Spielfeld ( 6 X 7 ) eine 4er Reihe zu bilden. 
+	H”rt sich leicht an. Aber probieren Sie es einmal! 
+	Extras: 4 Spielstufen, Demo, Zugrcknahme, Tip u.v.m. 
+	Preis der Vollversion: 10,00 DM, Update: 5,00 DM
+
+	* WinLozzi 1.0
+	WinLozzi ist ein spannendes Glšcksspiel. Es wird mit 
+	zwei Kartenp„ckchen a 32 Karten gespielt und „hnelt 
+	in seinen Regeln stark der bekannten Schlesischen Eisenbahn. 
+	Versuchen Sie die Bank zu sprengen!
+	Extras: 2 Spielarten, Kartenrcknahme, Highscore u.v.m.
+	Preis der Vollversion: 10,00 DM
+
+	* Siebzehnundvier 1.0
+	Das bekannte Glücksspiel jetzt auch auf Ihrem PC!
+	Mit Sprachausgabe und vielen Optionen.
+	Preis der Vollversion: 10,00 DM
+
+	* Zocken 1.0
+	Ein Glückspiel, bei dem Sie 2000 DM 
+	gewinnen können!
+	Preis der Vollversion: 10,00 DM
+	
+	
+	A n g e b o t !
+	Alle  sieben vorgenannten Vollversionen:  nur 70,00 DM
+	
+	
+	Geplante Spiele:
+	Skat, Schafskopf,
+	Klammerjass, Aufwärts Abwärts,
+	Schwimmen u.a.
+
+	Noch ein Wort in eigener Sache:
+	Mit einer Registrierung f”rdern Sie nicht nur die Zukunft
+	unseres Spielebox-Teams, sondern auch dieses Vertriebssysthems.
+	Wir haben drei Jahre in die Entwicklung dieser Programme 
+	investiert und wir sind fest entschlossen, auch weiterhin 
+	durch harte Arbeit Ihr Vertrauen zu rechtfertigen.
+	
+	Viel Spaá am Testen unserer Spiele wnscht
+	Ihr Spielebox-Team
+
+        (c) 1995-1996 U. Rosenke u. Ch. Kreutzberg

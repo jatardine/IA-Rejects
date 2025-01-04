@@ -1,0 +1,53 @@
+	
+	_________________________            _____________________
+	Name,Vorname                         PLZ, Ort, Datum    
+	
+	_________________________            _____________________
+	Stra·e,Hausnummer                    Telefon  
+					     _____________________
+	Herrn                                Fax
+	Uwe Rosenke
+	Halskestr. 6
+	
+	12167 Berlin
+
+
+	(X)Ja, ich mîchte mich registrieren lassen und erhalte nach 
+	Eingang der RegistrierungsgebÅhr die Vollversionen der 
+        angekreuzten Programme und eine Registrierungsnummer.
+
+        ( ) Doppelkopf Professionell               30.00 DM
+	( ) Offiziersskat 2.0                      20,00 DM
+	( ) Ration 1.01                            20,00 DM
+	( ) WinChips 1.01                          10,00 DM
+	( ) WinLozzi 1.0                           10,00 DM
+	( ) Siebzehnundvier 1.0                    10,00 DM
+	( ) Zocken 1.0                             10,00 DM
+	
+        ( ) Alle sieben Programme fÅr zusammen nur 70,00 DM
+	
+        ( ) Alle sieben Programme (Shareware)       7.00 DM
+
+	Die RegistrierungsgebÅhr in Hîhe von DM ______ habe ich 
+
+	( ) auf das Konto 3048 85-107 bei der Postbank Berlin,
+	    BLZ 100 100 10, Kto.-Inh. Uwe Rosenke, Åberwiesen.
+	( ) als Verrechnungsscheck beigefÅgt.
+	( ) in bar (nur Scheine) oder Briefmarken (a DM 1,00) beigefÅgt.
+
+	Die Sharewareversion habe ich erhalten von:
+
+        ( ) Freunden   ( ) Weltbild-Verlag  ( )_______________
+
+	Meine Anregungen zum Programm:
+
+	__________________________________________________
+	
+	(X) Die Hinweise in der Datei HINWEIS.TXT habe ich zur 
+	    Kenntnis genommen.
+	    
+
+	_________________________
+	Unterschrift
+
+	(X) Zutreffendes ist angekreuzt
