@@ -1,0 +1,116 @@
+
+
+               Tank Wars
+               Release 2.0
+               Copyright (C) 1990 by Kenny Morse
+               -----------------------------------------------
+
+
+DESCRIPTION:  This is a game for 1 to 10 players.  Opponents
+     attempt to destroy each others tanks by firing various
+     weapons at them.  There are also 6 computer intelligences
+     available to compete against.
+
+NAME CHANGE:  This program was written under the working title of
+     BOMB, as the files are still called.  However, due to the
+     fact that there is already a game of that name, I was forced
+     to change it to Tank Wars.  If there is already a game of
+     that name, would the author please inform me so that I can
+     change the name again.
+
+REQUIREMENTS:  This program runs in 320x200x256 color mode. 
+     Currently it will only run with a VGA monitor attached, and
+     running as the current monitor.  A mouse is not required,
+     but utilized if present and Microsoft compatible.  This was
+     written on my 16MHz PS/2 55SX.  The game is currently
+     untested on machines of greater speed.  At 8MHz certain
+     parts are a little slow.  At 4.77Mhz the game is painfully
+     slow.
+
+SHAREWARE:  TANK WARS is distributed as Shareware.  You are free
+     to try the game and make copies for others.  If you continue
+     to use the game, however, you are required to pay the author
+     a registration fee of $10. Please include any comments you
+     may have.  Registered users will be added to my mailing
+     list.  You will be notified of major releases of this
+     program.
+
+FILES:  The following files are included in this package:
+
+     BOMB.EXE:      Main File
+     BOMB.OVR:      Overlay File
+     BOMB.TXT:      This File
+     BOMB.DOC:      Documentation
+     REVISION.HST:  List of changes
+     BOMB1.RAW:     Graphics file
+     BOMB2.RAW:     Graphics file
+     BOMB.ICO:      Icon file for Windows 3.0 users.
+
+     All previously listed files are Copyright (C) 1990 by Kenny
+     Morse and may not be modified in any way.
+
+SUPPORT:  Currently electronic support will be provided to
+     everybody.  I can be reached on Prodigy at TGTM35B, and on
+     Compuserve at 76427,3305.  My address is listed in the
+     documentation file.  Mailed questions will be answered only
+     for registered users, please include a self addressed
+     stamped envelope or CIS or Prodigy ID so that I can respond.
+
+TECHNICAL INFO:  This program has been tested on very few
+     machines.  It was designed on a 16Mhz PS/2 55SX, with 6MB of
+     memory.  Thus it is almost sure to work on another 55SX.  It
+     has shown repeated problems ATI VGA cards.  The ATI does not
+     palette switch correctly with my program.  If this problem
+     exists on your machine, player 3 will be the same color as
+     player 1, instead of being blue as it should be, and the
+     third weapon in the selection strip will be highlighted
+     regardless of whether you own it.  I would appreciate a
+     response from any ATI users stating whether or not they
+     encounter this problem.  Since this problem was first
+     discovered, it has been reported on 3 other ATI's.  I have
+     rewritten the palette routines, with luck this solved the
+     problem.  If not, I would appreciate a response from anyone
+     with knowledge about ATI cards.
+          When this problem manifests itself it can become
+     difficult to determine what weapon is currently selected.  I
+     am working on the problem, for the moment the best advice I
+     can offer is that you when you are ready to fire, call up
+     your status, in the status box the current weapon will be
+     red.
+          Again, the problem may be solved. If anyone using this
+     new version has previously had the problem, would you please
+     inform me as to whether it is fixed or not.  There were many
+     things I did not add because they would not work on
+     problemed cards.  If the problem is solved I can add these
+     in. 
+
+
+GRAPHICS FILES:  It is no longer necessary to have BOMB1.RAW and
+     BOMB2.RAW to play the game.  If you need the disk space,
+     delete BOMB1.RAW.  This will cause the program to only load
+     BOMB2.RAW and the title screen will be less spectacular. 
+     Deleting BOMB2.RAW causes the title screen to be skipped
+     altogether.
+
+MEMORY USAGE:  This program was written in Turbo Pascal, and uses
+     the internal overlay manager.  If EMS is present, it will
+     load the entire overlay file into EMS. It will then swap in
+     and out of conventional memory.  If you don't have EMS, all
+     swapping will be to/from disk.  The program will take
+     advantage of all the conventional memory present. If you
+     have enough conventional memory, the entire overlay will be
+     loaded in, and no swapping will occur.  If you have less
+     memory, swapping will occur and the program will run
+     noticeably slower.  To determine whether you have enough
+     memory, simply execute BOMB /MEM.  If the number listed as
+     "Overlay Set To" is greater than the size of the overlay
+     (BOMB.OVR), no swapping is necessary.
+
+ACKNOWLEDGEMENTS:  I would like to thank Borland, for without
+     Turbo Pascal, this program could never have been written.  I
+     would also like to thank Microsoft, for I could not have
+     written this so easily without a multi-tasking environment. 
+     I also would like to thank WordPerfect Corp. for WordPerfect
+     with which I wrote these files.  Finally I would like to
+     thank Chris Sparks and Brett Moseley for their endless hours
+     of beta testing and contributed ideas. 

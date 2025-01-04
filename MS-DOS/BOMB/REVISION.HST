@@ -1,0 +1,108 @@
+
+
+               Tank Wars
+               Release 1.5
+               Copyright (C) 1990 by Kenny Morse
+               -----------------------------------------------
+
+                        Revision History
+
+ V1.0     October 28, 1990: (116K) First Release
+
+ V1.1     November 5, 1990: (90K) Speed Upgrade
+          Minor bug fix. When a 5Meg nuke exploded, player 10s
+               trail would flash due to a palette overlap.
+          Major speed upgrade, CRI's are now travel 10 times
+               faster, and players die faster too.
+          Code size greatly decreased.
+          BOMB2.RAW rewritten to enhance compression.
+          This release was made mainly due to the fact that I
+               recently discovered numerous techniques to
+               optimize code.
+
+ V1.2     November 16, 1990: (111K) Program Enhancement
+          Graphics files BOMB1.RAW and BOMB2.RAW no longer
+               necessary for operation, see addition to BOMB.TXT.
+          The tanks now fall at a decent speed during setup.
+          BOMB.ICO added for MS Windows 3.0 users.
+          Three new types of death have been added, death by
+               dirt, fading away, and nuclear meltdown.
+          We finally have tank on the title screen thanks to
+               Chris Sparks.
+          A new computer intelligence has been added, Twanger.
+               This ones a killer.
+          Bug fixed that caused the program to hang if you hit
+               somebody with a ball of dirt and tracking system.
+          Command line parameters are now documented.
+
+ V1.3     November 23, 1990: (121K) Program Enhancement
+          More code changed from TP to ASM, causing some
+               noticeable speed increases and some smoother
+               movements.
+          If the only people playing are computer intelligences,
+               the game will attempt to go faster in certain
+               places that were slowed down for user convenience.
+          Twangers will no longer pick on the players on the left
+               first, they now shoot towards the easy kills.
+          There was a fundamental error in Lobbers strategy,
+               preventing him from accurately shooting to the
+               left, this has been corrected.
+          Computers can now buy and use weapons. Currently they
+               only have the simplest of algorithms, but they're
+               much more dangerous.
+          A new menu option and command line parameter has been
+               added to select weather computers are allowed to
+               purchase weapons.
+
+ V1.4     November 30, 1990: (111K) Code Optimization & Bug Fixes
+          For this release, I basically went through all the code
+               line by line looking for places to trim down,
+               speed up, and correct the code.  This reduced the
+               size of the program, and increased the speed by a
+               almost unnoticeable amount.
+          Some people noticed that very rarely the bomb would
+               continue to travel, regardless of the dirt in the
+               way until it hit a tank.  This happened when power
+               was set to exactly 800, and has been fixed.
+          The amount owned of certain weapons was not showing up
+               on the weapons list.  Sorry for this oversight,
+               that too has been corrected.
+          When playing a many-player game, there is no longer a
+               60 pixel margin on each side that caused the edge
+               players to be side by side.
+          The direction arrow was not being updated when the tank
+               would change direction by way of changing the
+               angle, this is now fixed.
+          TP version 6.0 arrived, so it has been re-compiled.
+               With the new system kernel it shrunk by 10K.
+               There was also a minor change in speed, but almost
+               unnoticeable.
+
+V1.5      December 3, 1990: (112K) Program Enhancement
+          All keyboard handling is now controlled by the program,
+               BIOS is still accessed at times but not as often.
+               This has caused a dramatic speed increase in angle
+               and power selection, it now requires quite a
+               delicate touch to change either by 1.  This also
+               game me the ability to add the next few additions.
+          A sound toggle has been added.  Pressing Ctrl-S at any
+               appropriate time will turn sound on or off.
+          A Mass Kill command has been added.  At any appropriate
+               time you may press Ctrl-M.  You will be asked to
+               confirm.  If you say Yes, all players on the
+               screen will die after the current players turn
+               ends.  This will end battles between computers
+               that can go on for hours.
+          You can now exit the game at almost any time.  At any
+               Appropriate time (As defined in the Documentation)
+               you may press Ctrl-Q to quit the game.  At most of
+               the non Appropriate times you can press Ctrl-Break
+               to exit.
+          If you wish to increment/decrement anything by 1 while
+               using the keyboard hold down ALT while pressing
+               the appropriate key.
+          All palette handling had been taken out of Turbo's
+               hands and are now controlled directly by the
+               program.  Hopefully this will cure the ATI
+               problem.
+
