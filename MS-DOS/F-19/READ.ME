@@ -1,0 +1,113 @@
+
+F-19 Stealth Fighter
+Version 435.04,  5/16/89
+Copyright (c) MicroProse Software, 1988. All rights reserved.
+
+
+                    Changes for Version 4
+                    ---------------------
+
+
+The promotion sequence has been corrected and now agrees with the manual.
+
+The lockup on certain clones, particularly Lazers, has been fixed.
+
+The divide overflow problem on certain clones/joystick cards has been fixed.    
+
+Mobile SAMs are now treated as SAMs (as documented) and not as bunkers.
+
+A low altitude pull-up warning has been added to Realistic flight.
+
+Missions with carrier landings and takeoffs work.
+
+The autopilot problem associated with wide-angle views has been corrected.
+
+CGA cockpit color usage has been improved.
+
+The AdLib sound board is now supported.
+
+Tandy sounds have been improved.
+
+The Carlsbad bridge under the mountain has been fixed.
+
+The Alt-H control for the Pitch Ladder has been added.
+
+
+
+
+1) Please note the following color changes to 
+   the CGA 4-color Satellite/Radar Map.
+
+        CGA 4-color only
+        ----------------
+        Flickering White/Black Dot Your Aircraft
+        Black Dot                  Mission Objective on ground
+        Blinking Blue/Black Dot    Mission Objective in air
+        Blinking Blue/Red Dot      Other aircraft 
+        Black Dot                  Ground Radar
+        Blinking White Dot         Enemy missile
+        Dotted Line                Pulse Radar
+        Solid Line                 Doppler Radar
+        White Dot                  Take Off and Landing locations
+
+
+2) Sound Board Support:
+   a) Innovation     
+      Installation: For 360K floppy users copy the file BSOUND.EXE from 
+      Disk B to your copy of Disk A.  You will have to delete either
+      ISOUND.EXE(standard IBM sounds) or TSOUND.EXE(Tandy sounds) to make
+      room for BSOUND.EXE.  For other users follow the standard installation
+      instructions.
+      Running: Run the game with "F19 /AB" to use the Innovation driver.
+       
+   b) AdLib     
+      Installation: For 360K floppy users copy the file ASOUND.EXE from 
+      Disk B to your copy of Disk A.  You will have to delete either
+      ISOUND.EXE(standard IBM sounds) or TSOUND.EXE(Tandy sounds) to make
+      room for BSOUND.EXE.  For other users follow the standard installation
+      instructions.
+      Running: Run the game with "F19 /AA" to use the AdLib driver.
+       
+
+3) Graphic Card Problems
+   a) Everex EVGA - This card has a bug in the BIOS that locks up F19.  If 
+      you have this card call Everex, they have a memory resident patch for
+      this problem.
+   b) ATI VGA Wonder - This card has a hardware problem that prevents F19
+      from working in VGA mode. We have heard that the following batch file
+      should make the game should play correctly in VGA mode:
+
+                vconfig fix on
+                F19
+                vconfig fix off
+
+
+      The vconfig utility program is supplied on the ATI VGA Wonder disks.
+
+
+
+
+4) New Features:
+
+   The ALT-H key will now toggle the Pitch Ladder between always on and only 
+   on in high pitch angles.
+
+   Low altitude buzzer - In Realistic flight mode a warning buzzer will sound
+   when you are in danger of crashing into the ground.  In the other modes 
+   the "ground avoidance" system kicks in just like the previous versions.  
+
+
+
+5) If you wish to make your Stealth Fighter look like the EF117A (the Air
+   Force version) do the following on either your working copy of Disk B or
+   in your F19 directory.
+
+          copy STFLT.3D3 STFLTF19.3D3
+          copy STFLT117.3D3 STFLT.3D3
+
+
+   This preserves the current picture of the plane in STFLTF19.3D3. If you 
+   want to restore the original picture simply:
+
+          copy STFLTF19.3D3 STFLT.3D3
+
