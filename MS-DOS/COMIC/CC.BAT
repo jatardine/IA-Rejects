@@ -1,0 +1,14 @@
+echo off
+cls
+comic
+ECHO.
+ECHO.
+ECHO.
+echo NOCH EINMAL SPIELEN ?
+ECHO.
+ECHO.
+ECHO DANN ENTER, SONST (STRG) UND (C) DRšCKEN
+ECHO.
+ECHO.
+PAUSE
+cc

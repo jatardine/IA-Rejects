@@ -1,0 +1,281 @@
+============================================================================
+--------                       DoubleLink                            -------
+============================================================================
+
+                     (c) 1991 by Paul R. Tupaczewski
+
+                  Release version 1.0, January 19, 1991.
+
+
+
+                      *> This game is SHAREWARE. <*
+
+The Shareware Concept: This game is part of a growing trend called
+                       "Shareware." You may give this game to all your
+                       friends. If you or they like it, and find themselves
+                       playing it often, then a donation of $15 is
+                       requested. This entitles you to future updates and
+                       source code. Keep Shareware alive by supporting it!
+
+
+   If you enjoy DoubleLink, a donation of $15 is requested. Send to:
+
+         Paul Tupaczewski
+         Stevens Institute of Technology
+         Box S-1400
+         Hoboken, NJ 07030-5991
+
+   Comments? Questions? Criticisms? If you have access to either InterNet
+   or Bitnet, you can send me E-mail at:
+
+   InterNet:   U93_PTUPACZE@VAXC.STEVENS-TECH.EDU
+   Bitnet:     U93_PTUPACZE@SITVXC
+
+
+
+Disclaimer: The author assumes no connection with Stevens Insititute of
+            Technology, and is an independent entity. SIT name listed only
+            as a reference to author's current location.
+
+
+
+================
+  Introduction
+================
+
+After receiving many compliments on my first major game (well, not
+really - see the Appendix), SITris, I've gotten to work on my next
+endavor. DoubleLink, in the tradition of SITris, was written during
+(what else?) finals week of my first semester of my sophomore year
+here at Stevens Tech. (No, I'm still majoring in Electrical Engineering -
+NOT Comp. Sci!) It's a game similar to SITris, in the respect that you
+have rotatable pieces, and you combine them to get certain patterns,
+but there, the similarity ends. DoubleLink is, as you will find, a fairly
+addicting game. So, enough jabber - let's play!
+
+
+========================
+ Installing and Running
+========================
+
+Along with this .DOC file, you will find several files related to the
+game. It would be a pretty wise idea to copy all these files into a
+subdirectory, either on a floppy or hard drive. Once the files are in
+their own subdirectory, go to that subdirectory and type DOUBLINK to
+load the game. The program will autodetect the best graphics mode for
+your system, and automatically switch to it. The main menu will soon
+appear. (Note: If you don't like the current graphics mode, you can
+change it - see Main Menu)
+
+NOTE: Be sure there are no memory-resident applications before running
+      the game - it may foul up the digitized sound. If the sound sounds
+      strange, reboot the machine and try again.
+
+
+==================
+ Playing the Game
+==================
+
+Enough formality - at this point, let's just get to the game!
+On the title page, the words "Begin Game" will be highlighted.
+Just press <ENTER> to begin game play.
+
+The purpose of the game is to eradicate the existence of the
+"Meanies." Meanies appear as multi-colored frowning faces. Each
+succesive level has three more meanies than the previous one. Level
+zero begins with three meanies.
+
+Your weapon in removing the meanies is the DoubleLink. A DoubleLink is
+a double-ended hot-dog shaped object. Each end (or "link) is a particular
+color, and both links can be the same color - both links do not necessarily
+have to be different colors. A DoubleLink can be rotated around a full 360
+degrees, in increments of 90 degrees.
+
+DoubleLinks fall from the top of the screen. As they fall, they can be
+moved left or right, and they can be rotated in 90 degree steps.
+A DoubleLink's movement stops when it hits either the bottom of the
+playfield, a link, or a Meany.
+
+The default keys to move the DoubleLink are: Left arrow key to move left,
+right arrow key to move right, and <SPACE> to rotate. There are some
+additional key commands as well: to drop the DoubleLink straight down
+until it hits something, press the down arrow key. To speed up the downward
+movement of the DoubleLink, press the up arrow key.
+
+With basic play mechanics known, now it's on to the nitty gritty of the
+game. When four links of any one color are aligned together, either
+horizontally or vertically, they are destroyed. Then any links and/or
+DoubleLinks above these links fall (gravity, y'know!) downward, if there
+are empty spaces. A few notes might be helpful here: if a link that is
+removed is also part of a DoubleLink, its companion link becomes a single
+round link; also, when the pieces fall, it is important to remember that
+DoubleLinks will fall as whole pieces - that is, if a piece impedes
+movement of one of its links, it impedes movement of the whole DoubleLink.
+It may also be noted that Meanies are "fixed," and do not fall.
+
+By now, you should see how to remove the Meanies. A Meany can, for all
+intents and purposes, be considered a colored link. To remove one, just
+line it up with three other links of a similar color. Simple, isn't it?
+
+Ah, but there's more! You can create a chain-reaction if you plan
+carefully. The more times you remove a quartet of links, the more
+points you get. You get even more points if a Meany is included in one
+of those quartets. How do you get a chain reaction? Here's one way to
+get a double:
+
+1)                     2)
+
+     #%  <- the Double-
+            Link falls
+                             #.<- these four
+      %                       .     disappear and the remaining
+      %                       .     link falls down
+     #%*                     #.*
+     ##**                    ##**
+     #*%%                    #*%%
+
+3)
+   the link combines
+   and removes these four - a double!
+     .
+     . *
+     .#**
+     .*%%
+
+
+With careful thought, you can easily figure out how to obtain other
+types of doubles, as well as triples, and if you're really shrewd (or
+insane), quadruples! Hint: Practice makes perfect! Try playing a game
+with the intent of practicing different moves; it will help you! This
+is perhaps the best way to really learn DoubleLink.
+
+Also note in the upper right corner is a box labeled "Next," with a
+DoubleLink inside of it. This is an aid that tells you the colors of the
+DoubleLink that will appear next.
+
+As each level is completed, the links remaining on the screen are removed
+and counted, and a bonus is awarded if you have less than 20 remaining.
+The less you have, the more you'll get, so it's to your advantage to leave
+as few links as you can when you complete each level.
+
+Gameplay ends when the stack of links reaches the top of the playfield
+(as in SITris). Press a key to go beyond the "Game Over" window.
+If you've gotten a high enough score, you will see a highlighted bar
+on the high score screen with a block cursor. Enter in up to 25
+characters for your high score name. All high scores are saved to disk.
+
+
+===============
+ The Main Menu
+===============
+
+Since we skipped from the main menu directly into the game, now it's
+time we went back and explored the menu. Pressing <ESC> during the game
+will abort the game and return you to the main menu. If you're done
+playing the game, you can press <CTRL-Q> or <F10> to exit the game and
+return to DOS.
+
+But since we're exploring, let's see all the commands on this menu.
+"Begin Game" is highlighted. To play the game, you would just press
+<ENTER> at this point. By pressing the up and down arrow keys, the
+highlight bar moves between the different options.
+
+When "Show Next?" is highlighted, you may press the left and right arrow
+keys to toggle it between "YES" and "NO." This lets you choose whether or
+not to display the "Next" box in the upper right corner during the game.
+"Why?" you may ask. Well, it adds some challenge. As an added incentive,
+you also get more points than you would with the "Next" box intact.
+
+When "Level" is highlighted, you may press the left and right arrow keys
+to move the little arrow left and right. As the arrow moves up the
+graphical level display, the level number to its right increases or
+decreases accordingly. This option lets you start at a higher level for
+a more challenging game.
+
+When you highlight "Speed," you can control the arrow in the same way as
+when you highlight "Level." This time, you control the game speed (default
+is zero). A game's speed is constant throughout the game, and this is
+what you are selecting. As an added incentive, the faster the gameplay,
+the higher the score values are.
+
+Finally, there is "Other Options." If this is highlighted, press <ENTER>
+and a submenu will appear to its right. Use the arrow keys to cycle
+through all the options in this submenu:
+
+  * High Scores: This will display the high scores for the game.
+  * Game Info: This will give information about the game. Press a key
+               to return to the menu.
+  * Redefine Keys: If you do not like the default keys, here's where
+                   you can tailor them to your liking. When prompted for
+                   the various keys, just press them. After all five
+                   keys have been entered, the game will save them to
+                   disk so they will be the default keys next time.
+  * Sound Type: Here's where you can choose your sound type. Use the up
+                and down arrow keys and <ENTER> to pick. "No sound"
+                will give you silence, "IBM sound" will use the internal
+                speaker, and "Sound Blaster card" will utilize the Sound
+                Blaster card to play digitized sound effects. The card
+                selected will become the new default card, and will be
+                in effect everytime you load the game.
+  * Graphics Type: If you want to switch to a different graphics mode
+                   (for example, VGA to EGA, due to EGA's better
+                   resolution), here's where you pick - use the up
+                   and down arrow keys and <ENTER>. If a listed mode
+                   is in a darker color, that's because your video card
+                   cannot support it. The selected mode will become the
+                   new default.
+
+Pressing <ESC> from this submenu returns you to the main menu.
+
+
+
+==================
+ Other Game Stuff
+==================
+
+Assorted information which was not covered above: During the game, you
+may press <F1> to pause gameplay. Any other key restarts play. You may
+also press <F2> to toggle sound on or off, regardless of sound type.
+
+I'd love to hear how everyone does with DoubleLink! Comments, complaints,
+high scores - please let me know! (see addresses at the top of this
+document.)
+
+GOOD LUCK!
+
+
+
+==========
+ Appendix
+==========
+
+Also available from the author:
+
+
+--------------
+<<< SITris >>>
+--------------
+
+A game of strategy. Multiple levels, Sound Blaster support, many game
+play options. Addicting? You bet!
+
+
+----------------
+<<< Snafu PC >>>
+----------------
+
+An action game for one or two players. Surround the other players (the
+computer can play as well, for a total of eight players) before they
+surround you! EGA only.
+
+
+If you'd like either game, please contact me (addresses above).
+
+
+DoubleLink bug report: AARGH! No! This game has been debugged fairly
+thorougly, but if you happen upon one, please send it immediately to
+me!
+
+___________________________________THE_END______________________________________
+
+
