@@ -1,0 +1,62 @@
+VOLFIED v2.00 Copyright (C) 1991 Empire Software
+
+Loading Instructions
+--------------------
+
+Insert disk in drive and type VOLFIED
+
+Volfied will automatically detect the available graphics adaptor, and will
+choose the highest available configuration. However, if Volfied is unable to
+detect the configuration correctlty, or a different setup is required then the
+following command line options are available :-
+
+	C	CGA - Color Graphics Adaptor	(320x200, 4 colors)
+	E*	EGA - Enhanced Graphics Adaptor	(320x200, 16 colors)
+	V	VGA - Video Graphics Array	(320x200, 16 colors)
+	T	TGA - Tandy Graphics Adaptor	(320x200, 16 colors)
+
+*	The EGA version will only work correctly if there is at least 96 Kbytes
+	of video ram installed on the adaptor.
+
+Volfied will try to detect the best available soundboard, if no soundboard is 
+detected, then the internal speaker will be chosen, the auto-detection can be
+overridden with the following command line options :-
+
+	A	Adlib/Soundblaster
+	H	Tandy
+	S	Internal speaker
+	Q	Quiet - No sound output
+
+
+Installation Guide
+-----------------
+
+Volfied is designed to run automatically off of one 3.5inch or two 5.25inch
+floppy disks. To run Volfied off of a hard drive simply create a directory
+for Volfied and copy all the files to the hard drive
+
+example:
+	MD \VOLFIED
+	CD \VOLFIED
+	COPY A:\*.*
+
+
+Game Controls
+-------------
+
+Select number of players	1 or 2
+Select difficulty level		1, 2 or 3
+
+Quit the current game		Escape
+Quit Volfied			Escape whilst in the intro
+
+Move up				Joystick up/Cursor up
+Move down			Joystick down/Cursor down
+Move left			Joystick left/Cursor left
+Move right			Joystick right/Cursor right
+
+Fire				Joystick button/Space bar
+
+Music/sound effects on		S
+Music/sound effects off		Q
+
