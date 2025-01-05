@@ -1,0 +1,44 @@
+8
+4
+!BShooting Gallery Help
+Shooting Gallery tests your shooting aim in several different ways.
+You are scored on your success in hitting various targets and in some
+rounds on your speed as well.
+7
+!ABirds & Bottles
+Round 1: Start with 100 shots and 100 seconds to hit as many targets
+as possible. The value for each target is shown at the bottom of the
+screen. In addition, bonuses are given for hitting targets on the
+faster moving rows, 5 points for the middle row and 10 points for the
+top row. Bonuses are also given for hitting a full row of identical
+targets.
+3
+!ASkeet Shoot
+Round 2: Skeet shooting involves hitting a moving target. Points are
+only given if you hit and are based on your speed.
+3
+!AQuick Draw
+Round 3: Quick draw requires you to draw and hit a target as quickly
+as possible. Scoring is based on speed and accuracy.
+4
+!ABombs & Bells
+Round 4: Similar to round 1, but targets will change direction. The
+target marked "Hit Me" must be hit or you will lose 500 points.
+Points and bonuses are generally double those of round 1.
+4
+!ADouble Skeet Shoot
+Round 5: Double skeet shooting requires hitting two moving targets as
+in round 2. You get points even if you hit only one target, but your time
+is always based on how long you took on both shots.
+3
+!ADouble Quick Draw
+Round 6: Double quick draw is the same as round 3 except you must hit
+two targets. Hit the left target first.
+7
+!AShoot Out
+Round 7: Suddenly you are back in the wild west, surrounded by bad
+guys all wearing dark hats! The object is to finish off all of the
+bad guys without shooting the townspeople. You earn points for each
+bad guy shot, and lose points for each good guy. Bad guys shoot back,
+each shot they get off costs you two seconds. Get a bonus for
+finishing before time runs out.

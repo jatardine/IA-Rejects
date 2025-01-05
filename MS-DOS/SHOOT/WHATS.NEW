@@ -1,0 +1,31 @@
+
+                              Shooting Gallery
+                       Release 3.0   December 8, 1993
+
+                                Nels Anderson
+                               92 Bishop Drive
+                         Framingham, MA 01701 U.S.A.
+
+New features in v3.0:
+--------------------
+
+SoundBlaster digitized sounds (shareware version has only partial sound
+effects library, register for complete library)
+
+Support for up to four players
+
+Player can select which rounds played during game; not everyone likes all
+rounds so you can now play a game with only the rounds you like
+
+New no limits practice option; lets you practice a round for as long as
+you wish without running out of ammunition or time
+
+Music and sound effects can be toggled on/off separately
+
+Adjusted scoring for higher total scores and to give rounds 1 and 4
+more weight relative to other rounds
+
+Player can adjust target speed in rounds 1 and 4 using < and > keys
+
+Others rounds have improved speed control to handle faster computers
+

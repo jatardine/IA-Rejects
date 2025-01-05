@@ -1,0 +1,168 @@
+
+                              Shooting Gallery
+                       Release 3.0   December 8, 1993
+
+                                Nels Anderson
+                               92 Bishop Drive
+                         Framingham, MA 01701 U.S.A.
+
+DESCRIPTION: Shooting Gallery is an arcade game with multiple rounds to
+challenge your reflexes and aiming skills. To get started either read
+the complete instructions file "SHOOT.DOC" or just start up the game and
+view the help screens to learn how to play.
+
+REQUIREMENTS: Shooting Gallery runs in 320x200, 256 color MCGA graphics,
+thus an MCGA or VGA video card and monitor is needed. It also requires a
+mouse. SoundBlaster and compatible sound cards are supported for
+digitized sound effects. About 495,000 bytes of free conventional memory
+is required to use all features including digitized sound.
+
+SHAREWARE: Shooting Gallery is distributed as Shareware. You are free to
+try the game and make copies for others. If you continue to use the
+game, however, you must pay the author a registration fee of $15 (#12.95
+in the U.K.; see "UKORDER.TXT" for details); in return you'll receive a
+copy of the latest version of the program with the shareware reminders
+removed and including a larger digitized sound effects library. A
+"deluxe" version with binder and printed manual is available for $22.
+Please include $2 shipping/handling with your payment, or $4 for deluxe
+versions or shipping outside the U.S. Software distribution companies
+may include Shooting Gallery in their catalog provided a copy of the
+catalog is supplied to the author; please see the file "VENDOR.TXT" for
+complete requirements.
+
+FILES: The files included in Shooting Gallery v3.0 are as follows:
+
+  SHOOT.EXE      Shooting Gallery program
+  VGA256.BGI     Video driver
+  SHOOTLIB.GXL   Sound effects library (registered version)
+  SAMPLE.GXL     Sound effects library (shareware version)
+  SHOOT.DOC      Documentation (instructions)
+  SHOOT.TXT      This file
+  ORDERFRM.TXT   A ready to print registration form
+  UKORDER.TXT    Order form for U.K. users
+  SHAREWRE.TXT   Information on Shareware
+  *.PCC          Background pictures
+  *.PIC          Target pictures
+  VENDOR.TXT     Information for disk vendors, etc., on distributing
+                 Shooting Gallery
+
+All these files MUST be included when distributing this program. If you
+archive the program for distribution through BBSes, please use the name
+"SHOOTG30.ZIP" (or .LZH, .PAK, etc. as appropriate).
+
+SUPPORT: Support for this software is provided through the Xevious BBS.
+Call 508-875-3618 (300 thru 16800 bps, HST/v.32, 8N1) and leave a
+C)omment for the sysop. The latest version will always be available
+there first. Mail support is also available; please include an SASE with
+your request. Finally, you can contact the author through CompuServe's
+email system. Address to Nels Anderson [71020,2613].
+
+AVAILABLE SOFTWARE: Other software which I've either written or
+contributed to:
+
+EGATREK:   Space strategy battle game, using hi-res graphics.
+           Based on the classic minicomputer game, including
+           maps, graphics, communications and even a view outside
+           the ship.  Winner of Public Brand Software's 1988
+           software contest.
+
+           "...simply an amazing program, full of surprises and
+           strategic challenges."
+             -- ProGamer Magazine, Series 2, Volume 8
+
+           "EGATrek is such a well-designed game, if you don't have
+           EGA hardware, it's a good reason to upgrade."
+             -- Shareware Magazine, July-August 1990
+
+MAHJONGG:  Addictive solitaire game played with Chinese tiles.  Very
+           easy to learn but always a challenge to win.  Many game
+           options including timed games, different layouts, etc.  Also
+           allows loading optional tile sets (tile editor included).
+           Supports VGA, EGA and Hercules graphics; mouse optional.
+
+           "Gorgeous board and tiles, challenging and addictive play."
+             -- PCWorld Magazine, December 1988
+
+           "...a visual feast and a mental workout."
+             -- Compute! Magazine, April 1989
+
+TMATCH:    Tile Match is a variation on concentration solitaire or
+           "memory", but adds multiple player versions (up to four
+           players) or play against the computer.  Many scoring and
+           difficulty settings allow use by any age player.  Uses
+           the same tiles for playing pieces as Mah Jongg solitaire
+           and includes the tile editor.
+
+TILESETS:  Several collections of tile sets created by various
+           Mah Jongg fans are available.  Each collection includes
+           at least ten tile sets.  Requires Mah Jongg v3.3 or later
+           or any version of Tile Match.
+
+CIPHER:    A word puzzle game, yet it uses hi-res VGA or EGA graphics
+           to run (mouse optional).  Also will run in color text mode.
+           Includes over 30 puzzles to solve; registered version comes
+           with over 200 additional puzzles.  You can also enter your
+           own already encrypted puzzles and additional puzzles are
+           available.
+
+SHOOT:     "Shooting Gallery" is a colorful arcade game with several
+           different rounds to test your aim and reflexes, including
+           skeet, quick draw, carnival type shooting range and a wild 
+           west shootout.  Uses 320x200, 256 color mode and a mouse to
+           play.  Requires VGA or MCGA.
+
+           "Shooting Gallery is seven rounds of pure fun!"
+             -- Patrick Grote
+
+           "...one of the most entertaining, colorful, action-packed
+           and challenging games I have seen."
+             -- Vulcan's Compute Monthly, August 1990
+
+SUPERFLY:  An action game using hi-res EGA/VGA graphics.  Chase the
+           flies and other insects through twenty different rounds.
+           Includes three levels of difficulty, hall of fame, shell
+           to DOS, etc.
+
+           "...fascinatingly mixes arcade action with strategic
+           maneuvering."
+             -- PC Magazine, vol. 10 #17 (10/15/91)
+
+           "RATING: 10.0" (highest rating)
+             -- Patrick Grote
+
+MOUSTOOL:  A collection of utilities for Turbo Pascal programmers
+           wishing to incorporate mouse input in their programs.
+           Sample programs included for both EGA and CGA graphics.
+
+BASSTOUR:  (Written by Dick Olsen).  Game that simulates a fishing
+           tournament, including rod and lure selection.  Runs in
+           EGA/CGA/Hercules graphics modes.  Uses many of the
+           utilities from MOUSTOOL.
+
+BASSMAP:   Companion program for BassTour which allows lakes to be
+           created or modified.  EGA and CGA versions provided.
+
+
+These programs are probably available on your favorite BBS or from your
+favorite disk vendors. To register them or to order direct, use the form
+in the file "ORDERFRM.TXT" (U.K. residents use "UKORDER.TXT") which is
+all ready to print. The "deluxe" version includes the registered
+software on diskette, plus a binder and printed manual (some programs
+also include quick reference cards). The standard version includes just
+the diskette with the registered software. You can also use your VISA or
+MasterCard to order on-line thru the support BBS, Xevious, at
+508-875-3618. Use the command CREDIT to order.
+
+                                  - - - - -
+
+Shooting Gallery is copyright (c) 1993 by Nels Anderson.  All rights reserved.
+
+                         _______
+                    ____|__     |               (R)
+                 --|       |    |-------------------
+                   |   ____|__  |  Association of
+                   |  |       |_|  Shareware
+                   |__|   o   |    Professionals
+                 -----|   |   |---------------------
+                      |___|___|    MEMBER
+     

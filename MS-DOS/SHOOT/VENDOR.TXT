@@ -1,0 +1,92 @@
+                              Shooting Gallery
+                       Release 3.0    December 8, 1993
+                       Copyright 1993 by Nels Anderson
+                             All Rights Reserved
+
+                                Nels Anderson
+                               92 Bishop Drive
+                         Framingham, MA 01701 U.S.A.
+
+                          Xevious BBS: 508-875-3618
+                           CompuServe: 71020, 2613
+
+
+This file contains information for disk vendors, BBS sysops, user groups,
+etc. who wish to distribute this program. For the purposes of this
+document, all of the above will be referred to as disk vendors.
+
+This software is copyrighted material and is subject to certain restrictions
+on copying and distribution.
+
+Vendors of any type, whether program distribution is free or whether a fee
+of any type is charged, may distribute this program under the following
+conditions:
+
+    - Any vendor using a non-traditional method of shareware distribution
+      (specifically: retail rack vendors and CD-ROM publishers) may only
+      distribute this program after contacting the author and obtaining
+      written agreement. This applies to both ASP vendor members and 
+      non-ASP members.
+
+    - The vendor is an associate member of the Association of Shareware 
+      Professionals and follows the requirements of such membership. Or if
+      not an ASP member, the vendor properly represents the software as
+      shareware and provides customers with a complete definition of the
+      shareware concept. You must not advertise this software as "free",
+      "cheap" or "public domain".
+
+    - The vendor must in no way imply that they are "selling" the program
+      but rather are only providing a duplication service where the program
+      is provided for evaluation. You may not "rent" or "lease" copies of
+      this program.
+
+    - You do not rename, change or omit any of the provided files.
+
+    - The vendor should provide the author with a copy of their catalog.
+
+    - You may distribute this program in a compressed form. You may also
+      include your own text files, "go.bat" startup files, etc. along with
+      the program.
+
+If you indicate ASP membership in your catalog, please do so for your
+listing of this program.
+
+The author reserves the right to withhold or withdraw permission to
+distribute from anyone at any time for any reason.
+
+Software reviewers: If you plan to review this software for publication,
+please contact me first to make sure you have the most recent upgrade
+version of the product and that the ordering information supplied to your
+readers will be accurate.
+
+
+Program:	Shooting Gallery
+Version:	3.0
+Size:		388k
+BBS Name:       SHOOTG30.ZIP
+To run, type:	shoot
+Registration:	$15 ($22 for printed manual/binder)
+Program Type:	Arcade game
+Monitor Type:	VGA/MCGA
+Mouse:		Yes--required
+Sound Card:     Supports SoundBlaster
+
+One line description:  Seven rounds of colorful shooting action
+
+Short description:
+
+Includes seven different rounds of shooting action including carnival
+shooting gallery, skeet, quick draw and a wild west shoot out. Has
+practice for each round, hall of fame, game statistics, etc.
+
+Detailed description:
+
+Shooting Gallery is a colorful arcade game with several different
+rounds to test your shooting skill. Included is a traditional
+carnival shooting range, skeet shooting, quick draw target shooting
+and a wild west shoot out. Options include practice of individual
+rounds, hall of fame and statistics for individual rounds.
+
+Each round includes bright 256 color graphics and plenty of sound
+effects, including support for SoundBlaster. With the variety of
+rounds this game is sure to keep you challenged for a long time.
