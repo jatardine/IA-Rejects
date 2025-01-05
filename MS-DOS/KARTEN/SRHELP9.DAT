@@ -1,0 +1,31 @@
+Instructions for tour:
+
+The objective of the tour is to play all eight of the
+"adult" solitaire games consecutively and accumulate the
+highest possible score.  There is a seperate scoreboard for
+each tour that keeps track of each game played therein and
+the total for that specific tour, as well as a "high scores"
+board that records the top 5 scores to disk.
+
+In addition, tour is included as part of the tournament
+menu, making it possible for more than one person to play
+the same tour, and have the top 5 scores for that specific
+tour saved to disk as well.
+
+To begin a tour, bring up the menu bar and select tour (Aunt
+Anne's game) from the start a new game menu.  The games are
+played in the order that they appear on the meuu:  pyramid,
+golf, klondike, canfield, corners, calculation, three
+shuffles and a draw, and reno.
+
+Play the pyramid game, and when the game has been
+completed, go to the menu bar and select continue to next
+game from the tour menu.  A tour scoreboard will appear,
+showing the score for pyramid.  Pressing the enter key (or
+the left mouse button) will cause the next game to appear,
+in this instance golf.  Continue in this manner until the
+tour is completed.  Before each game begins, the tour
+scoreboard will reappear, showing the scores for all the
+games completed to that point.
+~
+

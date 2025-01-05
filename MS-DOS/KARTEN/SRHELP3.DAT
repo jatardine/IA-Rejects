@@ -1,0 +1,50 @@
+klondike
+
+The objective is to move all of the cards to the
+foundation.
+
+twendy-eight cards are dealt into a tableau of 7 columns,
+with the first column on the left containing 1 card, the
+second column 2 cards, and continuing to the 7th column
+which contains 7 cards.  When the game begins, all cards in
+the tableau are face down except for the "fully exposed" top
+card in each column which is face up.  Only fully exposed
+cards in the tableau are "available" to be played on.
+
+The stock is "turned" 3 cards at a time onto a waste pile.
+Merely selecting the stock pile will "turn" the cards. If
+the top card of the waste pile can be played on either the
+tableau or the foundation, the next waste pile card becomes
+available for play, and so forth.  When the entire stock has
+been turned onto the waste pile, it is available to be
+turned again by selecting the dotted-line area where the
+stock would normally be located.  This process can be
+repeated until no available cards from the stock and waste
+pile can be played.
+
+Cards are played on each other in the tableau in
+order (K,Q,J,10,9,etc.) alternating red (hearts or diamonds)
+and black (clubs or spades).  As long as this pattern is
+maintained in each column, cards can be played on the
+tableau from the top card of the waste pile, or by
+"available" cards from the other columns in the tableau.
+
+Cards are available in the tableau to play on other
+columns if they are the first face-up card in the column.
+If this card has other cards played on it already, all cards
+move as a unit to the new location.  Kings can also be
+played to vacant columns emptied by the movement of cards to
+the foundation or to other columns.
+
+The foundation is built up from the ace in ascending order
+(according to suit) in the spaces available above the
+tableau.  Cards may be played to the foundation from the
+tableau or the waste pile.
+
+The game ends when no more plays are possible from the
+tableau or the waste pile .  To "win" you must move all
+cards from the tableau and waste pile to the foundation,
+building each suit in order from Ace to King, one card at a
+time.
+~
+

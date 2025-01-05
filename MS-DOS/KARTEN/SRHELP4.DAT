@@ -1,0 +1,48 @@
+canfield
+
+The objective of canfield is to move all of the cards to the
+foundation.
+
+The cards are dealt into a tableau of 4 columns, with each
+column containing 1 card.  When the game begins, all 4
+cards in the tableau are face up and there is a holding
+pile to the left of and slightly below the tableau.  The
+holding pile contains 13 cards with the top card
+face up and available.
+
+The stock is "turned" 3 cards at a time onto the waste pile.
+If the top card of the waste pile can be played on either
+the tableau or the foundation, the next card becomes
+available to be played, etc.  When the entire stock has been
+turned onto the waste pile, it is available to be turned
+again by selecting the dotted-line area here the stock would
+normally be located.
+
+Cards are played onto the tableau in descending order
+(K,Q,J,10,9,etc.) while alternating red (hearts or diamonds)
+and black (clubs or spades).  As long as this pattern is
+maintained in each column, plays can be made to the tableau
+from the waste pile and holding pile, or from "available"
+cards in other columns of the tableau. The cards in the
+holding pile can also be played to empty columns in the
+tableau.  When the holding pile is depleted, any "available"
+King from the waste pile can be used to fill an empty
+column.
+
+A card is "available" in the tableau to be played on other
+columns if it is the topmost card in its respective column.
+If this card has others played on it already, all cards move
+as a unit to the new location.
+
+The foundation is built up from the Ace in ascending order,
+according to suit, in the spaces available above the
+tableau.  Cards may be played to the foundation from the
+waste pile, tableau, or holding pile.
+
+The game ends when no more plays are possible from the
+tableau, waste pile, or holding pile.  To "win" you
+must move all cards from these locations to the foundation,
+building each suit in order from Ace to King, one card at a
+time.
+~
+

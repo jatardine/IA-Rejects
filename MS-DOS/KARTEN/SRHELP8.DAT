@@ -1,0 +1,57 @@
+reno
+
+The objective of reno is to move all of the cards to the
+foundation.
+
+The cards are dealt into a tableau of 4 columns, with each
+column containing 1 card. When the game begins, all 4 cards
+in the tableau are face up and there is a holding pile to
+the left of and slightly below the tableau (similar to
+canfield).  The holding pile contains 13 cards, with the top
+card face up and available.
+
+The stock is "turned" 1 card at a time onto the screen.
+This card can be played on the tableau, foundation, or laid
+onto its adjacnt waste pile.  After playing the turned card
+in any manner, the next card becomes avaliable to be played,
+etc.  Unlike canfild, however, the waste pile cards cannot
+be turned a second time.  The only way to play from the
+waste pile is with the current topmost card.  When the
+entire stock has been turned and no more cards can be played
+from the waste pile, tableau, or holding pile, the game is
+over.
+
+Cards are played onto the tableau in descending order
+(K,Q,J,10,9,etc.), while alternating red (hearts or
+diamonds) and black (clubs or spades).  As long as this
+pattern is maintained in each column, cards can be played
+onto tableau stock, waste pile, holding pile, or
+"available" cards in other columns of the tableau.  The
+cards in the holding pile can also be played to empty
+columns in the tableau.  When the holding pile is depleted,
+any "available" King from the stock or waste pile can be
+used to fill an empty column.
+
+A card is "available" in the tableau to be played on other
+columns if it is the topmost card in its respective column.
+If this card has other cards played upon it, all cards move
+as a unit to the new location.
+
+The foundation is built up from the Ace in ascending order
+(according to suit) in the spaces available above the
+tableau.  Cards may be played to the foundation from the
+stock, waste pile, tableau, or holding pile.
+
+The game ends when no more plays are possible from the
+stock, waste pile, tableau, or holding pile.  To "win" you
+must move all cards to the foundation building each suit in
+order from Ace to King, one card at a time.
+
+This game is scored as a "betting" format.  The deck "costs"
+$52 and the player is "paid" $5 for every card moved to
+the foundation.  When 11 cards have been moved to the
+foundation the player has $55 and has "recovered" the cost
+of the game.  The most that can be won is $260, when all
+cards have been moved to the foundation.
+~
+

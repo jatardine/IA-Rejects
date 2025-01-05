@@ -1,0 +1,34 @@
+three shuffles and a draw
+
+The objective of three shuffles and a draw is to move all of
+the cards to the foundation.
+
+The cards have been dealt into a tableau of 16 stacks of 3
+cards each.  When the game begins all 48 cards in the
+tableau are face up, and the aces are in place as the
+beginning of each foundation pile.
+
+Cards are played from stacks in the tableau to other
+stacks there, in descending order and according to
+suit.  To reach your objective, you need to "free up" cards
+so they are playable onto the foundation row (in ascending
+order and according to suit).
+
+Only the topmost available card in any tableau stack can be
+played on other stacks or the foundation piles.
+
+There is a option to "reshuffle" the cards in the tableau
+twice after the original layout is dealt, to be taken when
+no additional cards can be played to the foundation.  The
+foundation cards remain on the screen during the reshuffles.
+In addition, the player gets 1 "draw" to pick an
+"unavailable" card from behind anohter card (or group of
+cards)  that is blocking it in a tableau stack.  It is
+usually good strategy to wait until after the final shuffle
+to take the draw.
+
+The game is over when all shuffles and the draw have been
+taken and there are no further plays available.  The "win"
+comes when all cards are moved to the foundation.
+~
+

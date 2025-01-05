@@ -1,0 +1,38 @@
+calculation
+
+The objective of calculation is to move all of the cards to
+the foundation.
+
+The game begins with a tableau of 4 patential columns, with
+each column containing no cards at the outset.  The
+foundation has been dealt with 1 starting card for each of
+the 4 piles.  The foundation piles are built up
+(regardless of suit) by 1's in the first pile
+(Ace,2,3,etc.), 2's in the second pile (2,4,6,etc.), 3's in
+the third pile (3,6,9,Queen,etc.), and 4's in the fourth
+pile (4,8,Queen,etc.).  The name of this game comes from the
+necessity of "calculating" which card to play next on each
+of the piles. Build up the foundation piles as follows:
+
+              A,2,3,4,5,6,7,8,9,10,J,Q,K
+              2,4,6,8,10,Q,A,3,5,7,9,J,K
+              3,6,9,Q,2,5,8,J,A,4,7,10,K
+              4,8,Q,3,7,J,2,6,10,A,5,9,K
+
+The stock is "turned" 1 card at a time onto the screen, and
+then played either onto the foundation or in any of the
+four tableau columns (where the cards are "held" until they
+can be played to the foundation).
+
+Once a card has been placed in one of the tableau columns,
+that card can only be moved to a foundation pile, and only
+the fully exposed card in each column is "available" to be
+played.
+
+The game ends when no more plays are possible from the
+tableau and the stock is exhausted.  To "win" you must
+move all cards from the tableau and stock to the
+foundation, building each pile according to the
+"calculation" rules stated above.
+~
+

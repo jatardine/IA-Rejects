@@ -1,0 +1,52 @@
+corners
+
+The objective of corners is to move all the cards to the
+foundation.
+
+The cards have been dealt into a tableau of 5 cards in the
+pattern of a "cross", or a box with the "corners" missing.
+Also, the first card of the foundation has been dealt onto
+the top left "corner" of the box.  The foundation piles are
+the four corners of the box.  Each initial foundation pile
+card played into the remaining corners must have the same
+face value as the original foundation card dealt onto the
+top left corner.  When completed each foundation pile will
+contain all 13 cards of a suit.
+
+The stock is "turned" 1 card at a time onto the waste
+pile, from which the top card is available to be played on
+the tableau or the foundation.  In corners, the waste pile
+cannot be turned over and replayed as stock a second time.
+The only way to play from the waste pile is with the current
+topmost card.  When the entire stock has been turned once
+and no more cards can be played (from either the waste pile
+or tableau), the game is over.
+
+Cards are played onto the tableau (cross) in descending
+order regardless of suit.  As long as this pattern is
+maintained in each stack, cards can be played onto the
+tableau from the top card of the stock, "available" cards
+from tableau stacks, or the top card of the waste pile.
+
+Cards are available in the tableau to be played on other
+tableau stacks if they are the top-most card in a stack.
+Only playable cards are moved to tableau stacks or
+foundation piles.
+
+The foundation is built up (from the first card dealt to
+the foundation) in ascending order and according to suit.
+Cards may be played to the foundation from the tableau,
+stock, or top card of the waste pile.
+
+Note: Aces and Kings are neigher high nor low, but merely
+part of a cycle whose direction depends on whether play is
+on the tableau or the foundation.
+
+The game ends when no more plays are possible from the
+tableau, and/or the stock and waste pile are exhausted.  To
+"win" you must move all cards from the tableau, stock and
+waste pile to the foundation, building up each suit in
+order from the originally dealt foundation cards, one card
+at a time.
+~
+

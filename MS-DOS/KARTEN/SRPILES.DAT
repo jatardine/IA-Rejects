@@ -1,0 +1,154 @@
+~
+This pile is called the "stock":
+  This pile holds the remainder of the cards after the
+cards have been dealt.  Cards may be removed from this
+pile one by one to be used for play, or to be discarded to
+the waste pile.
+~
+This pile is called the "stock":
+  This pile holds the remainder of the cards after the
+cards have been dealt.  Cards may be moved from this pile
+only directly to the waste pile.
+~
+This pile is called the "stock":
+  This pile holds the remainder of the cards after the
+cards have been dealt.  Cards may be moved in groups of
+three at a time from this pile to the waste pile.
+~
+This pile is called the "stock":
+  This pile holds the remainder of the cards after the
+cards have been dealt.  Cards may be removed from this
+pile one by one for play on the tableau or the foundation.
+~
+This pile is called the "foundation":
+  This pile holds cards played from the tableau.
+~
+This pile is called the "waste pile":
+  This pile is composed of cards that cannot be played  on
+the tableau or the foundation, and are discarded from the
+stock.  The top card is available for play.
+~
+This pile is called the "holding pile":
+  The top card in this pile is available for play.  When
+the game begins, this pile holds 13 cards.  No cards may
+be played on this pile.
+~
+This pile is called the "holding pile":
+  The top card in this pile is available for play.  When
+the game begins, this pile holds 15 cards.  No cards may
+be played on this pile.
+~
+This pile is part of the "foundation":
+  The objective for this game is to build each pile in the
+foundation upward in a single suit.  The piles in the
+foundation should start with the card indicated in the
+first corner, and build upward, ace following king, until
+all 13 cards in the suit have been played.
+~
+This pile is part of the "foundation":
+  The objective for this game is to build each pile in the
+foundation upward in a single suit.  The piles in the
+foundation should start with any ace, and build upward in
+that suit to king.
+~
+This pile is part of the "foundation":
+  The object for this game is to build each pile in the
+foundation upward in a multiplication series, with no
+regard to suit. For this pile, the series is simply:
+Ace,2,3,4,5,6,7,8,9,10,Jack,Queen,King.
+~
+This pile is part of the "foundation":
+  The object for this game is to build each pile in the
+foundation upward in a multiplication series, with no
+regard to suit.  For this pile, the series is:
+2,4,6,8,10,Queen,Ace,3,5,7,9,Jack,King.
+~
+This pile is part of the "foundation":
+  The object for this game is to build each pile in the
+foundation upward in a multiplication series, with no
+regard to suit. For this pile, the series is:
+3,6,9,Queen,2,5,8,Jack,Ace,4,7,10,King.
+~
+This pile is part of the "foundation":
+  The object for this game is to build each pile in the
+foundation upward in a multiplication series, with no
+regard to suit.  For this pile, the series is:
+4,8,Queen,3,7,Jack,2,6,10,Ace,5,9,King.
+~
+This card is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For pyramid, Cards in the tableau are removed in pairs,
+whose face values add to 13.  This card is available for
+play, since it is fully exposed.  See pyramid rules for
+more details.
+~
+This card is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For pyramid, Cards in the tableau are removed in pairs,
+whose values add to 13.  This card is not available for
+play since it is not fully exposed.  See pyramid rules for
+more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For golf, Cards in the tableau are removed one by one and
+automatically placed in the foundation.  Cards are placed
+in the foundation in ascending and decending order,
+regardless  of suit.  Only a 2 may be placed on an Ace in
+the foundation, and nothing may be placed on a King.  See
+golf rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For klondike, cards are played in the tableau in
+descending order alternating red and black.  See klondike
+rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For canfield, cards are played in the tableau in
+descending order alternating red and black.  See canfield
+rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is part of the layout of the cards on the
+screen.  For corners, cards are played in the tableau in
+descending order (regardless of suit).  The top card of
+each pile in the tableau is available for play.  See
+corners rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For calculation, cards are played from the stock to either
+the foundation, or the tableau.  The top card of each pile
+in the tableau is available for play to the foundation.
+See calculation rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For three shuffles and a draw,  cards are played from
+piles in the tableau to other piles in descending order
+according to suit.  The top card of each pile in the
+tableau is available for play to the foundation.  See
+three shuffles and a draw rules for more details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For reno, cards are played in the tableau in descending
+order alternating red and black.  See reno rules for more
+details.
+~
+This pile is part of the "tableau":
+  The tableau is the layout of the cards on the screen.
+For this game, a card on the tableau is matched with
+another card on the tableau with the same face value,
+and removed as a pair.  See children's game rules for
+more details.
+~
+This pile is called the "stock":
+  This pile holds the remainder of the cards after the
+cards have been dealt.  Cards may be matched from the
+top of this pile with other cards with the same face
+value
+~
+

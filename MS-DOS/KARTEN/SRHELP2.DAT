@@ -1,0 +1,36 @@
+golf
+
+The objective of golf is to move all of the cards to the
+foundation (one pile, in this case).
+
+The tableau has been dealt thirty-five cards (7 across and 5
+down, overlapping).  Only fully exposed cards in the
+tableau and the top card of the stock are available to
+play on the foundation.
+
+Cards are moved from the tableau in either ascending or
+descending order (regardless of suit) according to the top
+card on the foundation.  Aces are considered "low" and Kings
+theare "high" cards. (Therefore, once an Ace is played to
+the foundation, only a 2 and not a King can be played on
+it.)
+
+Play begins from the top card of the foundation.  For
+example, if the top card of the foundation is a 4, then a
+5 or a 3 can be played from tableau to the foundation.
+(Merely selecting a card will move it to the foundation.)
+If a 5 is moved to the foundation, then a 4 or a 6 may be
+played from the tableau.  Play continues in this way until
+none of the fully exposed cards can be played.
+
+At this point, the top card from the stock is played to the
+foundation, and play from the tableau is resumed.
+Whenever a king is played, tableau play stops and the next
+card must be selected from the stock before play can be
+resumed from the tableau.
+
+The game is over when there are no more cards in the stock
+and none can be removed from the tableau.  To "win"
+you must remove all cards from the tableau.
+~
+

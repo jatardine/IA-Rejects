@@ -1,0 +1,42 @@
+pyramid
+
+The objective of pyramid is to clear the screen of all
+cards (tableau, stock and waste pile).
+
+Twenty-eight cards have been dealt into a pyramid-shaped
+tableau,where the rows of 1 to 7 cards are overlapping.
+Only the fully exposed cards are "available" to be played
+(with one exception, noted below).
+
+The cards are removed from the screen in pairs that total
+13 points each, with the card "point value" equal to its
+face value.  Since the king has a value of 13, it is the
+only card that is removed by itself.  The queen (12) is
+removed with the Ace (1), the jack (11) with the 2, the 10
+with the 3, the 9 with the 4, the 8 with the 5, and the 6
+with the 7.  Removal of cards is done without regard to suit
+or color.
+
+Cards are removed by first selecting one "available" card
+(it will light up) and then selecting its "available" pair.
+If the two cards selected total 13 point they will disappear
+from the screen.
+
+An exception to the "available card" rule on the tableau is
+if a card is covered only by its pair, then both cards can
+be removed by selecting the fully exposed card first.
+
+Begin play be removing all of the pairs (or Kings) that
+can be played from the tableau.  Then, turn the cards from
+the stock one at a time, pairing the stock card with
+either an avaliable card from the tableau, or the top card
+of the waste pile.  (The top cards from the stock, the
+waste pile, and available cards from the tableau, are
+all playable.)  If the stock card cannot be played it is
+placed on the waste pile.
+
+The game is over when no more "pairs" can be removed.  To
+"win" you must remove all cards from the screen (stock,
+waste pile and tableau).
+~
+

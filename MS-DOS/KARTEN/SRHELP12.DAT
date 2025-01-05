@@ -1,0 +1,50 @@
+Basic Definitions and Play-Action
+
+All of the solitaire games in Solitaire Royale have two
+basic goals in common:
+
+* Move all cards to the foundation; or
+
+* Remove the cards from the screen completely.
+
+With these goals in mind, the following terms are used in
+each game:
+
+* The "foundation" is the pile (or piles) where cards are
+laid in a specific order during the course of a game.  Some
+games will not have a foundation, as the objective may be to
+completely remove the cards from the screen.  The foundation
+receives cards from the tableau, holding pile, stock, and
+waste pile.
+
+* The "tableau" is the general layout of cards upon which
+other cards are played prior to moving them to eiter the
+foundation or the waste pile.  Cards placed on the tableau
+after the opening layout may come from either the holding
+pile, stock, or waste pile.
+
+* The "stock" is the remainder from a standard deck of 52
+playing cards which are not yet displayed on the screen.
+The player turns (exposes) cards from the stock, either 1 or
+3 cards at a time, as the game is being played.
+
+* The "waste pile" is made up of cards turned from the stock
+that cannot be played as yet to the tableau or foundation.
+As each top card is played, the one below it becomes
+available.  Some games allow for the waste pile to be turned
+over and restarted after the last stock card has been
+"turned" to it.
+
+* The "holding pile" consists of cards that are placed face
+down on the screen, to be turned up 1 at a time for play on
+the tableau or foundation according to the rules of the
+specific game.  As each top card is played, the card below
+it becomes available for play.
+
+* The "score" is the number of cards that have either been
+removed from the screen, or moved to the foundation after
+all possible plays have been  made.  The highest score wins
+in any solitaire royale game, and 52 is the highest possible
+score per game.
+~
+
