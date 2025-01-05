@@ -1,0 +1,91 @@
+
+       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+       ³  KNUBBEL  V1.1  Ein Cardware-Spiel   /  Spielregeln und Hinweise  ³
+       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+       Spielregeln:
+       Die Spieler mssen versuchen, mit jeweils drei m”glichen Wrfen
+       eine bestimmte Wrfelkonstellation zu wrfeln, und die erzielten
+       Punkte auf dem SCOREBOARD eintragen.
+       Nach jedem Wurf k”nnen beliebige Wrfel festgehalten werden, sodaá
+       nur mit dem Rest neu gewrfelt wird.
+       Ziel des Spiels ist es, auf dem SCOREBOARD eine m”glichst hohes
+       Punktergebnis gegenber dem Computerspieler zu erzielen.
+
+       Werden im oberen Listenteil mehr als 62 Punkte erreicht, so erh„lt
+       man zus„tzlich einen Bonus von 35 Punkten, der automatisch aufaddiert
+       wird und durch die Anzeige "(B)" gekennzeichnet wird.
+
+       Im Feld "KNUBBEL" kann nur 1 Knubbel eingetragen werden, weitere
+       Knubbel mssen als Pasch oder als Augenzahlen im oberen Listenteil
+       untergebracht werden. Knubbel bedeutet, daá alle fnf Wrfel jeweils
+       dieselbe Augenzahl geworfen haben.
+
+       Im oberen Listenteil werden die Augen aller Wrfel aufaddiert, die
+       die entsprechende Augenzahl aufweisen.
+
+       Xer Pasch bedeutet, daá X Wrfel dieselbe Augenzahl tragen. Als Score
+       wird hier die Summe aller Wrfel eingetragen.
+
+       FULL HOUSE bedeutet ZWEI UND DREI gleiche Wrfel:          25 Punkte
+       Eine KLEINE STRAáE sind 4 aufeinanderfolgende Augenzahlen: 30 Punkte
+       Eine GROáE  STRAáE sind 5 aufeinanderfolgende Augenzahlen: 40 Punkte
+       Ein KNUBBEL sind fnf Wrfel mit gleicher Augenzahl      : 50 Punkte
+       CHANCE bedeutet einfach der Eintrag der gesamten Augenzahl des Wurfs.
+
+       Das Programm ist haupts„chlich nur durch die Maus bedienbar.
+       Einige Tastaturfunktionen werden zus„tzlich untersttzt:
+       ENTER            Best„tigungstaste
+       ESCAPE           Verneinungstaste
+       SPACE oder <n>   Neues Spiel
+       <e>              Ende
+                                               ¿  Die Farbnummern 1-63 k”nnen
+       <+>              Hintergrund vorw„rts   ³  beim Programmstart in der
+       <->              Hintergrund rckw„rts  ³  Kommandozeile hinter dem
+                                               Ù  Programmnamen als Parameter
+                                                  angegeben werden.
+
+       Die Farbnummern entsprechen den Farbnummern des MAU MASTER 94 VGA.
+
+
+       CARDWARE
+       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+       ³ Im Gegensatz zu der Vollversion des ³                    ÚÄÄÄÄÄÄ¿ ³
+       ³ MAU MASTER VGA darf dieses Spiel    ³                    ³      ³ ³
+       ³ (KNUBBEL.EXE) frei kopiert und      ³                    ³      ³ ³
+       ³ weitergegeben werden.               ³                    ÀÄÄÄÄÄÄÙ ³
+       ³ Cardware bedeutet, daá, wenn Euch   ³                             ³
+       ³ dieses Spiel gef„llt, Ihr mir eine  ³     An                      ³
+       ³ POSTKARTE mit einem Motiv Eures     ³                             ³
+       ³ Heimatortes fr meine Postkarten-   ³     Klaus  Hinrichs         ³
+       ³ Sammlung schickt. Auch k”nnt Ihr    ³                             ³
+       ³ mir Verbesserungsvorschl„ge oder    ³     Lerchenstraáe  18       ³
+       ³ neue Spielideen zuschicken.         ³                             ³
+       ³                                     ³                             ³
+       ³       Euer                          ³     49088  Osnabrck        ³
+       ³            Klaus                    ³                             ³
+       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+       WERBUNG:
+
+       MAU MASTER 95 VGA ist ein grafisches MauMau-Spiel mit "echten"
+       Spielkarten.
+       Es ist sowohl mit der Maus als auch ber die Tastatur bedienbar.
+       Die Bildkarten k”nnen verschiedene Motive zeigen und sind mit einem
+       dem Spiel beiliegenden Malprogramm editierbar, d.h. es k”nnen
+       selbsterstellte Bildkarten in das Spiel "eingebaut" werden.
+
+       Die Shareware-Version ist bei allen guten Shareware-Services
+       erh„ltlich.
+
+       Die Vollversion des MAU MASTER 95 VGA erm”glicht das Ausschneiden von
+       Motiven aus beliebigen PCX-Bilddateien und deren Verwendung als
+       nachladbare Kartens„tze. Firmenlogos z.B. als JOKER-Karte, die mit der
+       Vollversion erstellt worden sind, k”nnten so mit der Sharewareversion
+       als Werbegeschenke weitergegeben werden, etc.
+
+       Die Vollversion des MAU MASTER 95 VGA kann fr NUR 25,- unter obiger
+       Adresse bestellt werden. Sie ist mit einer Registriernummer versehen
+       und darf im Gegensatz zu der Sharewareversion NICHT weitergegeben
+       werden.

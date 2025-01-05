@@ -1,0 +1,113 @@
+             Sokoball:  A Game Of Forethought And Strategic Design
+                     Copyright (C) 1993 by Jim Radcliffe
+                            All Rights Reserved
+
+
+Hardware Requirements:
+
+286 or better with VGA monitor, a keyboard would be nice too
+
+
+What is Sokoball?
+
+Sokoball is my version of the Sokoban puzzles you may have seen in the past.
+Sokoban is Japanese for "warehouse man".  In Sokoban puzzles you must generally
+push a number of boxes around the screen to a designated position.  The key
+word here is push.  In Sokoban puzzles that is the only way you can move any
+box.  You must push it to its' destination.  Sokoball abides by this rule as
+well (in most cases). 
+
+
+What's the object of the Sokoball game?
+
+Clear all of the boxes from the board by pushing them down the exit shafts.
+You are not under the gun of a clock or any number of moves.  You simply must
+clear all boxes from the board to "beat" or solve the puzzle.  I like the word
+beat.
+
+
+What are the differences between Sokoball and Sokoban?
+
+All of the Sokoban games that I have seen have offered a number of puzzles or
+levels that you had complete in succession.  In addition, they all required
+you to simply get the boxes to a designated area with the only hazards being
+moving your boxes into a corner or creating a pile of boxes which you could not
+move.  In Sokoban you can only push one box at a time and you can only push the
+boxes across a totally empty floor tile.  Sokoball follows this tradition.
+
+
+Now the neat stuff....
+
+I wanted to add  some additional hazards and obstacles to overcome in Sokoball,
+such as one way streets, pop-up barriers and floor plans that change when you
+cross certain floor tiles.  I didn't want to force anyone to complete a series
+of puzzles in a specific order. In Sokoball you can play any puzzle you wish
+at any time.  If a certain Sokoball puzzle has you stumped, give it a rest and
+come back to it later.  In the meantime, how about solving that puzzle your
+co-worker created and bet you 10 bucks you couldn't solve.  That's right, with
+Sokoball you can create your own puzzles...it comes with an Editor so you can
+edit and create your own diabolical puzzles for those know-it-alls you work
+with to solve.
+
+
+How do you move?
+
+All movements on the game board are by using the cursor control keys.
+Sokoball is not mouse aware and there are no plans to bring rodents into
+the game.  
+
+
+Game Tips
+
+In Sokoball you will have to think about future moves all of the time, unless
+you create some really dumb puzzles!  You will generally have to move boxes in
+a certain order.  You will often have to activate one or more of the slider
+tiles to make a box accessable but be careful, do it to late or to soon and
+you are stuck.
+
+Never push a box in a corner unless you have a way to get it out again.
+Boxes can only be pushed on totally plain tiles and only one box can be pushed
+at a time.
+
+
+
+Sokoball ShareWare  or  Sokoball Commercial...which to choose?
+
+Sokoball is being released as ShareWare.  This means that you may freely copy
+and distribute it for non-commercial purposes.  You may copy it for your
+friends, you may upload it to bulletin boards, you can even send $10 to me if
+you like Sokoball and want the non ShareWare version.  Huh? 
+
+That's right, there is a commercial version of Sokoball.  While the ShareWare
+version will allow you to create original Sokoban type puzzles it will not let
+you have access to all the neat features I have added to the Editor.
+
+If you send your $10 registration fee you'll get all the new gizmos for the
+Sokoball Editor plus the ability to make your Sokoball puzzles un-editable
+by others.  I'll send you the latest non-ShareWare version of Sokoball on your
+choice of diskettes, a manual and any new puzzles that have been contributed.
+
+To Register and receive the Non-ShareWare version of Sokoball......
+
+Send $10 (check or money order) and your preference in disk size to:
+
+Jim Radcliffe
+P.O. Box 823
+Coppell, TX  75019    
+
+It's my hope that many of you will create some really neat Sokoball puzzle
+boards and upload them to CompuServe, America OnLine, Etc.  I enjoy solving 
+these things but I don't like solving the ones I created.  Come on, hit me
+with your best shot.  This is why I designed Sokoball so you could work on
+any puzzle you choose instead of having to go through levels.   But PLEASE,
+don't upload any puzzle that can't be solved.  Many of the Sokoball puzzles
+appear to be impossible to solve at first glance.
+
+Whether you register or not I hope you enjoy Sokoball.  I enjoyed writing it.
+Sokoball was written in QuickBasic 4.5.   I used the game development to learn
+more about graphics in the basic language for another project I was working on.
+Enjoy.
+
+CompuServe Email to:  Jim Radcliffe   72307,3077
+
+

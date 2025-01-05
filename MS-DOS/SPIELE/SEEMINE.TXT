@@ -1,0 +1,149 @@
+
+       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+       ³  SEEMINE  V1.0  Ein Cardware-Spiel   /  Spielregeln und Hinweise  ³
+       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+       Spielregeln:
+       Dieses Spiel soll nicht als Kriegsspiel verstanden werden, auch
+       wenn der Name und die Spielelemente einen gewissen milit„rischen
+       Charakter aufweisen. Es geht eigentlich nur darum, mit šberlegung
+       und ein wenig "Fingerspitzengefhl" ein verdecktes Spielfeld
+       geschickt aufzudecken, ohne auf die verbotenen Fl„chen zu geraten.
+       In den meisten Varianten dieses Spieles sind die verbotenen Fl„chen
+       Minen. Hier sind sie ebenfalls als Minen dargestellt.
+       Wenn Euch ein friedlicheres Scenario als Hintergrund fr dieses
+       Spiel einf„llt, dann schreibt mir bitte (s.a. Cardware-Hinweis) !
+
+       Die Gr”áe der Spielfl„che (H”he,Breite), d.h. die Anzahl der
+       aufzudeckenden Felder, kann ebenso eingestellt werden, wie die
+       Zahl der Minen. Voreingestellt sind 20 * 30 = 600 Felder mit 50
+       Minen. Die maximale Minenzahl ist von der Anzahl der Felder
+       abh„ngig. Nur jeweis 40% der Felder k”nnen Minen sein, d.h. bei
+       600 Feldern k”nnen h”chstens 240 Minen festgelegt werden.
+
+       Bei Spielbeginn wird der Mauszeiger immer auf ein Feld gesetzt,
+       unter dem sich garantiert keine Mine befindet.
+       Wird dieses Feld dann mit der linken Maustaste angeklickt, wird es
+       zusammen mit allen benachbarten "Freifeldern" aufgedeckt.
+
+       Einige Freifelder sind durch Zahlen gekennzeichnet. Diese Zahlen
+       geben die Anzahl der Minen an, die sich in unmittelbarer N„he zu
+       dem jeweiligen Feld befinden. Eine 2 bedeutet beispielsweise, daá
+       dieses Feld "Kontakt" mit zwei Minen hat. Bei einer 3 werden drei
+       Minen berhrt, und so weiter...
+       Minen, die nur ber eine Ecke mit dem Feld verbunden sind, werden
+       mitgez„hlt.
+
+       Ist eine Mine lokalisiert, kann sie mit einem Druck auf die rechte
+       Maustaste markiert werden. Eine markierte Mine ist gesichert, d.h.
+       sie kann nicht versehentlich mit der linken Maustaste aufgedeckt
+       werden. Die Markierung kann wieder aufgehoben werden, indem sie
+       mit der rechten Maustaste erneut angeklickt wird. Das Aufheben der
+       Markierung erfolgt in zwei Schritten. Wird die Markierung einmal
+       mit der rechten Maustaste angeklickt, bleibt als "Erinnerung" an
+       die Markierung ein Fragezeichen stehen. Das Feld ist aber schon
+       wieder "scharf". Es kann also mit der linken Maustaste aufgedeckt
+       werden. Ein weiteres Anklicken mit der rechten Maustaste l„át auch
+       das Fragezeichen wieder verschwinden.
+
+       Eine "Hilfsmarkierung" mit Fragezeichen kann sinnvoll sein, da
+       "echte" Markierungen nur in derselben Anzahl wie die Minen
+       vorhanden sind. Bei 50 Minen stehen also auch nur 50 F„hnchen
+       zu Verfgung.
+
+       Ziel des Spiels ist es, alle Freifelder aufzudecken und dabei alle
+       vorhandenen Minen zu markieren. Es wird gegen die Zeit gespielt,
+       denn die zehn schnellsten Spieler werden in die Bestenliste
+       aufgenommen. Fr jede Konfiguration (Anzahl Felder , Anzahl Minen)
+       wird eine eigene Bestenliste gefhrt. Diese Bestenlisten werden in
+       der Datei SEEMINE.HOF gespeichert. Notfalls kann die Datei auch
+       gel”scht werden.
+
+       Wird eine Mine aufgedeckt, ist das Spiel natrlich zuende. Alle
+       noch verdeckten Fl„chen werden automatisch aufgedeckt, damit man
+       seine "Fehler" nachvollziehen kann. Richtig markierte Minen
+       erhalten einen hellblauen Hintergrund. Markierungen, die auf ein
+       Freifeld gesetzt wurden, werden durch einen hellen Kreis
+       gekennzeichnet.
+
+       Ein Druck auf eine beliebige Taste er”ffnet einen neuen Durchgang.
+
+       šber die verbrauchte Zeit und die mutmaáliche Zahl der
+       ungesicherten Minen informieren zwei Displays.
+
+       Wird das Spiel unterbrochen, z.B. wenn die jeweilige Bestenliste
+       eingeblendet wird (Druck auf die Leertaste <SPACE> ), wird
+       natrlich auch die Zeit angehalten, damit wirklich nur die
+       Netto-Spielzeit erfaát wird.
+
+       Die Taste <INFO> blendet die aktuelle Version von SEEMINE ein.
+
+       Die Taste <FELD> ruft ein Schaltfeld auf, mit dem eine neue
+                        Konfiguration (H”he, Breite, Minenzahl) festgelegt
+                        werden kann.
+
+       Die Taste <NEU>  bricht das aktuelle Spiel sofort ab und beginnt
+                        ein neues.
+
+       Die Taste <ENDE> erm”glicht den Ausstieg aus dem Programm. Ist ein
+                        Spiel noch nicht beendet, aber bereits Felder
+                        aufgedeckt, kann es bei Bedarf gespeichert werden.
+                        Beim n„chsten Aufruf des Programms kann dann an
+                        derselben Stelle und mit derselben Konfiguration
+                        und Zeit weitergespielt werden.
+
+
+       Die Hintergrundfarbe kann mit den Tasten <+> und <-> ver„ndert werden.
+       Eine bestimmte Hintergrundfarbe kann auch beim Programmstart als
+       Parameter angegeben werden.  "SEEMINE 7" startet beispielsweise mit
+       der Hintergrundfarbe 7. Die Nummern der jeweiligen Farben entsprechen
+       den Werten, die im Programm MAU MASTER eingestellt werden k”nnen.
+
+       Damit w„re alles Wichtige zum Verst„ndnis des Spiels gesagt.
+       Ein Gefhl fr den Reiz dieses Spiels stellt sich n„trlich erst
+       durch Selberspielen ein. Ich wnsche dazu viel Spaá.
+
+       Und: Nicht verzweifeln, wenn am Anfang einiges unlogisch erscheint !
+
+
+       CARDWARE
+       ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+       ³ Im Gegensatz zu der Vollversion des ³                    ÚÄÄÄÄÄÄ¿ ³
+       ³ MAU MASTER VGA darf dieses Spiel    ³                    ³      ³ ³
+       ³ (SEEMINE.EXE) frei kopiert und      ³                    ³      ³ ³
+       ³ weitergegeben werden.               ³                    ÀÄÄÄÄÄÄÙ ³
+       ³ Cardware bedeutet, daá, wenn Euch   ³                             ³
+       ³ dieses Spiel gef„llt, Ihr mir eine  ³     An                      ³
+       ³ POSTKARTE mit einem Motiv Eures     ³                             ³
+       ³ Heimatortes fr meine Postkarten-   ³     Klaus  Hinrichs         ³
+       ³ Sammlung schickt. Auch k”nnt Ihr    ³                             ³
+       ³ mir Verbesserungsvorschl„ge oder    ³     Lerchenstraáe  18       ³
+       ³ neue Spielideen zuschicken.         ³                             ³
+       ³                                     ³                             ³
+       ³       Euer                          ³     49088  Osnabrck        ³
+       ³            Klaus                    ³                             ³
+       ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+       WERBUNG:
+
+       MAU MASTER 95 VGA ist ein grafisches MauMau-Spiel mit "echten"
+       Spielkarten.
+       Es ist sowohl mit der Maus als auch ber die Tastatur bedienbar.
+       Die Bildkarten k”nnen verschiedene Motive zeigen und sind mit einem
+       dem Spiel beiliegenden Malprogramm editierbar, d.h. es k”nnen
+       selbsterstellte Bildkarten in das Spiel "eingebaut" werden.
+
+       Die Shareware-Version ist bei allen guten Shareware-Services
+       erh„ltlich.
+
+       Die Vollversion des MAU MASTER 95 VGA erm”glicht das Ausschneiden von
+       Motiven aus beliebigen PCX-Bilddateien und deren Verwendung als
+       nachladbare Kartens„tze. Firmenlogos z.B. als JOKER-Karte, die mit der
+       Vollversion erstellt worden sind, k”nnten so mit der Sharewareversion
+       als Werbegeschenke weitergegeben werden, etc.
+
+       Die Vollversion des MAU MASTER 95 VGA kann fr NUR 25,- unter obiger
+       Adresse bestellt werden. Sie ist mit einer Registriernummer versehen
+       und darf im Gegensatz zu der Sharewareversion NICHT weitergegeben
+       werden.
