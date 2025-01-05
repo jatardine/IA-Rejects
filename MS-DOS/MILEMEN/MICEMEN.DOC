@@ -1,0 +1,155 @@
+
+
+                       * SOLEAU SOFTWARE PRESENTS *
+
+                                 MICE MEN
+                                   
+                                   v1.0
+                           ___________________
+
+                        Program by William Soleau
+                                (c) 1992
+
+
+
+                      Requirements:  EGA/VGA GRAPHICS
+
+
+                              Files Needed
+
+                         Micemen.exe  Micemen.ov1
+                         Micemen.ov2  Micemen.ov3
+
+
+
+                             * Objective *
+
+      The object of Mice Men is to get all twelve of your color mice
+      to the other end of the game board before your opponent does.
+      In this version you will always be playing the blue mice and the
+      computer will play the red mice.
+
+
+
+                         * Setting Difficulty *
+
+      At the opening screen, the game will ask you for the difficulty
+      level of play.    <H>ard  <M>edium  <E>asy
+
+      The computer will then randomly decide who will take the first
+      turn.
+
+
+                                 * Play *
+ 
+      The game board consists of 19 columns and 13 rows of various cheese
+      blocks.  At the start of play, the blue mice are located on the
+      left side of the cheese board and the red mice are on the right.
+      When it is your turn to play, special pushing poles will be shown
+      at the bottom of those columns where you have mice located. Using
+      your left and right arrow keys you can select the column you want.
+
+      You can either push or pull the column up or down.  This will
+      shift the entire column in that direction.  It will wrap around,
+      so that if you have a mouse at the top of the cheese board and you
+      push the column up, the mouse will now appear at the bottom.
+      If it's a the bottom and you pull the column down, then it appears
+      at the top.
+
+      By pulling and pushing columns of cheese blocks, you can create
+      passageways for your mice so that they can reach the right side
+      of the cheese board.  The red mice are trying to get all the way
+      to the left side.  After a column has been pushed, that player's
+      mice move as far as they can within the maze.  When they can't
+      move any further, the opponent's mice will then move if they can.
+
+      Each side takes turns pushing and pulling columns of cheese blocks
+      until one player has gotten all twelve of his mice off the game
+      board.
+
+
+                         * Columns Locked Out *
+
+      There are times when you will not be allowed to select a column
+      even though you have mice located in it.  When you have pushed
+      the same column a total of 6 times in a row, it will not allow
+      you to push or pull that column again until you've pushed one
+      of the others.  This is not the case if you have only one possible
+      column to push.
+
+      Any column that has been pushed by an opponent on the previous turn
+      is also locked out for the next turn.  A column that has been locked
+      out will have a yellow 'X' over the pole.
+
+
+                             * Win/Loss/Draw *
+
+      The first player to get his twelve mice off the cheese board will
+      be declared the winner.  If each player has only one mouse left
+      on the cheese board, then there will be only 8 moves left for each
+      player.  The mouse that's further along in the cheese board will be
+      the winner.  If both mice are exactly the same distance, then the
+      game will be declared a draw.  The game will warn you with 5 moves
+      left that the game will end if no one has won by that time.
+
+
+                               * Keys *
+
+           Arrow Keys Left/Right  :   Select Column
+           Arrow Keys   Up/Down   :   Pushes/Pulls Column
+
+                      <N>ew Game  :   Starts new game
+                      <S>ound     :   Toggles Sound On/Off
+                      <C>olors    :   Changes default colors of Cheese & Mice
+                                      (For Laptop Players with Mono Screens)
+                      <L>oad      :   Loads a previously saved game
+                      <S>ave      :   Saves a game to be loaded later
+                      <Q>uit      :   Quit Mice Men Program
+
+
+        The Key Definitions are shown at the bottom of the board at
+        all times.
+
+        Mice Men is easy to play, yet will involve a lot of strategy on
+        your part in order to win, especially at the Hardest level of play.
+        Each game board will be different, so no two games will ever be the
+        same!
+
+
+
+                    *  SOLEAU SOFTWARE  /  REGISTRATION  *
+
+
+             Register Today and Become a Soleau Software Member !!!
+
+
+                             Registered Version
+
+        This Mice Men game is distributed as Shareware. A registration fee
+        of $12.00 is requested if you find this game is a worthy addition
+        to your game collection. The registration will greatly speed up
+        the loading and will allow for two human players.  By registering
+        the game you will instantly become a Soleau Software Member!
+
+        All Soleau Software Members receive information and discounts on
+        our other Shareware Games, plus Special Bonus Package Offers.
+
+        Please take the time to read the MICE_REG.DOC file which describes
+        how you can get information on our many other games and how to
+        become a Soleau Software Member.
+
+        We at Soleau Software thank you for your support and hope you
+        will continue to enjoy this as well as our many other Shareware
+        products.
+
+                                 Sincerely,
+
+                                William Soleau
+                                  President
+
+                              Soleau Software
+                              163 Amsterdam Ave
+                              Suite 213
+                              New York,  NY  10023
+
+

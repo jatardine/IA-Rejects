@@ -1,0 +1,2 @@
+more < mine.doc
+
