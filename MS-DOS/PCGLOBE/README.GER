@@ -1,0 +1,345 @@
+Sollten Probleme bei der Benutzung unserer Software auftreten,
+so k”nnen Sie unseren Support unter folgenden Nummern erreichen:
+
+Telefon : 089 / 460 900 59
+Telefax : 089 / 460 900 50
+
+
+Bevor Sie jedoch die Anwenderuntersttzung zu Rate ziehen, sollten
+Sie folgendes beachten:
+
+1. Lesen Sie immer das Handbuch. Eventuell handelt es sich um einen
+   Bedienungsfehler.
+
+2. Prfen Sie, ob Ihr System mit den Systemvoraussetzungen bereinstimmt.
+
+3. šberprfen Sie mit Hilfe der Befehle CHKDSK oder MEM, ob gengend
+   Hauptspeicher frei ist (mind. 512 KByte).
+
+{
+4. Entfernen Sie eventuell speicherresidente Programme oder Treiber aus
+   den Dateien CONFIG.SYS oder AUTOEXEC.BAT.
+
+5. Prfen Sie, ob die Parameter FILES und BUFFERS in der CONFIG.SYS vor-
+   handen sind und ob diese hoch genug gesetzt sind z. B.:
+
+   FILES = 30
+   BUFFERS = 20
+{
+6. Disk-Cache-Programme k”nnen bei der Installation zu Problemen fhren.
+   Entfernen Sie eventuell die entsprechenden Treiber aus den Dateien
+   CONFIG.SYS oder AUTOEXEC.BAT.
+   Fhren Sie anschlieáend einen Warmstart durch, und versuchen Sie die
+   Installation erneut.
+
+7. Wenn Sie eine VGA-Mono-Karte besitzen, sollten Sie vor dem Start
+   des Programms folgenden Befehl eingeben: MODE CO80.
+
+8. Wenn die Maus nicht funktioniert, berprfen Sie, ob ein Maus-
+   treiber geladen wurde (z.B.: MOUSE.SYS oder MOUSE.COM).
+
+9. Bitte fllen Sie die grne Registrierungskarte aus (liegt jedem Programm
+   bei) und schicken Sie diese an folgende Adresse:
+{
+   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+   ³Registrierungskarte                ³                              ³
+   ³                                   ³                              ³
+   ³Lassen Sie sich m”glichst sofort   ³                              ³
+   ³nach Erhalt der Software regis-    ³                              ³
+   ³trieren, denn:                     ³                              ³
+   ³- Anwenderuntersttzung nur dann   ³                              ³
+   ³  kostenlos                        ³    M&T Software Partner      ³
+   ³- Sie erhalten Informationen ber  ³    International GmbH        ³
+   ³  neue Produkte/Produktverbesserung³    Hans-Pinsel-Str. 9b       ³
+   ³- Sie sind als ehrlicher Anwender  ³                              ³
+   ³  bekannt                          ³    8013 Haar bei Mnchen     ³
+   ³  Registrierung fr :_____________ ³                              ³
+   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+{
+Sollten trotzdem noch Probleme auftreten und Sie den technischen Support
+zu Rate ziehen, sollten Sie folgende Angaben bereithalten:
+
+1. Genaue Fehlerbeschreibung
+2. Wieviel freien Hauptspeicher Sie noch haben.
+3. Mit welchem Betriebssystem Sie arbeiten.
+4. Ausdruck der Dateien CONFIG.SYS und AUTOEXEC.BAT.
+5. Genaue Systemkonfiguration (z.B.: Computertyp u. -hersteller, Grafik-
+   kartentyp u. -hersteller, ....)
+
+Wenn das Programm reibungslos funktioniert, brauchen Sie nicht weiter-
+lesen (Abbruch mit CTRL+BREAK). Im folgenden Text werden optionale
+Installationsparameter, event. Probleme mit PC Globe und kompatible
+Drucker aufgezeigt.
+
+{
+OPTIONALE INSTALLATIONSPARAMETER
+
+Durch Anfgen eines speziellen Installationsparameters k”nnen Sie den
+Ablauf der Installationsroutine „ndern. Dies kann wie folgt aussehen:
+
+install -o
+
+   šbergeht die automatische Erkennung der Grafikkarte.
+
+   Das INSTALL-Programm erkennt normalerweise automatisch die Grafik-
+   karte, die sich in Ihrem Computer befindet. Es kann allerdings vor-
+   kommen, daá Ihre Grafikkarte nicht 100%ig kompatibel zum Standard
+   ist und die automatische Erkennung deshalb nicht funktioniert.
+   Verwenden Sie in diesem Fall folgenden Befehl: INSTALL -o
+{
+install -s
+
+   Der Druckerstatus wird nicht abgefragt.
+
+   Wenn Sie einen Spooler verwenden, mssen Sie m”glicherweise diesen
+   Parameter angeben, damit Ihr Drucker ordnungsgem„á funktioniert.
+
+install -tn
+
+   Textbildschirmverz”gerung (ersetzen Sie n mit 0 bis 9).
+
+install -gn
+
+   Grafikbildschirmverz”gerung (ersetzen Sie n mit 0 bis 9).
+
+   PC Globe verwendet Grafik- und Textbildschirme, um die Geschwindig-
+   keit des Bildschirmaufbaus zu steigern und um Speicher zu sparen.
+   Bei einigen Monitoren kann es vorkommen, daá die Bildschirme w„hrend
+   des Umschaltens flimmern. Mit dieser Option k”nnen Sie nach dem Um-
+   schalten eine Verz”gerung einfgen. Damit kann das Flimmern re-
+   duziert oder ausgeschalten werden.
+
+{
+
+Sie haben auch die M”glichkeit, mehrere Parameter gleichzeitig anzugeben.
+Wenn Sie folgende Zeile eingeben, wird der Druckerstatus nicht abgefragt,
+die Textbildschirmverz”gerung auf 5 und die Grafikbildschirmverz”gerung
+auf 4 gesetzt:
+
+INSTALL -s -t5 -g4
+{
+Probleml”sungen fr PC GLOBE 5.0
+
+F: LaserJet II, IIP, III, oder IIIIP drucken keine Grafik.
+A: Stellen Sie sicher, daá Ihr Drucker auf Hochformat eingestellt ist.
+
+F: Mein Postscript-Drucker arbeitet nicht.
+A: Postscript-Drucker werden nicht untersttzt. Lesen Sie bitte im
+   Druckerhandbuch nach, ob Ihr Drucker zu einem anderen Drucker
+   kompatibel ist.
+
+F: Sie erhalten die Fehlermeldung "Printer not online" (Drucker nicht
+   betriebsbereit).
+A: Ihr Drucker hat eventuell kein Papier mehr oder die Taste ONLINE
+   am Drucker wurde nicht gedrckt.
+   Sollte dies nicht der Fall sein, gehen Sie wie folgt vor:
+   Wechseln Sie ins PC Globe Verzeichnis. Geben Sie folgenden Befehl
+   ein : INSTALL -s. Konfigurieren Sie das Programm und versuchen
+   Sie den Ausdruck erneut.
+   -> siehe auch OPTIONALE INSTALLATIONSPARAMETER
+{
+
+F: W„hrend der Installation erscheint folgende Meldung "Warnung:
+   PCGLOBE.EXE wurde ver„ndert, wollen Sie fortfahren? Abbruch, Weiter,
+   Erneuern".
+A: Das Programm VSafe (oder andere Virussuchprogramme) verursachen dieses
+   Problem. Entfernen Sie dieses Programm vor der Installation aus der
+   Datei AUTOEXEC.BAT oder fgen Sie vor dem Befehl ein REM ein.
+   Dies kann wie folgt aussehen:
+
+   REM c:\cpav\vsafe /1+/2-/3-/4+/5+/6+/7-/8-
+
+   Um die Datei zu editieren, verwenden Sie einen ASCII-Editor. Wenn
+   PC Globe installiert ist, k”nnen Sie REM wieder entfernen. VSafe
+   arbeitet nun wieder ohne Probleme.
+{
+
+F: W„hrend das Programm geladen wird, erhalten Sie die Fehlermeldung :
+   "Packed file is corrupt"
+A: Wenn Sie MS-DOS 5.0 auf Ihrem Rechner installiert haben, k”nnen Sie
+   dieses Problem mit dem Befehl LOADFIX beheben. Bevor Sie PC Globe
+   starten, geben Sie folgende Zeile ein: LOADFIX PCGLOBE.EXE.
+   Diese Meldung bedeutet, daá die Datei PCGLOBE.EXE nicht in die ersten
+   64K des Speichers geladen werden kann.
+   Wenn Sie nicht mit MS-DOS 5.0 arbeiten, sollten Sie den Parameter
+   BUFFERS in der Datei CONFIG.SYS auf 30 setzen.
+{
+
+F: W„hrend des Programmstarts erhalten Sie die Meldung "Out of Memory
+   Loading File c:\WORLD.VEC #12"
+A: Diese Fehlermeldung erscheint, da Sie zu wenig Hauptspeicher haben.
+   šberprfen Sie, wieviel Speicher Sie haben. Geben Sie CHKDSK oder MEM
+   ein. Sollten Sie weniger als 512 KByte freien Hauptspeichers haben,
+   mssen Sie eventuell speicherresidente Programme oder Treiber entfernen.
+{
+
+F: Die Maus arbeitet in Windows korrekt, aber nicht in PC Globe.
+A: Sie haben eventuell keine Microsoft Kompatible Maus oder Sie haben
+   keinen Maustreiber geladen.
+   Geben Sie hinter dem DOS-Prompt folgenden Befehl ein:
+
+   MOUSE\MOUSE.COM
+
+   Damit der Befehl korrekt ausgefhrt wird, muá sich die Datei MOUSE.COM
+   im Verzeichnis MOUSE befinden.
+
+{
+
+
+DRUCKER FšR PC GLOBE 5.0
+
+
+
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ALPS 24 Nadel               ALPS Allegro 24.
+Canon Laser/Twin Laser      Drucker wird nicht unterstzt.
+Canon BJ300                 IBM Proprinter II oder Epson 24 Nadel.
+			    Stellen Sie sicher, daá Ihr Drucker auf den
+			    richtigen Modus eingestellt ist.
+Canon BJ10                  IBM Proprinter II.
+			    Stellen Sie am Drucker die IBM-Emulation ein.
+Citizen 200GX(BL&WH)        Epson EX & FX Serie, 1050.
+Citizen GSX140(BL&WH)       Epson 24 Nadel.
+Citizen GSX140 & 200GX      Star NX-1000 Rainbow Farbdrucker.
+			    Stellen Sie am Drucker die IBM-Emulation ein.
+
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+C-ITOH                      Drucker wird nicht untersttzt.
+DeskWriter C                DeskJet, DeskJet+.
+DeskWriter                  Drucker wird nicht untersttzt.
+Epson Action 1000           Epson 24 Nadel.
+			    Wenn Sie die Fehlermeldung "Printer not on line"
+			    erhalten, wiederholen Sie die Installation,
+			    indem Sie INSTALL -s im PC Globe Verzeichnis
+			    eingeben.
+Epson JX Serie              Epson EX & FX Serie.
+Epson LQ Serie
+    LQ1500                  Epson 24 Nadel
+    LQ2500                  Epson 24 Nadel
+    LQ2550                  Epson 24 Nadel
+Epson LX 800                Epson 24 Nadel
+Fugitsu 2400                Star NX-1000 Rainbow Farbdrucker.
+			    Stellen Sie am Drucker die IBM-Emulation ein.
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+HP Plotter                  Plotter wird nicht untersttzt.
+HP ThinkJet                 HP DeskJet, DeskJet+.
+HP LaserJet I, III          HP LaserJet II, IIP.
+IBM Personal Page Printer   IBM Proprinter II.
+IBM Proprinter              IBM Proprinter II.
+IBM Proprinter IIXL         IBM Proprinter II.
+			    DIP-Schalter 6 muá auf ON eingestellt werden.
+IBM Proprinter I            IBM Proprinter II.  DIP-Schalter 3,5,6 auf ON.
+IBM Proprinter II           IBM Proprinter II.  DIP-Schalter 5,6,7 auf ON.
+IBM Proprinter III          IBM Proprinter II.  DIP-Schalter 3,7,12 auf ON.
+IBM Proprinter X24E         IBM Proprinter II.
+IBM Quietwriter             IBM 5182 Farbdrucker.
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+NEC 2500 Farbdrucker        Epson 24 Nadel Farbdrucker.
+NEC "P" Serie
+    P2200
+    P5220                   Die "P" Serie arbeitet mit dem Epson 24 Nadel
+			    Modus. Fr die 9 Nadeldrucker w„hlen Sie
+			    "Andere 9 Nadeldrucker", wenn Ihr Drucker auf
+			    IBM-Emulation eingestellt ist.
+    P5330
+    P6
+    P7
+    P8
+    P9
+NEC Silentwriter 2260       HP DeskJet, DeskJet+.
+NEC Silentwriter 2290       HP DeskJet, DeskJet+.
+NEC Silentwriter LC890      HP DeskJet, DeskJet+.
+NEC Silentwriter LC890XL    HP DeskJet, DeskJet+.
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Okidata Microline 320       Wenn Ihr Drucker auf IBM Modus eingestellt
+			    ist, w„hlen Sie IBM Proprinter II aus der
+			    Druckerliste. Wenn er nicht zu diesem Drucker
+			    kompatibel ist, w„hlen Sie Okidata 182/192/293
+			    aus der Druckerliste.
+Okidata Microline
+    380                     Okidata 182/192/293.
+    390+, 391+              IBM Proprinter II, wenn Ihr Drucker dazu
+			    kompatibel ist.
+Okilaser 400                HP LaserJet II, IIP.
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Panasonic 1091 & 1080       W„hlen Sie "Andere 9 Nadeldrucker", wenn sich
+			    Ihr Drucker im IBM-Modus befindet.
+Panasonic 1092              W„hlen Sie "Andere 9 Nadeldrucker", wenn sich
+			    Ihr Drucker im IBM-Modus befindet. Wenn die
+			    Fehlermeldung "Printer not on line" erscheint,
+			    starten Sie das Installationsprogramm mit
+			    INSTALL -s im PC Globe Programm.
+Panasonic 1695              Epson EX & FX Serie
+Panasonic KX 1180           Epson EX & FX Serie
+Panasonic KX-P1124          Epson 24 Nadel
+			    (W„hlen Sie Normaldruck im Men).
+Panasonic KX-P4220 Laser    HP LaserJet II, IIP.
+			    (W„hlen Sie Normaldruck im Men).
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+QMS 810, 820                Qume LaserTen Plus.
+Seikosha or SL90            Epson 24 Nadel.
+			    Wenn die Fehlermeldung "Printer not ready"
+			    erscheint, wiederholen Sie die Installation
+			    mit folgendem Parameter: INSTALL -s
+Star SG10                   IBM Proprinter II.
+			    DIP-Schalter 1-2, 2-2 mssen auf OFF sein
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Tandy DMP Series
+    105                     IBM Proprinter II.
+			    DIP-Schalter 1,2,3,6 mssen auf ON sein
+    107                     Andere 9 Nadeldrucker
+    120                     Andere 9 Nadeldrucker
+    130                     IBM Proprinter II
+			    DIP-Schalter 1,2,3,7 mssen auf ON sein
+    132                     IBM Proprinter II. DIP-Schalter 5,6 auf OFF
+    133                     Star NX-10, NX, NX-15, NX-1000.
+    136                     Epson EX & FX, Serie, 1050.
+    430                     IBM Proprinter II.
+			    DIP-Schalter 1,2 auf ON.
+    440                     IBM Proprinter II.
+			    DIP-Schalter 1,2,3,6 mssen auf ON sein
+    2103                    IBM Proprinter X24E & XL24E.
+
+{
+Ihr Drucker ...             Ein kompatibler Drucker ist m”glicherweise:
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Tandy 220 & 240 Farbdrucker Star NX-1000 Rainbow Farbdrucker.
+Tandy LP 950 Laser          HP LaserJet II, IIP.
+Toshiba Expresswriter       IBM Proprinter II.
+			    Stellen Sie Ihren Drucker auf IBM-Modus
+Toshiba 301 & 311           IBM Proprinter II.
+			    Stellen Sie Ihren Drucker auf IBM-Modus
+Toshiba
+    P321SL                  IBM Proprinter II.
+			    Stellen Sie Ihren Drucker auf IBM-Modus
+    P341SL                  IBM Proprinter II.
+			    Stellen Sie Ihren Drucker auf IBM-Modus
+    P351SL                  IBM Proprinter II.
+			    Stellen Sie Ihren Drucker auf IBM-Modus
+Toshiba Pagelaser 6         HP LaserJet II, IIP.
+Toshiba Pagelaser 12        HP LaserJet II, IIP.
+{
+
+Wenn Ihr Drucker hier nicht aufgefhrt ist, fragen Sie Ihren H„ndler,
+zu welchem Drucker Ihr Ger„t kompatibel ist.
+Wenn Sie einen „lteren Nadeldrucker verwenden, geben Sie vor dem Start
+von PC Globe den DOS-Befehl GRAPHICS ein. Mit der Tastenkombination
+UMSCHALT-DRUCK wird die Grafik auf den Drucker ausgegeben.
+Einige Drucker unterscheiden nicht zwischen "Draft" und "Normal" - Modus.
+
+PC Globe, Inc.
