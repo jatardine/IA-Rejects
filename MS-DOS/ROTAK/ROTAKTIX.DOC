@@ -1,0 +1,191 @@
+
+
+
+
+
+                            R O T A K T I X
+
+                         AN ARCADE PUZZLE GAME
+                   FOR IBM AND COMPATIBLE COMPUTERS
+                                   
+                             (version 1.1)                                   
+                                   
+                                   by
+
+                               Loyd L Towe
+
+
+                                   And
+                                   
+                           Data Wave Software
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                  Copyright  1993 Data Wave Software
+                          All Rights Reserved
+                                   
+                                   
+******* NOTE:  IN THIS SHAREWARE VERSION OF ROTAKTIX, ONLY THE ********
+        FIRST 3 LEVELS CAN BE PLAYED, AND NO HIGH  SCORES WILL
+        BE SAVED TO DISK.  YOU  MAY  PURCHASE  THE  ADDITIONAL
+        LEVELS AND FEATURES AT A VERY REASONABLE COST.  PLEASE
+        SEE THE ORDER.FRM FILE FOR ORDERING AND PRICE INFO.
+
+                             
+                             INTRODUCTION
+
+ROTAKTIX  is a game of luck, strategy and concentration.  Played  on  a
+game  board that has nine vertical columns, or 'wells'.  Each  well  is
+deep  enough  to hold 7 game play pieces, or "tokens", hence  the  game
+board  will contain a maximum of 63 tokens.  During play, tokens appear
+at  the  top  of the game board in a row of 9.  The tokens are  rotated
+left  or  right  using the arrow keys until they are  in  position  for
+maximum  scoring, and then dropped into play by pressing the  spacebar.
+The  amount of time you have to decide the best position, and then drop
+the  tokens  into play is determined by the level you are  playing  and
+shown  as  a "count down" timer on the info section of the game  board.
+If  this timer reaches zero before you have dropped the tokens, it will
+drop  the tokens automatically, at their current position.  One of  the
+most  dynamic and challenging aspects of ROTAKTIX is that all 9  tokens
+are  dropped at the same time, sometimes blocking or covering  up  good
+scoring possibilities.
+
+Scoring  is  based on matching the tokens, by color, in  groups  of  3,
+either  horizontal, vertical or diagonal. These groupings are  referred
+to as "runs".   When a run is scored, those tokens are removed from the
+game board, and any remaining tokens, fall down to fill in where scored
+tokens  have  been removed.  This falling and filling in can  have  the
+effect  of  creating even further runs to be scored, sort  of  a  chain
+reaction.
+
+Each  level in ROTAKTIX is played as a series of 3 goal rounds  plus  a
+bonus  round.  In the first round, you are required to make  a  certain
+number  of  horizontal runs in order to pass that  round.   Other  runs
+still  score, but are not counted towards the round's goal.  The second
+goal round is vertical runs and the third diagonal.  The last round  of
+a  level is the bonus round, this round has no goal other than to  make
+the  most runs possible within a time limit  set by the level  you  are
+playing.  The time limit gets larger in proportion to the level so  you
+have  more time to make a larger score.  In addition, scoring is  based
+on  a  multiple of the level you are playing, so going to higher rounds
+means  a larger score.  In the bonus round, the score for the round  is
+not  added  directly  in,  but is held and accumulated  throughout  the
+round.  At the end of the round, the accumulated score is multiplied by
+the  number  of  runs for that round.  Thus, it is  most  desirable  to
+advance to bonus rounds to accumulate truly massive scores.
+
+While  going  to  higher levels is desirable scoring wise,  it  can  be
+undesirable  as  well, because at each new level  an  additional  token
+color is added to the mix, making gameplay much more difficult.  At the
+end  of the 10th level of play the number of colors and the goals  will
+be  reset  back  to their first level settings and you  will  have  the
+opportunity   to   play  through  another  series  of  10   level/round
+combinations.   The score will continue to build and  the  level  count
+will continue to rise all the while.
+
+The game continues in this manner until the entire game board is filled
+with  tokens  and no more can be dropped into play, or if you  manually
+quit  the  game.  Your score will then be compared to the  high  scores
+saved from previous games and you might be given an opportunity to  add
+your name to the list of all time high scores.
+
+
+                                SCORING
+
+Scoring in ROTAKTIX is calculated using the following formula:
+
+  SCORE =  # OF TOKENS x 50 POINTS(PER TOKEN) x LEVEL
+
+so for an example, you get 3 runs on a drop, 1 horizontal, 1 vertical
+and 1 diagonal, on level 1:
+
+  horizontal   =    3 x 50 x 1      =   150
+  vertical     =    3 x 50 x 1      =   150
+  diagonal     =    3 x 50 x 1      =   150
+  -----------------------------------------------------------------
+  for a total of                        450
+
+A token can be part of more than one run.  It might appear as though
+runs of 4 or 5 like tokens are being scored, but in reality what is
+happening is that 2, 3, 4 or more runs (of 3) that share common tokens
+are being scored.
+
+Wild tokens will appear now and then, and they can match any other
+token to make runs, though they score the same as regular tokens.  An
+example of a nice use of wild tokens would be to have 2 reds and 2
+greens separated by an open slot, you drop a wild one in to the open
+slot to make 2 runs, one red and one green.
+
+
+                             GAME CONTROLS
+                                   
+LEFT ARROW KEY    =   ROTATE TOKENS LEFT
+RIGHT ARROW KEY   =   ROTATE TOKENS RIGHT
+SPACEBAR  =  DROP TOKENS INTO PLAY
+T  =  TOGGLE SOUND FX ON/OFF
+S  =  SWAP TOKEN SETS
+G  =  TOGGLE GOAL DISPLAYS ON/OFF
+ESC  =  QUIT THE GAME
+F1  =  ON-LINE HELP SCREENS
+
+                             HINTS & TIPS
+
+In the goal rounds, take your time and look for the best scoring
+possibilities.  In the bonus rounds, try to go as fast as you can.
+Scoring in the bonus round is based on the number of runs.  Be sure not
+to fill up the game board though as doing this at any time during the
+game, will end the game.  For maximum score, avoid making the goal for
+as long as possible to score higher at lower levels, again be sure not
+to fill up the game board.  Look for multiple runs on a drop.  Look for
+chain reaction scoring, i.e.: runs that will be made as a result of
+tokens falling and filling in where scored tokens have been removed.
+
+
+
+                          INSTALLING ROTAKTIX
+
+While ROTAKTIX does not require hard drive installation, it is highly
+recommended as it will pause for extended periods during gameplay if
+played from floppy.  Always use a backup copy of the ROTAKTIX master
+disk if playing from floppy.
+
+To install ROTAKTIX, place the master disk in the appropriate drive,
+connect to that drive and type 'INSTALL' and press return.  The
+installation program will ask you the appropriate information.
+
+
+                         REGISTERING ROTAKTIX
+
+When you purchase the full, deluxe version of ROTAKTIX, it adds the
+unlimited levels and the save high scores to disk feature.  You also
+get the handy quick reference manual, demo's of upcomming products,
+technical support, a money saving coupon good for future Data Wave
+products and a free subscription to RIPPLES the Data Wave newsletter
+detailing new and exciting products.
+                           
+If you have a Compuserve account, you can register ROTAKTIX online.                           
+Just GO SWREG and search ROTAKTIX in the database.  Nothing could be
+easier, and you'll get the deluxe version extra fast!
+
+                           TECHNICAL SUPPORT
+
+You can get technical support for all Data Wave products via the
+following methods:
+
+E-mail to;
+
+Internet:    towel@elcsci.com
+Compuserve:  70614,1721
+
+or US Mail to;
+
+Data Wave Software
+13500 SW Pacific Hwy. #457
+Portland, Oregon 97223
+
+Unregistered software will only get limited technical support.
+
+

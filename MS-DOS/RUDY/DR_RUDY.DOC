@@ -1,0 +1,339 @@
+
+                               DR. RUDY
+                             version 1.20
+                      (C) 1992 By Kevin J. North
+                      Released February 23, 1992
+
+                            * Game Manual *
+
+
+1. Notice
+---------
+
+   This program is being distributed primarliy among electronic bulletin
+board systems. Please distribute this file in an archive format (ARJ, ZIP,
+LZH, etc.) with the following name: "RUDY112.*" where the asterisk represents
+the appropriate extension.
+
+   Please verify that the following files are present:
+
+      DR.EXE         - Executable program file
+      DR_RUDY.DOC    - This documentation manual
+      ORDER.FRM      - Registration form
+
+   The data file that the program creates, called "DR_RUDY.DAT", is created
+automatically if not present, and should NOT be included in the archive file.
+
+
+2. Introduction
+---------------
+
+   DR. RUDY is an arcade/action game for one or two players. It was written
+to support 256-color VGA mode, but will also work on color EGA and CGA
+systems. To run the program, type in "DR" at the DOS prompt and press ENTER.
+The first time you run the program, you will get a message on the screen
+asking you to enter the video card of your choice. Press the '1' key if you
+have a VGA system, or '2' if you have EGA or CGA. The choice you made will be
+saved to a configuration file in the current directory called "DR_RUDY.DAT",
+so the next time you run the program you won't have to choose the video card
+again: you will instead be presented with a short title screen instructing
+you to press the space bar to begin. At this screen you can use F10 to have
+the program ask for a new video card and re-calibrate the game speed (useful
+if you move the game to another computer).
+
+
+3. How to play
+--------------
+
+   Dr. Rudy, a research physician for a major company, has just returned from
+a one-week vacation with his family. Upon entering his office, he is surprised
+to find that a virus experiment he was running has gotten out of control and
+there are now viruses contaminating several other experiments. Luckily,
+Dr. Rudy has a supply of vitamin capsules which are known to be lethal to the
+viruses under certain conditions. It is your job to help Dr. Rudy stop the
+virus infestation!
+   To start a 1-player game, press the ENTER key. You will first be shown a
+small "menu" of three options: "Begin Game," "Change Level" and "Change
+Skill." To select an option, use the '2' key to move down and the '8' key to
+move up (or use the up & down arrow keys). Press ENTER to choose an option.
+Choosing "Change Level" will increase the current level by one. If the level
+exceeds 15, it will "wrap around" to 0. Choosing "Change Skill" will change
+the skill level of the game. Press ENTER to toggle between "EASY," "ADVANCED"
+and "EXPERT." Finally, choosing "Begin Game" will start the game with the
+level and skill that you selected. For your first game, you probably will
+want to choose "EASY" and level 0.
+   You are presented with a bottle with some viruses in it of three different
+colors. Immediately Dr. Rudy presents you with a pill and it is your job to
+guide the pill as it slowly falls through the bottle and place it such that
+it becomes lethal to neighboring viruses.
+   To move the pill to the left, press the '4' key. To move the pill to the
+right, press the '6' key. It is suggested that you use the numeric keypad for
+this with the "Num Lock" light on; however, extended keys are now supported and
+you may use the left & right arrow keys if you like. You may also rotate pills
+counterclockwise by pressing the '5' key, or speed up a pill's descent by
+pressing the '2' key. The extended-key equivilent would be the keypad centre
+OR up arrow for rotate, and the down arrow for descent.
+   Pills are made up of two sections, each one of the same colors as the
+viruses in the bottle. By placing pills such that you get four of the same
+color in a row, vertically or horizontally, the whole line disappears, taking
+any viruses that were in that row with it. If you can get more than one virus
+at the same time, you will get a much bigger score.
+   Once a pill hits the bottom of the bottle, a virus or another pill,
+Dr. Rudy will quickly hand you a new one. You can watch Dr. Rudy in the
+upper-right hand corner of the screen to see what color pill he'll hand you
+next.
+   When all viruses are cleared, you go to the next level: Dr. Rudy hands you
+another bottle which has four more viruses in it than last time. But you also
+score more points for each virus that you destroy.
+   If you can't place the vitamin pills fast enough, and they start stacking
+up, you're in trouble. If the bottle fills all the way to the top, the game is
+over. If you did good enough, you may get a high score - in which case you'll
+be prompted to enter your initials. After entering up to 3 characters, press
+ENTER.
+
+
+4. Game features
+----------------
+
+   If you don't quite understand how to play, then you can watch the sample
+game. Just wait about ten seconds at the title screen, and suddenly the game
+will start to play by itself. Pressing the space bar will activate a brief,
+built-in instructions screen.
+   During game play, pressing ESC will immedeately end your game and return
+you to the main menu. Pressing ESC at the title screen or sample game will
+return you to DOS.
+   Dr. Rudy features three different skill levels: "EASY," "ADVANCED" and
+"EXPERT." In EASY mode, there are three colors of viruses and three colors
+of pills: red, blue and yellow. I have had many requests from people to make
+the game more difficult, so I added two more skill levels. In ADVANCED mode,
+a fourth color is introduced: green! Half of the blue viruses have mutated
+into green, so you must eliminate them as well. Dr. Rudy will now hand you
+some green pills. In EXPERT mode, there are no green viruses, but Dr. Rudy
+has a whole bunch of green pills and no time to sort through them. You are
+given green pills that you don't even need! You can still eliminate them by
+getting four greens in a row, but they obviously can't be used to eliminate
+viruses. Note: In CGA mode, a fourth color is not available, so pills and
+viruses with a "drilled-out" center are used.
+   Dr. Rudy features an "options menu" in which you can customize the game.
+Press F10 to enter this menu. Use the 8 & 2 keys (or the up & down arrow
+keys) to select an option, and press ENTER to choose it. To exit this menu,
+press either ESC or F10.
+   The first few options are "toggle" options, meaning that when you choose
+the option the current status of that option will be reversed; i.e. from on to
+off or from off to on. "Frequent save," on by default, will have the program
+save your configuration file to disk every time a change is made in the options
+menu or you get a new high score. If this is turned off, the options are only
+saved when you exit the program. You will probably want frequent save left on
+if you have a habit of turning off the computer before fully exiting programs.
+   You can toggle "Game sound" and "Demo sound" to turn sound on or off during
+game play and during the sample game. Sound is generated on the standard PC
+internal speaker. It might be wise to turn off the sound if your roommate is
+taking a nap.
+   If you are in VGA mode, the option "Toggle virus animation" appears. It's
+on by default, but if you find that the viruses are too distracting then you
+can toggle this option to "OFF". Viruses are not animated in CGA mode.
+   "Adjust game speed" allows you to change the speed of the game. The
+Dr. Rudy game automatically configures its speed to your computer the first
+time you run the program. It should configure itself so that pills fall
+at approximately 2 lines per second. If for some reason this is not the case
+on your computer, or you find the game to be too easy or too difficult, you
+may want to manually change the speed. This can be done quite easily using
+this option. A sample game screen will appear, after which you can press '+'
+to increase the speed, or '-' to decrease the speed. When the sample game is
+running at the same speed as you'd like the game to play, press any other key
+and you will return to the options menu. Immedeately to the right of this
+option is a number; you can use it as a relative guideline as to what speed
+the game is currently set to (but remember you can't change this number
+directly). Higher numbers represent faster speeds. One last note: It is
+possible that the sample game will act strangely when you are adjusting the
+game speed, in that it makes different moves than what it usually does. This
+is normal and will not cause any problems. If the sample game ends before
+you are done adjusting the speed, simply choose this option again.
+   "Register your copy" allows you to enter registration information if
+you decided to register your copy of the game (described in the next
+section). You are prompted for your name, serial number and registration
+code. Enter each item exactly as it appears on the sheet that was sent to
+you, pressing ENTER after each one. If you typed in the information
+correctly, you will see "CORRECT" at the bottom of the screen, and the
+two-player mode will be activated.
+   The last option is "See shareware screen," which displays the Dr. Rudy
+shareware notice. Game policies are described in section 7 of this manual.
+
+
+5. Registering your copy of the game
+------------------------------------
+
+   Dr. Rudy is currently being distributed as freeware, which means that
+you are not required to send any money to the author. My goal in writing
+this game is to provide entertainment for computer users of all ages, not
+to make people feel guilty with yet another Shareware notice requesting
+mandatory contribution. However, this program now represents approximately
+90 hours of programming & development time, and I would appreciate any
+contributions sent to me.
+   In order to encourage users of this program to contribute, for version
+1.20 I have finally completed the simultaneous two-player mode, and it
+will only be available to those users who have "registered." I am only
+asking for $10, which should be a bargain compared to some of the other
+games out there.
+   To register your copy, simply make a printout of the registration form
+in the file ORDER.FRM included with this program (or copy the information
+from it onto a sheet of paper if you don't have a printer), fill out the
+form, enclose a check or money order redeemable in the U.S. for $10 and
+mail it to this address:
+              Dr. Rudy Registration
+              c/o Kevin J. North
+              2623 S. MarVista St.
+              Stillwater, OK  74074-2227
+   You will receive from me (among other things) a sheet of paper which
+has your name, unique serial number and registration code on it. These
+can be typed in from the option "Register your copy" from the Options Menu,
+as described earlier, and two-player mode will then be activated!
+   Here's another bonus: Your registration will be good for all future
+versions of the program! You could potentially obtain the latest version off
+of your favorite BBS, enter the same codes, and have a fully registered copy
+of the newest version in a few moments.
+
+
+6. How to play in 2-player mode
+-------------------------------
+
+   To start a 2-player game, assuming you have registered your copy,
+press ENTER from the title screen. Move the arrow to "Change Skill" and
+press ENTER until "2-PLAYER" appears. You can then either select the
+level you would like and start the game as described in section 3 of this
+manual.
+   Game play is essentially the same, but strategy is completely different.
+You are playing not for points, but to beat your opponent by winning 3
+games before he does. You win by either getting rid of all of your viruses
+first, or by your opponent loosing by filling up his bottle to the top.
+   Each player should take one side of the keyboard. The right player
+obviously uses the keys on the number pad to play; the left player uses
+'Q' to move left, 'E' to move right, 'W' to rotate and 'S' to drop fast.
+   To make the tournament even more fun, there is a slight addition to the
+game: if you manage to clear more than one row or column (not virus) using
+a single pill, your opponent will not get his next pill, but instead will
+get random garbage falling from the top of the bottle, and he can not play
+until it is done falling. This can be used as a strategy for winning,
+especially in high levels when garbage is likely to cause your opponent to
+get messed up so badly that he will fill his bottle to the top and loose!
+
+
+7. Other notes
+--------------
+
+   This program was written using Turbo C++ 1.01, distributed by Borland
+International. Graphics routines were written completely from scratch.
+Unlike many other recent games, the Dr. Rudy program is very small and it
+was written efficently. Version 1.02 was able to run in a mere 64K under
+Desqview!
+   DR_RUDY.DAT files from any previous version can NOT be used with the
+current version. If you run this version with an old data file in the
+current directory, the program will recognize that the file is outdated
+and will create a new one automatically. In any case, you will have to
+start your high scores over again and re-configure your options.
+   Ryan P. Zerby played the right player in the 2-player demonstration
+which, by the way, can be viewed even if you have not registered as sort
+of a "sneak preview." It occurs on every other game demo. Try watching
+it with demo sound turned on to hear some new sound effects.
+   In the high scores display, a '+' is shown if the player achieved the
+score in ADVANCED mode, and a '*' is shown if the player achieved the score
+in EXPERT mode.
+   In upcoming versions, you can expect to see one or more of the following:
+     * AdLib/Sound Blaster music support (WILL be available for
+       unregistered users).
+     * More than just three characters for initials.
+     * Two-player mode in which you and your opponent can play different
+       levels (a way to make the game more even).
+     * Network support (the current version is NOT network-compatible).
+
+
+8. Policies
+-----------
+
+   DR. RUDY may be copied and distributed freely as long as the execuable
+program file and its accompanying manual and registration form are
+distributed together, and no file is modified in any way. The file
+DR_RUDY.DAT that the program creates should NOT be distributed, and
+CANNOT be distributed if you have registered your game (registration is
+good for one person only).
+   If for some reason you have not registered, and your copy of Dr. Rudy
+already has 2-player mode activated, delete the file DR_RUDY.DAT and run the
+program again. If it still is activated, I would appreciate your writing to
+inform me that an illegal "pirated" version may be in distribution.
+   This program contains no warranties, either explicit or implicit, and in
+no case shall I be held responsible for any damages caused by the use or
+misuse of the DR. RUDY program or its accompanying documentation. Also, the
+references to "viruses" in this program have nothing to do with the
+much-talked-about malicious "computer viruses" that are wandering in computer
+systems. (Indeed, I, the author, am very strongly opposed to computer viruses
+of any kind and their uncaring, and often naive, creators. The executable
+Dr. Rudy file was compressed with LZEXE and will probably crash, warning you
+immedeately, if a virus ever manages to get into the file and you try to run
+it. Be sure to keep backup copies of all of your programs!)
+
+
+9. Revision history
+-------------------
+
+   1.20 - Released 23 February 1992. The simultaneous two-player mode is
+          finally finished (and not easy either)! Two-player mode is to
+          be available only to registered users, and I have added the
+          file ORDER.FRM to the distribution archive and an option in the
+          options menu to allow users to self-register their copy.
+          Two-player demo mode also added. Format of the data file
+          changed. Input routine at high score entry screen changed.
+
+   1.12 - Released 14 December 1991. I finally figured out how to do VGA
+          palette rotation - it's tricky code! The viruses in the game are
+          now finally animated. I also completely restructured the options
+          menu so that it's easier for me to build on it in the future.
+
+   1.10 - Released 7 December 1991. New assembler CGA routines added which
+          make the game run extremely fast under that mode; also a VGA
+          assembler routine was added to slightly increase text-drawing.
+          Selecting a level is now done under a sub-menu screen after ENTER
+          is pressed. Two new skill levels added, which include the use of
+          green pills (or drilled-out green pills in CGA). Sample game
+          changed (due to change in random pill algorithm).
+
+   1.02 - Released 12 October 1991. Minor bug which kept the PC speaker on
+          after aborting a game during a sound effect is now fixed. Lower-case
+          character set added. Bitmap graphics slightly modified to look even
+          sharper on the screen.
+
+   1.00 - Released 8 September 1991. The 1.00 version is finally finished!
+          I added the built-in instructions screen, and new mini title
+          screen - the latter allowing you to change the options for a
+          different computer quite easily.
+
+   0.97 - Released 25 August 1991. Planned as small-scale release to get the
+          game released with more features as soon as possible, because with
+          approaching deadlines the 1.00 version will not be ready for a
+          while. This version features: Top 17 high scores which save to disk.
+          Sound effects added. Options menu with sound/save toggles and easier
+          speed adjustment. New assembler VGA routines which really speed up
+          graphics-drawing. Extended key support.
+
+   0.90 - Released 10 August 1991. First full release. CGA now supported.
+
+   0.10 - Released 22 July 1991. Test version released in Stillwater, OK.
+          Very few features except for the game play itself. VGA only.
+          This version was released to have other people test the game for
+          me: to see if it worked correctly on their computer and if they had
+          any comments.
+
+
+10. Other programs by the author
+--------------------------------
+
+  CVIEW    - View binary files of all kinds in a pictorial format on the
+             screen. Great for analyzing those "mysterious" files!
+  FAVORITE - A "Favorites Finder" program which will rank songs, movies,
+             etc. in order by simply showing you two at a time and asking
+             which you like better. Comes with Turbo C source code.
+  SLIDES60 - Screen graphics SlideShow program, which comes with a viewer,
+             slide maker, and 60 slides.
+  ANSGUIDE - Text file that explains in detail IBM character graphics and
+             ANSI, along with a demo program and files.
+  EVILIDOL - Basic text adventure game... save the land of Belkar from a
+             curse!

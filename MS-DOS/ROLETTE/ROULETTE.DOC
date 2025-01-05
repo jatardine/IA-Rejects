@@ -1,0 +1,130 @@
+                         VGA Roulette 2.0
+
+VGA Roulette Version 2.0 is a game program that simulates the popular
+betting game just like Las Vegas.  VGA Roulette is another shareware
+program from the VGA Fun Pak collection from JSSJ Software.  If you do not
+have the VGA Fun Pak, it should be available on your BBS shortly.  As
+indicated by its name VGA Roulette requires a VGA Display.  In addition,
+you must have a Microsoft-compatible mouse to run this program.  (Note:
+Some problems have been reported with the Mouse System Mouse which is only
+Microsoft-compatible if loaded with a /m flag.)
+
+ROULETTE.EXE provides a very graphic and colorful screen that looks like
+a real roulette table (except for the wheel).  The screen is divided into
+six areas; (1) the Roulette Table, (2) the Command Lines, (3) the Clock,
+(4) the WHEEL, (5) the Scoreboard, and (6) the Message Area.  The Clock
+displays the current time and is for information only (can't miss lunch). 
+All bets and commands are entered using the mouse.  There are no
+complicated meanings to the mouse buttons as in some programs, any or all
+buttons simply mean SELECT.  Bets or commands can be selected by pointing
+to the bet location or command and pressing any or all of the mouse
+buttons.
+
+INSTALLATION
+
+There are two ways to install and use VGA Roulette.  It will work stand-
+alone by just copying the ROULETTE.EXE program to an appropriate disk or
+directory.  The ZIP file that ROULETTE.EXE was distributed in also
+contains a file called ROULETTE.INS.  This will install the program in the
+VGA Fun Pak (VFP) menu system.  Just type VFPMENU [Enter], select the
+install option and follow the instructions in the VGA Fun Pak manual.
+
+STARTING ROULETTE.EXE
+
+VGA Roulette is started by typing ROULETTE[.EXE] or by selecting "VGA
+Roulette" from the VFP menu.  When the program starts you may or may not
+see the shareware message first (see SHAREWARE below.)  The screen will
+then be drawn and the message area will display a prompt for your
+initials.  Enter your initials carefully as the program maintains a
+running account of your financial status in the ROULETTE.DAT file, along
+with a password to protect your stake.  After entering your initials, the
+program looks in the ROULETTE.DAT file to see if you have played before. 
+If your initials are found, the program will prompt for your password. 
+DON'T FORGET YOUR PASSWORD OR YOUR FINANCIAL ACCOUNT WILL BE LOST! (If
+your financial condition gets so bad that it embarrasses you, delete the
+ROULETTE,DAT file and start fresh!)  If your initials are not found, you
+are prompted to check to see that you entered the initials correctly
+before being asked for your password.  After entering your password
+correctly, you may proceed to play Roulette.  You are given three chances
+to get your password correct.  After three tries, the program terminates.PLACING BETS
+
+Placing bets involves three areas of the screen: the Roulette Table, the
+Command Area, and the Scoreboard.  Bets may be placed on the table in
+three denominations: $100, $250 and $500.  These are represented by
+betting chips and are selected by pointing at the desired denomination on
+the second command line and selecting (by pressing a mouse button) it. 
+The scoreboard always displays the currently selected chip in the lower
+right-hand corner next to the WHEEL.
+
+You may place up to 20 bets on the board.  Bet locations are designated by
+colored circles on the table, and all standard Roulette bets are indicated
+on the board.  Multiple bets at a single location may be placed by holding
+the mouse button down.  Bets are paced at about 5 bets per second, so that
+with a little practice, you can place your bets quickly.  After you have
+placed you 20th bet the WHEEL begins to spin automatically.  If you wish
+to make fewer than 20 bets, just select the NO MORE BETS option on the
+first command line.  The WHEEL will "spin" and the computer will award any
+payoffs.  To simplify matters, the computer reduces your stake as you make
+bets, and pays off at the appropriate odds plus your original bet.  Thus
+a winning $100 bet on the number 12 would pay $3,600 (35:1 odds plus your
+bet.)  Current bet amounts and totals are displayed on the Scoreboard. 
+VGA Roulette will display your bets and the MARKER (designating the
+winning number) until you "PRESS MOUSE TO CONTINUE", as instructed by the
+message which has replaced the NO MORE BETS option.  This provides you
+time to evaluate your bets and how you won (or lost).
+
+COMMANDS
+
+There are three other commands, QUIT, SOUND ON (OFF) and ODDS displayed on
+the second command line.  QUIT is the way you exit the game.  If you
+select QUIT you are prompted in the message area to validate the
+selection.  Just select the YES option to exit or the NO option to
+continue to play.
+
+SOUND ON (OFF) is a toggle that displays the current status of sound
+either on or off.  Selecting this command when sound is on will turn sound
+off and vice versa.  In addition to the visual verification, toggling
+SOUND ON also provide an audible beep.  
+
+The ODDS command displays a window with the odds and colors that represent
+the specific bets.  This is sort of a help key to assist those less
+familiar with playing Roulette.  As you can tell this manual is not an
+instruction book for the game itself.  If you are new to Roulette, I
+suggest that you write a casino in Las Vegas, Reno or Lake Tahoe for
+instructions.  Casinos generally supply rules to all their games free of
+charge in the hopes that you will eventually pay the back with a visit.
+
+SCOREBOARD
+
+The Scoreboard displays information about your financial condition.  When
+you first start to play, the HOUSE gives you a $25,000 stake as a VIP to
+play with.  (Tell 'em Telly sent you!)  After that is gone, you are issued
+MARKERS in amounts of $10,000.  Winning $1,000,000 breaks the BANK and
+reduces your stake to the original $25,000.  Losing $1,000,000 will cause
+you to bankrupt and your markers are written off.  You may continue to
+play on a fresh $25,000.
+
+The top line of the Scoreboard displays your current status (STAKE,
+WON/(LOST) this session, total bets and MARKERS.  The second line indicate
+the status of the current bet including number of bets, bet amount,
+winning number, and winning amount.
+
+SHAREWARE
+
+VGA Roulette (ROULETTE.EXE) is distributed as Shareware.  If the program
+is useful and you continue to use the program after the initial trial, you
+are requested to send $15 to:
+
+
+                       J. Stephen Shattuck, Jr.
+                       JSSJ Software
+                       5289 N. Lake Drive
+                       Whitefish Bay, WI 53217
+
+
+When you register, be sure to indicate that you are registering Version
+2.0.  Previous versions had a 30-day limit and require special
+instructions to disable the 30-day drop dead feature.  Also feel free to
+comment on the VGA Roulette and make suggestion for it's improvements. 
+
+ 

@@ -1,0 +1,478 @@
+                                                              17.08.1992
+                                                          (c) by LM-Manuals
+                                                          -----------------
+
+
+
+
+
+
+
+                          EIN    LM-Manual    ZU
+
+
+
+
+                              A P O G E E 's
+
+
+ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
+ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+
+              ±±±±±±±±Ü
+              ±±Ûßßß±±Û
+              ±±Û    ßß ±±±±±±Ü ±±±±±±Ü ±±±±±±Ü ±±±±±±Ü ±±±±±±±±Ü
+              ±±±±±±±±Ü ±±Ûßßßß ±±Ûßßßß ±±Ûß±±Û ±±Ûßßßß  ßß±±Ûßßß
+                ßßßß±±Û ±±±±Ü   ±±Û     ±±±±±±Û ±±±±Ü      ±±Û
+              ±±Ü   ±±Û ±±Ûßß   ±±Û     ±±Û±±Ûß ±±Ûßß      ±±Û
+              ±±±±±±±±Û ±±±±±±Ü ±±±±±±Ü ±±Û ±±Û ±±±±±±Ü    ±±Û
+               ßßßßßßßß  ßßßßßß  ßßßßßß  ßß  ßß  ßßßßßß     ßß
+                 ±±±±±±±±Ü
+                 ±±Ûßßß±±Û
+                 ±±Û   ±±Û  ±±±±±±±Ü ±±±±±±Ü ±±±±±Ü±±Ü ±±±±±±±±Ü
+                 ±±±±±±±±Û  ±±Ûßßßßß ±±Ûßßßß ±±Û±±Û±±Û  ßß±±Ûßßß
+                 ±±Ûßßß±±Û  ±±Û ±±±Ü ±±±±Ü   ±±Û±±Û±±Û    ±±Û
+                 ±±Û   ±±Û  ±±Û  ±±Û ±±Ûßß   ±±Û±±Û±±Û    ±±Û
+                ±±±±Û ±±±±Û ±±±±±±±Û ±±±±±±Ü ±±Û±±±±±Û    ±±Û
+                 ßßßß  ßßßß  ßßßßßßß  ßßßßßß  ßß ßßßßß     ßß
+
+ÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
+
+
+                                    von
+
+
+                        ÄÄÄÄÄ Lucjan Mikociak ÄÄÄÄÄ
+
+
+
+
+
+
+
+
+
+                            - KEINE SHAREWARE -
+     Diese Anleitung ist werder Shareware, noch Public Domain, sondern
+   ein kommerzielles Produkt, welches NUR von autorisierten PD-Anbietern
+                          vertrieben werden darf!
+
+
+
+    ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+    Das Vervielf„ltigen oder ndern dieser Anleitung ist nicht erlaubt!
+    ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        SECRET AGENT
+
+
+        Wohl jeder von uns wollte in die Rolle eines Geheimagenten
+        schlpfen und geheime Auftr„ge bernehmen. Mit dem neuen Spiel von
+        Apogee ist dieses nun m”glich. In Secret Agent werden Sie zum
+        Geheimagenten 006 und mssen Entwrfe (Blue Prints) einer
+        neuartigen Waffe wiederfinden, die von der DVS gestohlen worden sind.
+        Dieses ist natrlich nach Apogee-Art nicht so einfach wie es sich
+        anh”rt, denn auáer vielen menschlichen Gegnern mssen Sie in den
+        Kampf gegen Roboter und Schutzeinrichtungen ziehen, die es in sich
+        haben.
+
+
+        SECRET AGENT ben”tigt eine EGA oder VGA-Karte und mind. 640 KByte
+        RAM. Desweiteren empfehlt sich eine Festplatte; ein HD-Laufwerk ist
+        Voraussetzung.
+
+
+        SECRET AGENT erhalten Sie meist in komprimierter Form, so daá Sie
+        die EXE-Datei, die meistens als SAM.EXE benannt wird, starten
+        mssen, um das Spiel selbstst„ndig entkomprimieren zu lassen.
+        Anschlieáend kann das Spiel ber SAM1 aufgerufen werden. Nachdem
+        die Grafikdateien intern entkomprimiert worden sind, erscheint der
+        Apogee-Introbildschirm und darauf das Titelbild von SECRET AGENT.
+        Durch das Bet„tigen einer beliebigen Taste wird das Hauptmen (MAIN
+        MENU) aufgerufen, dessen Funktionen gleich nacheinander beschrieben
+        werden. Im Spiel selbst, d.h. innerhalb der Level, kann ein
+        weiteres Men aufgerufen werden, auf das wir sp„ter noch zu
+        sprechen kommen.
+        Die Funktionen werden grunds„tzlich durch die Eingabe des vor der
+        Klammer stehenden, also des ersten Buchstaben der Funktion,
+        aufgerufen. Die <ESC>-Taste dient immer dem Abbruch einer Funktion
+        oder eines Levels.
+
+        Funktionen des Hauptmens:
+
+        N)EW GAME ------------- Mit NEW GAME fangen Sie ein neues Spiel an,
+                                welches natrlich im ersten Level beginnt.
+                                Es erscheint eine groáe Landkarte und in
+                                der oberen linken Ecke unser Agent 006. In
+                                den W„ldern sehen Sie verschiedene Geb„ude
+                                und einen Teleporter (glaskuppelf”rmiges
+                                Gebilde), mit dem Sie auf die Insel
+                                versetzt werden. Hierzu brauchen Sie diesen
+                                nur zu betreten. Innerhalb der Landkarte
+                                befindet sich auch eine Art Burg, die durch
+                                eine Holzmauer geschtzt wird. In dieser
+                                Burg befindet sich das Ziel dieses Spieles:
+                                das Blueprint. Damit sich die Mauer jedoch
+                                ”ffnet, mssen Sie alle Geb„ude (welche zu-
+                                gleich auch die Level darstellen) erfolgreich
+                                beendet haben, d.h. in jedem Level die
+                                "Satelitenantenne" zerst”ren. Um in ein
+                                Geb„ude zu kommen, brauchen Sie es lediglich
+                                mit der Spielfigur zu berhren. Auch
+                                innerhalb der Level befinden sich Teleporter...
+
+                                šber <ESC> kann innerhalb jedes Levels ein
+                                weiteres Men aufgerufen, welches die
+                                Bezeichnung 'OPERATIONAL COMMAND
+                                BANK'tr„gt. Hierzu mehr am Ende der
+                                Anleitung.
+
+
+        R)ESTORE OLD GAME ----- Um nicht jedesmal das Spiel von Anfang an
+                                beginnen zu mssen, kann man seinen
+                                Fortschritt innerhalb des Spieles
+                                speichern. Mit dieser Funktion wird dieser
+                                Spielstand aufgerufen und das Spiel an der
+                                gespeicherten Stelle fortgesetzt.
+
+        S)TORY ---------------- Erkl„rung des Spielzieles in engl. Sprache.
+
+        I)NSTRUCTIONS --------- Erkl„rung der Bedienung des Spieles und der
+                                Gegner. Rufen Sie diese Funktion bitte auf.
+                                Mit der <PgUp>- und <PgDn>-Taste bzw. den
+                                BILD-Tasten k”nnen Sie sich innerhalb
+                                dieser Funktion bewegen.
+                                Zuerst wird die Tastenbelegung erl„utert:
+
+                                <ALT>  ---------------- Schieáen
+                                <CTRL> bzw. <STRG> ---- Springen
+                                Mit den Cursortasten bewegen Sie die
+                                Spielfigur. Sie bestimmen auch die Richtung
+                                beim Springen.
+
+                                Auf der n„chsten Seite wird die bereits
+                                besprochene Burg und die zu zerst”renden
+                                Satelitenantennen abgebildet.
+
+                                Die Seite darauf zeigt einige fr das
+                                Spiel wichtige Gegenst„nde. Um
+                                beispielsweise eine Tr ”ffnen zu k”nnen,
+                                mssen Sie den farblich passenden Schlssel
+                                haben, wobei 006 nur einen Schlssel jeder
+                                Farbe tragen kann. Jede Patrone, die Sie
+                                einsammeln, gibt 006 weitere 5 Schsse und
+                                das Blitzzeichen verst„rkt die Kraft seiner
+                                Pistole. Der Turnschuh verleiht 006 fr
+                                eine kurze Zeit mehr Geschwindigkeit,
+                                wodurch sich weitere Sprnge ausfhren
+                                lassen. Die zuletzt abgebildete rote Tonne
+                                l„át sich verschieben und gibt 006 die
+                                M”glichkeit, auf Mauern bzw. andere
+                                Hindernisse zu springen, auf die er mit
+                                seiner normaler Sprungkraft nie kommen
+                                k”nnte.
+
+                                Wenn Sie jetzt ber <PgDn> zur Seite 4
+                                gehen, sehen Sie an erster Stelle die
+                                Radarantenne in Satenlitenempf„ngerform,
+                                die in jedem Level durch drei Schsse
+                                zerst”rt werden muá. Unter dieser folgt
+                                eine Abbildung des Teleporters und
+                                anschlieáend das Dynamit, welches zum
+                                Sprengen der Levelausgangstr ben”tigt
+                                wird. Hierzu brauchen Sie, vorausgesetzt
+                                unser Held hat den Sprengstoff bereits,
+                                lediglich an die Levelausgangstr zu treten
+                                und schon l„át 006 das Dynamit fallen.
+                                Jetzt sollte Sie die Spielfigur wenige
+                                Zentimeter von dem Sprengstoff entfernen,
+                                da dieser natrlich auch fr 006 eine
+                                Gefahr darstellt. Die Levelausgangstr wird
+                                auf der n„chsten Seite an erster Stelle
+                                abgebildet.
+
+                                Somit sind wir schon bei der n„chsten
+                                Seite, der Seite 5. Unter dem Bild der
+                                zuvor erw„hnten Tr befindet sich das Bild
+                                eines PC-Terminals und einer Diskette.  Um
+                                das Terminal nutzen zu k”nnen, mssen Sie
+                                zuerst die Diskette haben. Ist es soweit,
+                                gehen Sie auf das Terminal zu und schalten
+                                durch das Einlegen der Diskette alle
+                                Laserstrahlen im aktuellen Level aus.
+
+                                Die Seiten 6 und 7 zeigen Ihnen
+                                Gegenst„nde, die Sie einsammeln sollten,
+                                vorausgesetzt, Sie spielen das Spiel auch
+                                der Punkte wegen. Und da wir schon beim
+                                Thema "Punkte" sind, sollte nicht unerw„hnt
+                                bleiben, daá man beim Beenden eines Levels
+                                ohne Lebenseinbáen unseres Helden, 25.000
+                                Extrapunkte bekommt.
+
+                                Auf den Seiten 8 und 9 werden Ihre
+                                menschlichen Gegner abgebildet:
+                                Der weiáe 'Guard' ist lediglich mit einem
+                                Messer bewaffnet.
+                                Der rote 'Sentry' verfgt zus„tzlich zu den
+                                F„higkeiten von 'Guard' ber ein langes
+                                Holzbrett.
+                                Der Ninja ist einwenig gef„hrlicher, denn
+                                er verfgt auáer seinen eigenen F„higkeiten
+                                noch ber die der zuvor erw„hnten K„mpfer.
+                                Der blaue Ninjameister ist wesentlich
+                                gef„hrlicher als alle zuvor erw„hnten K„mpfer
+                                zusammen, denn zus„tzlich hat er eine
+                                Schuáwaffe, von der auch Gebrauch macht.
+                                Der graue 'Thug' ist der Gegner, von dem Sie
+                                sich in Acht nehmen sollten. Er ist schieáwtig
+                                und hat zus„tzlich alle Eigenschaften der
+                                zuvor genannten Gegner.
+
+                                So viel zu den Gegner bzw. ihren
+                                Gef„hrlichkeitsstufen. Durch jeden Schuá
+                                Ihrerseits wird der Gegner abgestuft und
+                                dann gekillt. Es erscheint ein Grabstein.
+                                Treffen Sie auch diesen, so erhalten Sie
+                                100 Punkte, sammeln Sie ihn jedoch auf,
+                                gibt es 1.000 Punkte.
+
+                                Auf der folgenden Seite, also der Seite 10,
+                                finden wir Abbildungen der Gegner, die 006
+                                das Leben wirklich schwer machen werden:
+                                die Roboterw„chter.
+                                Der erste, an der Decke entlang gleitende
+                                Roboter gibt Laserstrahlen nach unten ab.
+                                Er kann mit drei Schssen zerst”rt werden.
+                                Der Roboter mit der Korkenzieherform gibt
+                                hin und wieder starke Stromst”áe nach unten
+                                ab und kann nicht zerst”rt werden. Die
+                                beste L”sung ist es, ihn zu berspringen.
+                                Der dritte, rollende Roboter wird nur
+                                gef„hrlich wenn man ihn berhret. Leider
+                                wurde an fast immer an Stellen platziert,
+                                an denen er sich nicht berspringen l„át.
+                                Man kann ihn zwar mit drei Schssen
+                                vernichten, doch dann explodiert er und
+                                seine šberreste fliegen sowohl nach links
+                                wie auch nach recht. Man muá in dem
+                                Augenblick, wo diese auf 006 zukommen,
+                                hochspringen oder anderweilig ausweichen.
+                                Der groáe und auf dieser Seite letze
+                                Roboter kann auch durch drei Schsse
+                                zerst”rt werden, wobei man auf seine
+                                Granatenlaser aufpassen sollte.
+
+                                Die Seite 11 bietet uns weitere 3 Roboter.
+                                Die ersten beiden lassen sich nicht
+                                zerst”ren. W„hrend der erste bersprungen
+                                werden muá, kann der zweite, w„hrend er ein
+                                menschliches Gesicht zeigt, passiert
+                                werden. Der Roboterhund ist "harmlos", denn
+                                er verfgt ber keinerlei Waffen und kann
+                                mit drei Schssen abgeschossen werden.
+
+                                Die restlichen Seiten der INSTRUCTIONS-
+                                Funktion beinhalten Informationen, die
+                                bereits am Anfang dieser Anleitung genannt
+                                worden sind.
+
+
+        H)IGH SCORES ---------- Bei der Highscoreliste werden die h”chsten
+                                im Spiel erreichten Punktzahlen samt
+                                Spielernamen eingeblendet. Mit einer
+                                beliebigen Taste kehren Sie zurck zum
+                                Titelbild.
+
+        O)RDERING INFO. ------- Ausknfte ber Preise der weiteren zwei
+                                Episonden von SECRET AGENT.
+
+        F)OREIGN ORDERS ------- Informationen fr Bestellungen auáerhalb
+                                der USA. U.a. Fa. CDV (Deutschland).
+
+        C)ALL OUR BBS --------- Rufnummer der Apogee-Mailbox in den USA.
+
+        V)IDEO SUPPORT -------- Einige der neuen "hochgezchteten"
+                                SuperVGA-Karten haben Schwierigkeiten mit
+                                dem Bildscrolling oder zeigen andere
+                                grafische Fehler auf dem Bildschirm am. Sollte
+                                das bei Ihnen der Fall sein, so rufen Sie
+                                bitte diese Funktion auf und geben
+                                anschlieáend ein Y ein um die Funktione zu
+                                starten. Ein N stellt diese zus„tzliche
+                                VGA-Untersttzung aus.
+
+        A)BOUT APOGEE --------- Einige Informationen zu Apogee.
+
+        Q)UIT TO DOS ---------- šber diese Funktion verlassen Sie das Spiel
+                                und kommen zum DOS-Betriebssystem Ihres
+                                Rechners. Von den einzelnen Levels aus
+                                mssen Sie zun„cht ber <ESC> oder <F1> die
+                                OPERATIONAL COMMAND BANK aufrufen um in den
+                                Titelbildschirm und somit auch in das
+                                Hauptmenu zu gelangen.
+
+
+
+
+
+                       - OPERATIONAL COMMAND BANK -
+
+        Hierbei handelt es sich um ein levelinternes Men, welches u.a.
+        Funktionen zum Verlassen des Levels und Speichern bzw. Laden eines
+        Spielstandes beinhaltet.
+
+        H)ELP ----------------- Kurze englischsptrachige Hilfe.
+
+        T)OGGLE SOUNDS -------- Ein- und Ausschalten des Sounds bzw. der
+                                Spielger„usche. Mit Y schalten Sie diese
+                                ein und mit N werden sie ausgeschaltet.
+
+        V)IDEO SELECT --------- siehe VIDEO SUPPORT-Funktion des Hauptmens.
+
+        J)OYSTICK TOGGLE ------ Mit dieser Funktion teilen Sie dem Spiel
+                                mit, daá Sie einen PC-Joystick verwenden
+                                m”chten. Geben Sie ein Y ein wenn dieses
+                                zustimmt oder ein N falls Sie ber die
+                                Tastatur weiterspielen m”chten.
+
+        C)ALIBRATE JOYSTICK --- PC-Joysticks haben die Eigenschaft, daá Sie
+                                meist sehr leicht "gehen" und dadurch sich
+                                der Steuerstab des Joystick meist nicht in
+                                der Mitte befindet. Um ihn zentrieren zu
+                                k”nnen, rufen Sie diese Funktion auf,
+                                setzen Sie den Stuerstab des Joysticks in
+                                die Mitte und drcken die <LEERTASTE>.
+                                Falls Ihr Joystick beim Spielaufruf korrekt
+                                eingestellt gewesen ist, ist dieser Schritt
+                                nicht notwendig. Sollte kein Joystick
+                                angeschlossen sein und der Aufruf dieser
+                                Funktion ist lediglich ein Versehen
+                                gewesen, so bet„tigen Sie bitte die <ESC>-
+                                Taste.
+
+        K)EYBOARD CONFIG ------ Wer mit der Standardbelegung der Tasten
+                                nicht zufrieden ist, der kann mit dieser
+                                Funktion die Tasten neu belegen. Nach dem
+                                Aufruf der Funktion mssen die neuen Tasten
+                                fr folgende Aktionen nacheinander
+                                eingegeben werden:
+
+                                MOVE LEFT --------- Links laufen
+                                MOVE RIGHT -------- Rechts laufen
+                                MOVE UP ----------- Nach oben
+                                MOVE DOWN --------- Nach unten
+                                JUMP -------------- Springen
+                                FIRE -------------- Schiessen
+
+                                Anschlieáend wird die neue Tastenbelegung
+                                eingeblendet und muá von Ihnen durch ein Y
+                                best„tigt werden. Wird ein N eingegeben,
+                                wird die Eingabe der neuen Tasten
+                                wiederholt.
+
+        R)ESTORE GAME --------- Ein gespeicherter Spielstand wird
+                                aufgerufen. Hierzu mssen Sie die Nummer,
+                                unter der dieser gespeichert worden ist,
+                                eingeben.
+
+        S)AVE GAME ------------ Mittels dieser Funktion speichern Sie Ihren
+                                aktuellen Fortschritt im Spiel um ihn beim
+                                n„chsten Spielaufruf oder falls etwas
+                                schief l„uft, aufrufen k”nnen. Bitte denken
+                                Sie daran, daá Sie nicht innerhalb der
+                                Level, sondern nur innerhalb der Karte
+                                (ISLAND MAP) speichern k”nnen.
+                                Sobald die SAVE-Funktion aufgerufen worden
+                                ist, muá eine Zahl zwischen 0 und 9
+                                eingegeben werden, unter der dieser
+                                Spielstand gespeichert werden soll. Falls
+                                durch Ihre Eingabe ein „lterer Spielstand
+                                berschrieben werden muá, warnt Sie das
+                                Spiel nicht, sondern berschreibt ohne
+                                Zustimmung!
+
+        Q)UIT ----------------- šber QUIT kann man das Spiel verlassen,
+                                wobei die QUIT-Funktion der OPERATIONAL
+                                COMMAND BANK drei M”glichkeiten gibt:
+
+                                D)OS ---------- Zurck zum Betriebsystem
+                                T)ITLE SCREEN - Zurck zum Titelbild um das
+                                                Hauptmen (MAIN MENU) auf-
+                                                rufen zu k”nnen.
+                                I)SLAND MAP --- Zurck zur Karte (ISLAND
+                                                MAP), falls man sich innerhalb
+                                                eines Levels befindet.
+
+
+            Sollten Sie beim Verlassen des Spiels ber eine der
+          QUIT-Funktion eine hohe Punktzahl haben, so werden Sie
+           durch die Meldung ENTER YOUR NAME aufgefordert, Ihren
+                 Namen fr die Highscoreliste einzugeben.
+
+
+
+                              !!! WICHTIG !!!
+
+      Bei allen Apogee-Spielen muá bei der deutschen Tastaturbelegung
+          bzw. Tastatur ein Z anstelle des in den Anleitungen und
+      Programmmeldungen genannten Y eingegeben werden, da die Apogee-
+             Spiele grunds„tzlich die QWERTY-Belegung nutzen!
+
+
+
+     Somit w„ren Sie am Ende dieser Anleitungen. Falls Sie Fragen zum
+          Spiel haben sollten oder einfach im Spiel selbst nicht
+     weiterkommen, so wenden Sie sich bitte an LM-Manuals. Wir bemhen
+                      uns dann, Ihnen weiterzuhelfen.
+
+                            Ihr Lucjan Mikociak
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+     LM-Manuals    ú Lucjan Mikociak ú Gardelerweg 10 ú 2900 Oldenburg
+
+            telefon: 0441-592821         telefax: 0441-591238
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
