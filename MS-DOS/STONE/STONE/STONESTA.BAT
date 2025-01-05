@@ -1,0 +1,2 @@
+cd \stonesta
+stone.exe
