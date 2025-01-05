@@ -1,0 +1,292 @@
+      ÛÜ ÜÛ ÜßßßÜ Û   Û   ÛÜ ÜÛ ÜßßßÜ Üßßßßß ßßÛßß Ûßßß ÜßßßÜ
+      Û ß Û ÛßßßÛ Û   Û   Û ß Û ÛßßßÛ  ßßßßÜ   Û   Ûßßß ÛßßÛÜ
+      Û   Û Û   Û ßÜÜÜß   Û   Û Û   Û ßÜÜÜÜß   Û   ÛÜÜÜ Û   Û  MAUPCX
+     ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+     ³ MAUPCX, der PCX-Konvertierer des MAU MASTER 95 Serie I/95         ³
+     ³ von Klaus Hinrichs / Lerchenstraáe 18 / 49088 Osnabrck           ³
+     ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+      0.  Was kann MAUPCX ?
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      MAUPCX ist ein Werkzeug (Tool), das es erm”glicht, aus farbigen
+      PCX-Bilddateien eigene Bildkarten fr den MAU MASTER 95 VGA
+      auszuschneiden und somit verschiedene nachladbare Kartens„tze zu
+      generieren.
+      Es k”nnen z.B. Firmenlogos als Bildkarten erstellt werden und als
+      Kartensatz ORIGINAL zusammen mit der SHAREWARE-VERSION des
+      MAU MASTER 95 VGA als Werbegeschenke weitergegeben werden.
+      Aber auch die Freude an eigenen individuellen Kartens„tzen kann
+      das Spielvergngen an diesem spielstarken MauMau-Programm erheblich
+      vergr”áern.
+
+
+      1.   Grundlagen
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Die Vollversion des MAU MASTER 95 VGA erm”glicht das Nachladen
+      verschiedener Bild-Kartens„tze. Bildkarten sind der JOKER, der BUBE,
+      die DAME und der KOENIG. Die normalen Wertkarten von 2 bis 10 und
+      das AS werden vom Programm selbst generiert.
+
+      Jeder Bild-Kartensatz besitzt einen einheitlichen Namen, so heiát
+      der Original-Satz z.B. "ORIGINAL".
+      Der Satz ORIGINAL ist voreingestell, so daá ohne Angabe eines anderen
+      Kartensatzes beim Programmstart immer dieser Satz geladen wird.
+
+      Es mssen nicht immer alle vier Bildkarten eines Satzes vorhanden
+      sein, damit das Programm funktionieren kann, aber wenn das Haupt-
+      programm erkennen soll, daá ein bestimmter Kartensatz vorliegt, muá
+      wenigstens die JOKER-Karte einen eigenen Namen besitzen. Fehlende
+      Bildkarten werden dann aus dem (unentbehrlichen) Kartensatz "ORIGINAL"
+      aufgefllt.
+      Die Endungen der Kartendateien geben an, um welche Karte es sich
+      handelt:
+                  ????????.JOK    =>   JOKER-Karte
+                  ????????.BUB    =>   BUBE
+                  ????????.DAM    =>   DAME
+                  ????????.KOE    =>   K™NIG
+
+      Der MAU MASTER sucht immer nach der Karte mit der Endung .JOK und
+      geht dann davon aus, daá sich auch die anderen Dateien des
+      betreffenden Satzes in dem Verzeichnis befinden.
+
+      Jede Bildkartendatei ist genau 3972 Bytes groá. Der geladene Karten-
+      satz befindet sich komplett im Speicher, d.h. daá auf diese Dateien
+      nur einmal beim Programmstart oder Kartensatzwechsel zugegriffen
+      wird und keine Zeit fr unn”tigen Zugriff auf die Platte verschwendet
+      wird.
+
+      Eigene Kartens„tze k”nnen leicht selbst ertellt werden. Es k”nnen
+      dabei Bildkarten aus bestehenden PCX-Dateien oder auch aus v”llig
+      frei erfundene Bilder, die mit Hilfe eines beliebigen Malprogramms,
+      das Bilder im PCX-Format speichern kann, ausgeschnitten werden.
+
+
+      2.   Voraussetzungen
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Im Gegensatz zu frheren Versionen (PCXMAU,PCX93) speichert dieses
+      Programm die konvertierte PCX-Datei nicht mehr auf der Platte zwischen,
+      sondern bringt sie direkt auf den Bildschirm. Das geht zwar immer noch
+      nicht so schnell wie bei einem Malprogramm, ist aber gegenber den
+      alten Versionen eine Steigerung um mehrere Tausend Prozent !!!
+      (Uwe Zapatka in Bochum sei herzlicher Dank fr diese schnelle Routine !)
+
+      Der Zweck dieses Programms besteht einfach darin, PCX-Bilddateien in
+      ein geeignetes Format zu konvertieren, um daraus Teile auszuschneiden
+      und als Einzelbildkarten zu speichern.
+      Die PCX-Dateien k”nnen z.B. mit den meisten g„ngigen Malprogrammen
+      erzeugt sein. Wichtig ist dabei die VGA-Aufl”sung von 640*480 Pixeln !
+      Auch ein einfacher Handscanner kann in Verbindung mit einem solchen
+      Malproramm die tollsten Motive auf den Bildschirm bringen.
+
+
+      3.   Aufbau der Bilkarten
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Bei einer vorgeschriebenen VGA-Aufl”sung von 640*480 Bildpunkten
+      (Pixel) ist jede vom MAU MASTER verwendete und nachladbare Karte
+      genau 70 Pixel breit und 110 Pixel hoch.
+
+      Die im Spiel angezeigten Karten sind auf allen Seiten um jeweils
+      5 Pixel erweitert und haben also ein Ausmaá von 80*120 Pixel.
+      Dieser "Rahmen" wird ben”tigt, um die Wertigkeit der Karte
+      darzustellen. So steht z.B. auf der BUBEn-Karte in jeder Ecke ein
+      "B" und beim JOKER ein "J". Diese Angaben werden vom MAU MASTER
+      automatisch in die Bildkarte eingebaut und werden immer mit schwarzen
+      Buchstaben auf weiágrauem (Farbe #7) Hintergrund dargestellt, um auch
+      in einer sehr bunten Bildkarte noch deutlich erkennbar zu bleiben.
+      In der Diagonalen (links oben, rechts unten) werden die Spielfarben-
+      symbole KARO, HERZ, PIK, KREUZ groá dargestellt und dabei direkt und
+      transparent auf das jeweilige Bildmotiv "geklebt".
+
+      Dieses transparente Aufkleben der groáen Farbsymbole (Ikonen) kann
+      leicht dazu fhren, daá diese Zeichen nicht mehr gut sichbar sind.
+      Deshalb sollte in der Regel bei eigenen Kartens„tzen, zumindest in
+      diesem Bereich, ein weiágrauer Hintergrund beibehalten werden.
+
+      Bei der Erzeugung eigener Motive mit einem Malprogramm k”nnen Sie
+      sich also ganz auf das Bild selbst konzentrieren, die eigentliche
+      Wertigkeit der Karte leitet der MAU MASTER von der Endung der
+      letztendlichen Bildkarten-Datei ab (Endung ".DAM" = DAME) und
+      konstruiert daraus eine entsprechende Karte.
+
+
+      4.   Kartensatz-Entwicklung
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      a.) Laden Sie ein Malprogramm, das PCX-Dateien im Format 640*480
+      Pixel speichen kann. Zwar k”nnen diese Programme mit viel mehr
+      Farben arbeiten, stellen aber in der Regel Farbpaletten zur
+      Verfgung, die aus 16 Farben bestehen.
+      Der MAU MASTER arbeitet mit einer blichen Farbpalette, aber es
+      kann passieren, daá die Farben des Malprogramms von den Farben, die
+      nach einer Konvertierung mit MAUPCX herauskommen, nicht identisch
+      sind. Das sollte dem optischen Genuá aber nicht entgegenstehen und
+      die bliche Farbpalette ist sicher auch bei Ihrem Malprogramm
+      einzustellen.
+
+      b.) Malen und konstuieren Sie ihre Motive oder scannen die Bilder
+      einfach ein. Achten Sie darauf, daá die Bilder die Maáe 70*110 Pixel
+      nicht berschreiten.
+      Es empfiehlt sich als Hintergrundfarbe weiágrau (Farbe #7), zumidest
+      in den Ecken, in denen die Farbikonen aufgeklebt werden.
+      Die meisten Malprogramme k”nnen Bildausschnitte (fast) stufenlos
+      verkleinern.
+      Bringen Sie s„mtliche Motive fr einen oder mehrere Kartens„tze in
+      einer PCX-Datei unter und achten Sie darauf, daá das PCX-Bild die
+      Bildschirmgr”áe m”glichst nicht berschreitet.
+
+      c.) Speichern Sie das Bild, das Ihren Kartensatz bzw. Ihre Kartens„tze
+      enth„lt, als PCX-Datei und kopieren diese Datei in das Verzeichnis,
+      in dem sich das Programm MAUPCX befindet. Obwohl MAUPCX das Verzeichnis
+      wechseln kann, ist es dennoch sinnvoll die PCX-Datei in dem Verzeichnis
+      zu konvertieren, in dem sich auch das Spielprogramm befindet, da die
+      ausgeschnittenen Motive immer in das aktuelle Verzeichnis abgespeichert
+      werden. In einem anderen Verzeichnis als seinem eigenen findet der
+      MAU MASTER die Motive nicht. Andererseits k”nnen Sie natrlich auch
+      die ausgeschnittenen Karten nachtr„glich in das Verzeichnis des
+      Spielprogramms kopieren.
+
+      Rufen Sie das Programm MAUPCX auf !
+
+      5.  Bild-Datei laden
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      PCX-Dateien sind in einem gepackten (komprimierten) Format
+      gespeichert. Damit MAUPCX diese Dateien auf dem Bildschirm zur
+      Anzeige bringen kann, mssen diese Dateien dekomprimiert werden.
+
+      In einem Verzeichnisfenster werden alle im aktuellen Verzeichnis
+      gefundenen PCX-Dateien angezeigt.
+      W„hlen Sie mit den Richtungstasten die gewnschte Bilddatei an und
+      drcken die Return-Taste (ENTER).
+
+      Nun wird das angew„hlte Bild geladen und zgig auf den Bildschirm
+      gebracht.
+
+      6.  Karten ausschneiden
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Mit den Pfeiltasten und den Richtungstasten auf dem Nummernblock
+      (2,4,6,8) k”nnen Sie nun einen weiáen Rahmen ber den Bildschirm
+      bewegen. Sollte der Rahmen nicht gut sichtbar sein, weil das
+      angezeigte Bild selbst sehr hell ist, kann leicht durch Druck auf die
+      Tasten [+] und [-] eine andere Farbe fr den Wanderrahmen eingestellt
+      werden.
+
+      Der angezeigte Rahmen ist genau 72*112 Bildpunkte groá, d.h. daá
+      der Ausschnitt des Bildes, der sich innerhalb dieses Rahmens befindet
+      genau dem Maá der auszuschneidenden Spielkarte entspricht.
+      Bewegen Sie den Rahmen auf das gewnschte Motiv und drcken die
+      Return-Taste (ENTER).
+      Dabei bewegen die Pfeiltasten (Cursortasten) den Rahmen jeweils um
+      10 Bildpunkte in die entsprechende Richtung, w„hrend mit den Tasten
+      auf dem Nummernblock eine Feinpositionierung (jeweils um 1 Pixel)
+      vorgenommen werden kann.
+      Nach dem Druck auf die Enter-Taste oder F1 oder <S> erscheint in der
+      oberen linken Bildschirmecke ein Eingabefenster, in das Sie den Namen
+      der soeben ausgeschnittenen Bildkarte eintragen k”nnen.
+      Um im Spiel funktionieren zu k”nnen, mssen Kartensatzdatei-Endungen
+      immer entsprechend ihrer Funktion im sp„teren Spiel vergeben werden,
+      da sich die Dateien erst durch ihre Endungen (.BUB,.DAM,.KOE,.JOK)
+      als entsprechende Spielkarten ausweisen.
+      Diese Endungen mssen unbedingt mit angegeben werden, da der
+      MAU MASTER die Karten sonst nicht finden kann. Wird keine Endung
+      angegeben, h„ngt MAUPCX automatisch die Endung .JOK an.
+      Sie k”nnen natrlich zum Zwecke der Bearbeitung alle m”glichen
+      Endungen angeben, die Sie nach eventueller Bearbeitung mit MAUPAINT
+      in die richtigen Endungen umbenennen. Das kann dann sinnvoll sein,
+      wenn bereits ein Kartensatz unter dem Namen besteht und Sie beim
+      Experimentieren und Versch”nern der Karte nicht wollen, daá die alte
+      Karte berschrieben wird.
+      Auch in MAUPAINT mssen die Karten-Endungen mit angegeben werden.
+
+
+      7.  Ausgeschnittene Karte wieder laden
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Manchmal kann es zweckm„áig sein, eine bereits ausgeschnittene und
+      gespeicherte Bildkarte noch einmal zu laden, z.B. wenn das
+      Kartenmotiv noch "besser" zentriert werden soll.
+      Drcken Sie dazu die Funktionstaste F2 oder <L> und geben sie den
+      Namen und die Endung der Kartendatei in das Eingabefenster ein und
+      best„tigen Sie die Eingabe mit ENTER.
+      Daraufhin wird die Bildkarte in dem Rahmen auf dem Bildschirm
+      angezeigt. Da sie dadurch den Bildausschnitt im Wanderrahmen
+      verdeckt, sollten Sie darauf achten, daá der Rahmen nicht auf einem
+      Motiv steht, das noch als Bildkarte ausgeschnitten werden soll.
+      Wenn das zuf„llig passiert, dann kann natrlich jederzeit das
+      Originalbild wieder im Ausgangsbildschirm angew„hlt und geladen
+      werden.
+      Wenn Sie Karten laden wollen, um sie besser zu zentrieren oder Stcke
+      von ihnen abzuschneiden, gelangen Sie durch Druck auf die F1-Taste
+      im Ausgangsbildschirm zu einem schwarzen Hintergrund, auf dem sie die
+      geladenen Karten plazieren k”nnen. Es ist also nicht n”tig, sich
+      st„ndig in einem Unterverzeichnis zu befinden, in dem auch eine
+      PCX-Datei fr den Hintergrund enthalten ist.
+      Den gesamten Bildschirm k”nnen Sie durch die Tastenkombination
+      <STRG> <ENTER> oder F3 oder <B> abspeichern.
+      Nachdem Sie dem Bildschirm einen Namen zugewiesen haben, entstehen
+      vier Dateien (*.MM1 bis *.MM4), in denen der gesmte Bildschirm
+      abgelegt ist.
+      Der so abgespeicherte Bildschirm kann ber die Tasten <N> oder
+      F4 unter Angabe des Dateinamens (ohne Endung) wieder geladen werden.
+
+
+      8.  Hinweis
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      MAUPCX ist ein Tool, d.h. ein Werkzeug, das es erm”glicht v”llig
+      eigene oder auch "abgekupferte" Motive als Bildkarten im
+      MAU MASTER 95 zu verwenden.
+
+      Der Komfort dieses Programms h„ngt auch von Ihrer Routine im Umgang
+      mit diesem Tool ab. "šbung macht den Meister !"
+      Die eigentliche Arbeit besteht in der Erzeugung einer PCX-Bilddatei
+      mit einem beliebigen Malprogramm.
+      Sie sollten so viele Motive wie m”glich in einer PCX-Datei
+      zusammenstellen, aber auch darauf achten, daá einzelne Motive nicht
+      zu dicht beieinander liegen, da ein Verschieben nicht m”glich ist,
+      sonden nur die M”glichkeit besteht, Bildteile auszuschneiden,zu
+      speichern und sie an anderer Stelle wieder einzuladen, um sie erneut
+      auszuschneiden.
+
+
+      9. Fehler / Fehlermeldungen
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Der h„ufigste Grund fr einen Programmabsturz ist die Konvertierung
+      einer PCX-Datei, die in ihren Ausmaáen ber den physischen
+      Bildschirm hinausgehen. Verkleinern Sie in dem Falle mit Ihrem
+      Malprogramm das Bild so, daá es ganz auf den Bildschirm paát.
+      Das Malprogramm sollte ein Farb-Malprogramm sein, und keines, das
+      nur Schwarz-Weiá-Bilder erzeugen kann, denn hier kann es bei dem
+      gespeicherten Dateiformat zu Problemen kommen.
+
+      Daá irgendein Farb-Malprogramm Bilder in einem PCX-Format speichert,
+      mit dem MAUPCX berhaupt nicht zurechtkommt, ist mir nicht bekannt.
+      Falls Sie Probleme mit dem Konvertieren einer PCX-Datei haben oder
+      das Programm aus irgendwelchen Grnden seine Ausfhrung abbricht,
+      notieren Sie sich bitte die Fehlersituation und die eventuell
+      ausgegebene Fehlernummer und/oder senden Sie mir auf einer Diskette
+      die betreffende PCX-Datei einfach zu. Vielleicht hift es, die Datei
+      mit einem anderen Malprogramm zu bearbeiten und dann nochmals zu
+      speichern.
+      Zugesandte Disketten und (falls m”glich) Probleml”sungen erhalten
+      Sie natrlich wieder zurck.
+
+
+      10.  Kartensatzaustausch
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Wenn Sie andere an Ihren selbst erzeugten Kartens„tzen teilhaben
+      lassen wollen, dann schicken Sie sie mir doch bitte einfach zu !
+      Bitte vermerken Sie auf einer schriftlichen und unterschriebenen
+      Notiz, daá ich Ihre Kartens„tze auch weitergeben darf.
+      Natrlich freue ich mich auch ber Kartens„tze, die nicht
+      weitergegeben werden sollen. (Bitte auch dies vermerken !)
+
+      Sie bekommen dafr eine Diskette mit den von mir bereits
+      gesammelten Kartens„tzen zugeschickt.
+      Auch fr Verbesserungsvorschl„ge und neue Ideen bin ich dankbar !
+
+
+      11.  Kontaktadresse
+      ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+      Schriftpost und Kartensatzdisketten
+      bitte senden an:
+                            Klaus Hinrichs
+                           Lerchenstraáe 18
+                           49088  Osnabrck
+

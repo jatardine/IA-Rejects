@@ -1,0 +1,492 @@
+
+     Fragen an den MAU MASTER                          Stand: Januar 1995
+
+     Dies ist eine Sammlung von (Problem-)Fragen, die im Laufe der Zeit
+     zum MAU MASTER, seinen Begleitprogrammen und zu den Cardware-Spielen
+     gestellt wurden. Die Fragen sind nicht thematisch, sondern eher
+     chronologisch erfaát.
+
+
+     1. Frage: Kennt der Master meine Karten ?
+
+        Antwort:
+        Nein ! Er weiá von Dir nicht mehr und nicht weniger als Du von ihm.
+        Er weiá wie Du heiát, wieviel Karten Du noch auf der Hand h„ltst,
+        wieviel Karten bereits ausgespielt sind und wieviel Karten noch auf
+        dem Stapel liegen.
+        Natrlich reagiert er auch, wenn Du Deine letzte Karte angesagt
+        hast.
+
+
+     2. Frage: Warum darf der Master auf einen Joker eine Karte legen, die
+               nicht der Farbe entspricht, die ich mir gewnscht habe ?
+
+        Antwort:
+        Das darfst Du auch ! Der Joker hat w„hrend des Spiels keinen eigenen
+        Wert, sondern nimmt den Wert der Karte an, auf die er gelegt worden
+        ist. Liegt er auf einer NEUN, ist er eine NEUN in Deiner Wunschfarbe.
+        Deshalb darf auch eine andere NEUN daraufgelegt werden, die nicht
+        der Wunschfarbe entspricht. Das gilt natrlich auch fr jeden
+        anderen Wert. Wenn eine SIEBEN mit einem Joker verl„ngert wird, kann
+        natrlich auch jede SIEBEN auf den Joker gelegt werden, auch wenn
+        sie nicht der Wunschfarbe entspricht.
+
+
+     3. Frage: Um meine erste Karte befindet sich ein heller Rahmen. Ist das
+               ein Fehler !
+
+        Antwort:
+        Nein ! Du kannst das Spiel auch ohne eine Maus spielen. Deshalb muá
+        Dir irgendwie angezeigt werden, welche Karte Deine aktuelle
+        Auswahlkarte ist. Wenn Du die Pfeiltasten auf Deiner Tastatur
+        drckst, bewegt sich dieser Rahmen ! Wenn er Dich st”rt, dann kannst
+        Du ihn in der Konfiguration ausschalten oder einfach die
+        <Entf>-Taste drcken. Er bleibt dann solange unsichtbar, bis Du eine
+        der Pfeiltasten drckst.
+
+
+     4. Frage: Wie kann ich sichergehen, daá der Master nicht betrgt ?
+
+        Antwort:
+        Er kann nicht betrgen, weil er gar nicht weiá, was das ist !
+        Wenn Du aber sehen willst, welche Karten er hat, und wie er sie
+        ausspielt, dann kannst Du ja die Master-Taste anklicken und Dir
+        werden seine Karten angezeigt ! Allerdings bist Du es dann, der
+        betrgt, und Du wirst keine Chance haben, mit einem Sieg in die
+        Bestenliste aufgenommen zu werden. Wenn Du trotzdem verlierst,
+        hast Du selber Schuld, denn dann erfolgt der Eintrag in die
+        Bestenliste doch !
+
+
+     5. Frage: Warum gibt es keine verschiedenen Schwierigkeitsgrade ?
+
+        Antwort:
+        Der Master reagiert auf das, was Du tust. Wenn er schlechter spielen
+        sollte, máte er Dein Spiel ignorieren. Wenn Du ihm Deine letzte
+        Karte ansagst, máte er das z.B. einfach "berh”ren" !
+        Macht es nicht gerade den Reiz dieses Spieles aus, daá man es mit
+        einem selbst„ndig "denkenden" Gegner zu tun hat, der versucht, Dich
+        zu provozieren ? MauMau ist nur zu einem Teil ein Glcksspiel, der
+        andere Teil ist einfach Berechnung und Hinterlist ! Wenn Du den
+        Master bezwingen willst, ist es doch nur fair, wenn er das auch
+        bei Dir darf.
+
+
+     6. Frage: Wenn ich als registrierter Anwender die neueste Version haben
+               m”chte, was muá ich tun ?
+
+        Antwort:
+        Der MauMaster erscheint in Serien, z.B. 7/93 , 12/93, I/94 u.s.w.
+        Die Ver„nderungen innerhalb dieser Serien sind kaum oder gar nicht
+        sprbar. Es handelt sich dabei z.B. um solche Dinge wie die
+        Postleitzahlenumstellung in meiner Adresse oder das Aussehen des
+        Mauszeigers im Spiel. Bei gr”áeren Ver„nderungen gibt es eine neue
+        Version mit einer h”heren (Jahres-)Zahl hinter dem Schr„gstrich.
+        Dann lohnt sich auch ein Update. Natrlich bekommt jeder
+        registrierte Anwender, der ein Updade erwerben m”chte, immer die
+        derzeit aktuelle Version in der aktuellen Serie.
+        Ein Update auf eine registrierte Version kostet 10,- DM. Da sind
+        dann aber auch Porto, Materialkosten und Zeit mit drin.
+        Bitte habt Verst„ndnis dafr, daá ich registrierte Anwender nicht
+        st„ndig ber neue Serien des Masters unterrichten kann ! Dafr
+        reicht leider meine Zeit und die Registrierungsgebhr von 25,- DM
+        nicht aus.
+        Also: Wenn Du als registrierter Anwender ein Update wnscht, schicke
+              mir einfach einen 10,- DM Schein zu und bitte gib die Nummer
+              deiner Version an. Falls Du wissen m”chtest, ob sich das
+              Update auch wirklich lohnt, gib Deine Telefonnummer und/oder
+              eine dementsprechende Notiz mit an.
+
+
+     7. Frage: Warum spricht das Programm nicht mit mir, obwohl ich eine
+               Soundkarte habe ?
+
+        Antwort:
+        Es sind ab der 95er Version zwei Dateien beigefgt, die gesprochene
+        Meldungen enthalten und ber eine Soundblaster-Karte oder kompatible
+        Soundkarte ausgegeben werden k”nnen. Leider gibt es Soundkarten
+        "wie Sand am Meer" und fast alle haben sich die Soundblaster-
+        Kompatibilit„t auf die Fahnen geschrieben. Ich selbst besitze eine
+        Soundman-Games-Card von Logitech (gnstig!) und hatte bislang keine
+        Probleme mit Spielen, die eine Soundblaster erforderten. Natrlich
+        kann ich mir nicht jede Karte kaufen, um zu prfen, ob die
+        MauMaster-Sounddateien auch ordnungsgem„á abgespielt werden.
+        Der MASTER selbst kann Deine Soundkarte nicht auf Kompatibilit„t
+        durchchecken. Er verl„át sich auf die gesetzten Umgebungsparameter
+        in der AUTOEXEC.BAT. Dort sollte, wenn Deine Karte kompatibel ist,
+        ein Eintrag "set BLASTER = A220 D1 I7 ..." stehen. Die Eintragungen
+        hinter BLASTER geben Auskunft ber die Konfigurierung der Karte.
+        Beispielsweise ber Adresse (An), DMA-Kanal (Dn) und IRQ (In).
+        Das kleingeschriebene "n" in den Klammern repr„sentiert jeweils den
+        eingestellten Wert. Diese Parameterangabe wird vom MASTER aus Deiner
+        AUTOEXEC.BAT gelesen und angesprochen. Wenn dieser Eintrag fehlt oder
+        die Werte unrichtig sind, kann die Soundkarte nicht korrekt
+        angesprochen werden. Nun solltest Du nicht einfach einen solchen
+        Eintrag selber vornehmen, denn normalerweise wird dieser oder ein
+        „hnlicher Eintrag vom Setup-Programm der Soundkarte automatisch
+        vorgenommen. Und m”glicherweise gibt es bei Deiner Soundkarte einen
+        Grund dafr, daá dieser Eintrag nicht vorgenommen wird, z.B. daá
+        Deine Karte einfach nicht Sounblaster-kompatibel ist.
+        Wenn diese Kompatibilit„t jedoch vom Hersteller versprochen ist,
+        solltest Du einmal versuchen, die Konfigurationswerte der Karte als
+        Kommandozeilen-Parameter dem MASTER direkt mitzuteilen.
+        Du ben”tigst folgende Werte:
+           -  Die E/A-Adresse der Soundkarte
+              Der MASTER nimmt voreingestellt die Basisadresse h220 an.
+
+           -  Den benutzten DMA-Kanal
+              Der MASTER nimmt voreingestellt DMA 1 an.
+
+           -  Die IRQ-Nummer
+              Der MASTER nimmt voreingestellt den IRQ 7 an.
+
+        Die Werte, die bei Deiner Karte voreingestellt sind, erf„hrtst Du
+        aus dem Bedienungshandbuch der Karte. Diese Einstellungen werden im
+        Allgemeinen nur ge„ndert, wenn es Konflikte mit anderen Karten im
+        Rechner gibt. Wenn Du Deine Karte selbst eingebaut hast, wirst Du
+        wissen, ob Du die Einstellungen, die meistens mit sogenannten
+        Brckenklammern (Jumper) vorgenommen werden, ver„ndert hast.
+        Wurde die Karte von jemand anderem eingebaut, solltest Du einfach
+        einmal Deinen Rechner aufschrauben und mit Hilfe des Handbuchs die
+        Stellung dieser Jumper berprfen, um so auf die Werte schlieáen zu
+        k”nnen.
+        Dazu ein Tip: Soundkarten sind oft groáe "St”renfriede" im
+                      Innenleben eines Rechners ! Da startet pl”tzlich der
+                      Rechner nicht mehr, wenn gleichzeitig der Drucker
+                      eingeschaltet ist. Oder der Scanner funktioniert nicht
+                      mehr oder ohne erkennbaren Grund werden sonderbare
+                      Ger„usche erzeugt. Keine Panik !
+                      Man kann viele Probleme relativ unkompliziert selbst
+                      in den Griff bekommen. In der Regel treten immer dann
+                      Komplikationen auf, wenn mehrere Ger„te auf die
+                      gleichen Kan„le und/oder die gleichen Interrupts
+                      angewiesen sind. Bei allen guten Karten hat man aber
+                      auch Einstellungsm”glichkeiten, um solche "Interessens-
+                      konfikte" zu vermeiden. Diese Einstellungsm”glichkeiten
+                      sollte man in diesen F„llen auch nutzen, aber, wenn
+                      m”glich, an der Soundkarte zuletzt ! Viele Spiele gehen
+                      einfach von bestimmten Einstellungen aus, und wenn
+                      diese nicht erfllt sind, dann gibt es einfach keinen
+                      Sound, basta ! So bleiben oft auch teure kommerzielle
+                      Spiele stumm, weil sie nicht in der Lage sind, eine
+                      andere Konfiguration anzusprechen, als die, die sie
+                      erwarten. Deshalb solltest Du zun„chst die Einstellung
+                      der anderen Karten in Deinem Rechner „ndern, bevor Du
+                      Dich an die Soundkarte heranmachst.
+
+        Wie auch immer, beim MASTER gibt es noch die M”glichkeit, die Werte
+        beim Start des Spiels als Kommandozeilenparameter anzugeben.
+        Der Schalter "X:" teilt dem MASTER mit, daá er die Soundkarte mit
+        den nachfolgenden Parametern ansprechen soll.
+        Beispiel: (hier die Werte der Voreinstellung)
+                  Die Basisadresse ist h220 und angefordert wird Interrupt
+                  7, der DMA-Kanal ist 1.
+                  Dann startest Du den MASTER mit:   MAUMAU X: A220 D1 I7
+                  Zur Verwendung von Schaltern und Parametern in der
+                  DOS-Kommandozeile lies bitte auch die Hauptdokumentation.
+
+        Wenn sich der MASTER beim Start aufh„ngt, hast Du m”glicherweise
+        die falschen Werte angegeben. Bleibt er trotz richtiger Angaben
+        immer noch stumm, obwohl Deine Soundkarte Soundblaster-kompatibel
+        ist, weiá ich leider auch nicht weiter. Da immer noch zu viele
+        M”glichkeiten bestehen, warum der MASTER nicht spricht, kann ich
+        dafr natrlich auch keine Garantie geben. Vielleicht kann ich Dir
+        weiterhelfen, wenn Du mir Deine Probleme schriftlich schilderst und
+        mir auch einen Ausdruck Deiner AUTOEXEC.BAT und CONFIG.SYS
+        zuschickst, und natrlich auch eine Information ber Deine
+        Soundkarte ( Name, DMA, IRQ, Basisadresse [Fotokopie aus Handbuch]),
+        sonstige Hardwareausstattung Deines Rechners und vielleicht auch
+        Informationen ber andere Programme, die bei Dir "t”nen" oder nicht.
+
+
+     8. Frage: Das Programm spricht, aber es rauscht ein wenig. Kann man das
+               irgendwie abstellen ?
+
+        Antwort:
+        Ich arbeite daran ! Die Qualit„t der Sound-Ausgabe h„ngt ab von der
+        Qualit„t der Aufnahme. (Binsenweisheit) Die S„tze, die der Master
+        sagt, sind als VOC-File aufgezeichnet und dann mit eigenen Tools
+        weiterverarbeitet worden. Mit zunehmender Sampling-Frequenz nimmt
+        auch die Qualit„t der Aufnahme zu, jedoch werden dann auch die
+        Dateien umso gr”áer. Deshalb habe ich zun„chst versucht, einen
+        Kompromiá zu finden. N„mlich m”glichst kleine Sounddateien mit der
+        dabei h”chsten mir m”glichen Aufnahmequalit„t. Es geht sicher noch
+        besser, aber leider habe ich zur Zeit kein Programm, mit dem ich
+        VOC-Files in einer besseren Qualit„t aufzeichnen kann.
+        Aufgenommen wurden die jetzigen Dateien mit einer Sampling-Frequenz
+        von 14 kHz, damit die Dateien nicht gr”áer als 400000 Byte werden.
+        Erschwerend kommt hinzu, daá der Master seine S„tze spielsensitiv
+        zusammenstellt, d.h. er kombiniert je nach Spielsituation Satzteile
+        aus der Sounddatei und spricht sie als ganzen Satz aus. Dies dient
+        der Vermeidung von wiederholten Aufnahmen, denn sonst máte die
+        Sounddatei acht Mal die Sequenz "Und weiter geht's mit..."
+        enthalten. Die Qualit„t ist also nicht nur das Ergebnis der
+        Aufnahme, sondern auch der Verbindung der Satzteile.
+        Wenn Du mir dabei irgendwie weiterhelfen kannst, melde Dich bitte !
+
+
+     9. Frage: Wenn ich ein Spiel abspeichere, warum wird dann trotzden die
+               "ewige" Bestenliste aktualisiert ?
+
+        Antwort:
+        Diese Tatsache kann Dir nur deshalb aufgefallen sein, weil Du ein
+        abgespeichertes Spiel, anstatt es weiter zu spielen, gel”scht hast.
+        Nach der Spielspeicherung wirst Du bei der Wiederaufnahme des Spiels
+        gefragt, ob Du weiterspielen oder das gespeicherte Spiel verwerfen
+        m”chtest. Angenommen Du verlierst ein Spiel gegen den Master und
+        speicherst das Spiel ab, um es nicht weiterzuspielen und um zu
+        verhindern, daá Du Dich in der Bestenliste verschlechterst, dann
+        k”nnte man das als Mogeln bezeichnen. Die Bestenliste wird deshalb
+        immer aktualisiert, damit es keine M”glichkeit gibt, verlorene
+        Spiele quasi ungltig zu machen. Du kannst ja jederzeit die
+        Bestenliste ganz l”schen und wieder von Vorne anfangen.
+
+
+    10. Frage: Warum kann man nur gegen den Master spielen ? Warum gibt es
+               keinen Mehr-Spieler-Modus ?
+
+        Antwort:
+        Ich spiele leidenschaftlich gern MauMau ! Aus genau diesem Grund
+        habe ich ja letztlich auch dieses Programm geschrieben. Es liegt,
+        wie ich mit meinen Freunden oftmals ausprobiert habe, ein besonderer
+        Reiz darin, mit mehreren Leuten ein Turnier gegen den Master
+        auszutragen, aber immer dann, wenn mehrere Leute einfach nur MauMau
+        spielen wollen, macht es meiner Meinung nach mehr Spaá, wenn mann
+        die Karten aus dem Schrank kramt und sich um einen Tisch setzt um
+        konventionell gegeneinander zu spielen. In den Situationen, wo man
+        allerdings gerade keinen Mitspieler zur Hand hat, ist der Master
+        immer zur Stelle.
+        Auáerdem habe ich keine Ahnung, wie man die Karten mehrerer
+        menschlicher Spieler am Bildschirm darstellen kann, ohne daá einer
+        das Blatt des anderen einsehen kann. Eine interessante Variante in
+        diesem Sinne w„re allerdings eine netzwerkf„hige Version des
+        Masters. Dazu fehlt mir aber leider die Kenntnis, wie man soetwas
+        programmiert und nicht zuletzt die technische Ausrstung, um es
+        auszuprobieren.
+
+
+    11. Frage: Warum l„uft das Spiel und das Malprogramm nur im 16-Farben-
+               Modus ?
+
+        Antwort:
+        Das Spiel und die optische Darstellung ist im Laufe der Zeit um alle
+        mir m”glichen grafischen Elemente erweitert worden. Ursprnglich
+        wurde das Spiel auf einem C64 programmiert und hatte lediglich
+        diejenigen Grafikelemente, die Bestandteile des Zeichensatzes waren,
+        d.h. es wurde am Bildschirm zur Darstellung einer Herz-Dame
+        praktisch die Zeichenfolge "HERZ DAME" ausgegeben. Mir ging es
+        darum, daá daá Programm ordentlich und unberechenbar spielt, und
+        weniger darum, daá die Spielkarten auch wie solche aussehen ! Im
+        Laufe der Zeit habe ich die Spieloberfl„che entsprechend meiner
+        Erfahungen und M”glichkeiten immer mehr erweitert, deshalb schlieáe
+        ich nicht aus, daá es vielleicht irgendwann einmal einen Master mit
+        zw”lf verschiedenen gleichzeitig darstellbaren Bildkarten mit 256
+        Farben geben wird. Zur Zeit klappt das nicht, jedenfalls nicht bei
+        der dazu n”tigen Aufl”sung von 640*480 Blidpunkten. Aber mit 16
+        Farben l„át sich, wie man an den vorhandenen Bildkarten erkennen
+        kann, auch bereits einiges darstellen. Und nach wie vir liegt das
+        Besondere dieses Programms in der Spielweise und nicht in der
+        optischen Darstellung.
+
+
+    12. Frage: Ich spiele mit Freunden oft MauMau in unserer Stammkneipe.
+               (mit Papier-Karten natrlich) Wir spielen, wie Du in Deinem
+               Handbuch erw„hnst, auch darum, daá die Verlierer die Getr„nke
+               spendieren oder die n„chste Fete ausrichten. Zur Vorbereitung
+               spiele ich oft zuhause ein paar Runden gegen den Master.
+               Wie kann ich meine Freunde von der Jokerregelung Deines
+               MASTERS berzeugen ?
+
+        Antwort:
+        Wenn man den Glcksfaktor beiseite l„át, ist der Rest des
+        MauMau-Spiels durchaus Handwerk und geistige Geschicklichkeit. Wenn
+        Du aber glaubst, daá, wie Du weiter schreibst, Deine Unschlagbarkeit
+        auf die Trainingseinheiten mit dem Master zurckzufhren sind, dann
+        h„ttest Du ja einen Vorteil gegenber Deinen Mitspielern, den Du
+        ihnen im Sinne der Fairness nicht vorenthalten solltest. Laá sie doch
+        alle mit dem Master trainieren, dann weiát Du, wie gut Du wirklich
+        spielst !
+        Gib ihnen doch einfach Deine Sharewareversion (NICHT die Vollversion)
+        und sie k”nnen so selber testen, wie sinnvoll die Jokerregelung ist.
+        Mein Vater hat mir das MauMau-Spiel mit einem Romm‚-Blatt mit 54
+        Karten mit genau dieser Jokerregelung beigebracht. Ich kenne das
+        MauMau-Spiel also gar nicht anders, weiá aber inzwischen durch
+        einige Briefe, daá viele Leute mit Jokern beim MauMau nicht viel
+        anfangen k”nnen. Deshalb kann man ab der 95er Version die Joker
+        im Spiel auch abschalten. Allerdings finde ich das schade, denn
+        gerade die Verwendungsm”glichkeiten der Joker und auch die
+        Antwortm”glichkeiten auf Joker machen einen nicht unerheblichen Reiz
+        des Spiels aus.
+
+
+    13. Frage: Wenn ich ein Spiel mit der <ENDE>-Taste auf der Tastatur
+               beende, bleibt meine Konfiguration erhalten, warum nicht,
+               wenn ich das Programm ganz normal verlasse.
+
+        Antwort:
+        Die <ENDE>-Taste auf der Tastatur gibt Dir die M”glichkeit ein
+        angefangenes Spiel beim n„chsten Aufruf weiterzuspielen. Brichst
+        Du ein Spiel vollst„ndig ab, wird es beim n„chsten Start wieder mit
+        allen vom Programm voreingestellten Werten er”ffnet.
+        Du kannst im laufenden Spiel alles wieder so einzustellen, wie es
+        Dir am besten gef„llt, aber das natrlich nervig. Deshalb gibt es
+        beim MASTER die M”glichkeit so ziemlich alle Einstellungen fr das
+        Spiel (Blatt, Kartensatz, Hintergrundfarbe, Anzahl der Karten,
+        Joker oder nicht, Sortieren oder nicht, Dein Name, Limit,
+        Zeitverz”gerung u.s.w) schon beim Starten mit anzugeben. Es werden
+        dafr einfach bestimmte Schalter als Kommandozeilen-Parameter
+        gesetzt. Wie das geht, steht in der Hauptdokumentation.
+        Wenn Du aber einmal eine Konfiguration gefunden hast, mit der Du das
+        Spiel immer starten m”chtest, dann solltest Du das Spiel ber eine
+        Batch-Datei starten. Batch-Dateien sind Textdateien, die nichts
+        anderes enthalten, als die DOS-Befehle, die Du zum Starten eines
+        Programms eingibst. (Lies dazu bitte Dein DOS-Handbuch).
+        Die Befehle in einer solchen Stapel-Datei werden der Reihe nach
+        abgearbeitet. Es handelt sich bei diesen Batch-Dateien also um soetwas
+        wie selbstgeschriebene Startprogramme.
+        Wenn sich der MASTER z.B. im Verzeichnis C:\MAUMAU befindet, k”nnte
+        eine solche Batch-Datei z.B. folgendermaáen lauten:
+
+        REM Diese Datei startet eine bestimmte MauMASTER Konfiguration
+        CD C:\MAUMAU
+        MAUMAU DEMOSATZ Z:0.5 B:3 N:KLAUS L:100 F:21 A:7
+        CD\
+        REM Ende der Datei
+
+        Batch-Dateien haben die Endung "BAT" und so k”nnte diese Batch-Datei
+        z.B. "MASTER.BAT" heiáen. Wenn ein Suchpfad auf das Verzeichnis, in
+        dem diese Datei abgelegt ist, verweist, brauchst Du nur in der DOS-
+        Kommandozeile "MASTER" einzugeben und mit der Enter-Taste (RETURN)
+        zu best„tigen. Und schon wird der MASTER mit dem Kartensatz DEMOSATZ
+        und einer Zeitverz”gerung von 0.5 Sekunden, dem Altenburger Blatt
+        und der Farbe Nr.: 21 aufgerufen. Er kennt dann bereits den Namen
+        KLAUS als Gegner, weiá, daá auf ein Limit von 100 gespielt werden
+        soll und teilt von Vorneherein sieben Karten aus.
+
+
+    14. Frage: Warum gibt es nur einen Computergegner, den MASTER ?
+
+        Antwort:
+        Zugegeben, mehrere Gegner erh”hen den Spielspaá ! Technisch gesehen
+        gibt es eigentlich auch keinen Hinderungsgrund. Das Problem ist der
+        Platz auf dem Bildschirm, denn auch bei 640*480 Bildpunkten gelangt
+        man sehr schnell an die Grenzen des Darstellbaren. Fr mehr als
+        einen Gegner máte man schlieálich auch mehrere Punkte-Displays
+        haben. Gerade jetzt, wo der MASTER das Sprechen gelernt hat, w„re es
+        reizvoll, ihn auch mehrere Personen imitieren zu lassen.
+        Ich verspreche, daá ich daran arbeiten werde. Und, gerade was die
+        Bildschirmaufteilung anbetrifft, bin ich fr jede Anregung dankbar.
+        Sicher w„ren kleinere Karten dafr vorteilhaft, aber dann w„re auch
+        die Darstellbarkeit von Bildkarten eingeschr„nkter.
+        Sich berdeckende Karten w„ren eine L”sung und die Karten der Gegner
+        sieht man ohnehin nur von hinten, k”nnten also auch kleiner
+        dargestellt werden. Eine definitive Antwort, ob das machbar ist,
+        d.h. ob ich das hinkriege, muá ich allerdings im Moment noch
+        schuldig bleiben.
+
+
+    15. Frage: Statt mich zu fragen, ob ich mit ihm spielen will, gibt der
+               Master im Er”ffnungsbildschirm meistens nur ein seltsames
+               Kreischen und Piepen von sich. Woran liegt das ? Die Sprach-
+               ausgabe im Spiel selbst, l„uft dagegen in der Regel normal.
+
+        Antwort:
+        Genau diese Erscheinung trat bei mir auch auf. Zun„chst dachte ich,
+        daá meine Soundkarte defekt w„r, da auch andere Spiele teilweise die
+        Soundausgabe verweigerten oder nur Kr„chzen und Ger„usche von sich
+        gaben. Die Suche nach einem solchen Fehler kann einen fast verrckt
+        machen. Ich weiá immer noch nicht, ob es wirklich daran lag, aber
+        seit dem ich meine CONFIG.SYS etwas umgestellt habe, ist dieses
+        Problem bei mir nicht mehr aufgetaucht. Wenn Du ein CDROM-Laufwerk
+        besitzt und dieses direkt an die Soundkarte angeschlossen hast,
+        statt an eine CDROM-Controller-Karte, dann soltest Du den Treiber
+        der Soundkarte VOR dem CDROM-Treiber laden. Lege eine
+        Sicherungskopie von Deiner CONFIG.SYS an, stelle ein paar Treiber
+        um und beobachte, ob dies zu Verbesserungen fhrt. Genaue
+        Darstellungen einer "perfekten" CONFIG.SYS entnimm bitte den
+        gutgemeinten Tuning-Vorschl„gen aus diversen Fachzeitschriften, denn
+        mit meiner CONFIG.SYS k”nnen wohl die meisten nicht leben. Ich habe
+        meine ersten Gehversuche mit DR-DOS unternommen und bin
+        konsequenterweise (und gerne) bei Novell DOS 7 gelandet. Da aber
+        auf fast allen Rechnern MS-DOS installiert ist, kann ich hier keine
+        speziellen Tips geben.
+        Eine andere Ursache fr diese Erscheinung k”nnte eine zu langsame
+        Festplatte sein, d.h. das Programm versucht einen Satz schneller
+        auszusprechen, als dieser von der Festplatte geladen werden kann.
+        Seit Anfang Januar 1995 ist dieses Problem aber softwareseitig
+        gel”st ! Der Master wartet mit der Sprachausgabe bis tats„chlich der
+        ganze Satz geladen ist. Wegen der Geschwindigkeit l„uft die
+        Sprachausgabe auf Diskettenlaufwerken ohnehin nicht.
+
+
+    16. Frage: Wenn ich das Spiel unter OS/2 in einem DOS-Fenster laufen
+               lasse, h„ngt es sich nach wenigen Eingaben auf. Woran liegt
+               das ?
+
+        Antwort:
+        Ein DOS-Fenster unter OS/2 (hnliches gilt brigens auch fr
+        Windows) stellt dem Programm nicht unbedingt gengend Speicher und
+        die ben”tigten Treiber (Maus/Sound) zur Verfgung ! Vielmehr
+        handelt es sich bei solch einem Fenster mehr oder weniger um eine
+        DOS-Emulation, d.h. es wird fr das Programm so getan, als st„nde
+        ihm (echtes) DOS zur Verfgung. Fr den Anwender bedeutet dies, daá
+        er jedes DOS-Fenster, ob Windows oder OS/2, m”glichst nach den
+        Anforderungen des DOS-Programms zu konfigurieren hat. Windows als
+        grafische Benutzeroberfl„che und OS/2 als Betriebssystem benutzen
+        fr die eigene Funktionsf„higkeit und die Funktionsfahigkeit der
+        fr sie geschriebenen Programme eigene Treiber. Dies bedeutet aber
+        nicht, daá diese Treiber auch fr DOS-Programme, die nicht
+        speziell fr diese Oberfl„chen geschrieben wurden, zur Verfgung
+        stehen. Eine Maus, die unter Windows funktioniert, muá nicht
+        unbedingt auch in einem aus Windows gestarteten DOS-Programm
+        laufen. Eine Soundf„higkeit von OS/2-Programmen sagt letztlich
+        nichts darber aus, daá die unter OS/2 gestarteten DOS-Programme
+        eine vorhandene Soundkarte ebenfalls ansprechen k”nnen.
+        Wenn man Diesel in einen Benziner fllt, kann man sich schlieálich
+        nicht beim Automobilhersteller darber beschweren, daá das
+        Fahrzeug nicht fliegt. Gerade aber von Problemen dieser Art wurde
+        mir in letzter Zeit h„ufiger berichtet. Der MauMaster ist ein DOS-
+        Programm und eigentlich nicht dazu gedacht, unter Windows oder
+        OS/2 zu laufen. Das ist zwar grunds„tzlich m”glich, aber wenn man
+        es nicht hinbekommt, dann liegt es eben daran, daá man es nicht
+        hinbekommt, und nicht daran, daá das Programm einen Fehler hat.
+        MauMaster kann unter diesen Oberfl„chen nur in einem DOS-Fenster
+        laufen und dieses Fenster muá entsprechend den Anforderungen des
+        Programms konfiguriert werden. Das heiát, daá die DOS-Treiber
+        geladen sein mssen, wenn das Programm aufgerufen wird.
+        Also, wenn Du das Programm aus einem OS/2-DOS-Fenster startest,
+        dann muá dieses Fenster so konfiguriert sein, daá es dem MauMaster
+        einen geladenen DOS-Maustreiber und, wenn eine soundblaster-
+        kompatible Soundkarte vorhanden ist, auch den DOS-Soundtreiber
+        zur Verfgung stellt.
+
+
+    17. Frage: Nach der Installation des MauMasters brauche ich nur MAUMAU
+               einzugeben und dann startet das Spiel einwandfrei. Wenn ich
+               aber den Rechner zwischendurch ausschalte, bekomme ich nach
+               der Eingabe von MAUMAU die Meldung "Kommando oder Dateiname
+               nicht erkannt". Muá ich jedesmal, wenn ich spielen m”chte,
+               das Programm neu installieren ?
+
+        Antwort:
+        Nein ! Das Installationsprogramm legt ein neues Verzeichnis mit dem
+        Namen C:\MAUMAU auf Deiner Festplatte an. W„hrend der Installation
+        wechselt das Installationsprogramm in dieses Verzeichnis, so daá
+        nach der Installation nur noch MAUMAU zum Starten des Programms
+        eingegeben werden braucht. Im Gegensatz zu vielen anderen
+        Installationsprogrammen, ist die INSTALL-Routine vom MauMaster
+        nicht so dreist, in Deiner AUTOEXEC.BAT die Pfadanweisung zu
+        „ndern. D.h. das Programm l„át sich nicht aus jedem Verzeichnis
+        heraus starten. Wenn Du Deinen Rechner einschaltest, befindest Du
+        Dich normalerweise im Wurzelverzeichnis C:\ . Um das bereits
+        installierte MauMau-Programm zu starten, muát Du in das MauMau-
+        Verzeichnis wechseln. Gib einfach CD MAUMAU ein ! Wenn Du Dich
+        nicht im Verzeichnis C:\ befindest, dann gib CD C:\MAUMAU ein !
+        Danach gibst Du MAUMAU ein, und das Spiel startet.
+        Einfacher geht es, wenn Du zum Programmstart gleich den Pfad mit
+        angibst. Du kannst das Spiel von berall, d.h. aus jedem
+        Verzeichnis, mit C:\MAUMAU\MAUMAU.EXE starten. Die Endung ".EXE"
+        braucht dabei nicht unbedingt angegeben zu werden.
+
+
+

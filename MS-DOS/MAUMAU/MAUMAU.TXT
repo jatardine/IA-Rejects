@@ -1,0 +1,932 @@
+
+         ÛÜ ÜÛ ÜßßßÜ Û   Û   ÛÜ ÜÛ ÜßßßÜ Üßßßßß ßßÛßß Ûßßß ÜßßßÜ
+         Û ß Û ÛßßßÛ Û   Û   Û ß Û ÛßßßÛ  ßßßßÜ   Û   Ûßßß ÛßßÛÜ
+         Û   Û Û   Û ßÜÜÜß   Û   Û Û   Û ßÜÜÜÜß   Û   ÛÜÜÜ Û   Û
+        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        ³ MAU MASTER 95 Serie I/95   Copyright (c) 1994 by Klaus Hinrichs ³
+        ³ HANDBUCH / Information / Lektre an spielfreien Tagen           ³
+        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        Liebe(r) Spieler(in) !
+
+        Der MAU MASTER 95 unterscheidet sich noch einmal deutlich von
+        seinen Vorg„ngermodellen. Dies liegt einerseits daran, daá ich
+        versucht habe, m”glichst viele Kritikpunkte aufzugreifen und
+        abzustellen, andererseits war die optische Gestaltung und die
+        Benutzerfreundlichkeit, gerade beim Einsatz einer Maus, noch
+        nicht optimal.
+        Und ... , wenn Du stolzer Besitzer einer Soundblaster- oder
+        kompatiblen Karte bist, sollte der Master sogar sprechen.
+
+        Die Schalterleiste am unteren Bildschirmrand wurde erweitert, die
+        Bestenliste informativer gestaltet, ein "Quasi"-Bildschirmschoner
+        implementiert und Wahlm”glichkeiten zum Sortieren der Karten und zur
+        Verwendung von Jokern eingebaut.
+
+        Linksh„nder k”nnen ab jetzt die Tastenbelegung der Maus in der
+        Konfiguration oder direkt beim Programmstart ber Kommandoschalter
+        umdrehen.
+
+        Die vollst„ndige Bestenliste kann nun auch ber einen Drucker
+        ausgegeben werden .
+
+        Der Master 95 kann angefangene Spiele oder Turniere zwischen-
+        speichern und bei Bedarf zu Weiterspielen wieder laden.
+
+        Einige Ver„nderungen befinden sich aber auch "unter der Haube",
+        d.h. sie werden auf den ersten Blick gar nicht wahrgenommen, da sie
+        keine Bildschirmausgabe besitzen, sondern sich auf die Verbesserung
+        des Spielflusses beziehen.
+
+
+        Damit nichts schiefgeht !
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Dieses ein wenig kommerzielle Kapitel steht hier am Anfang, da ich
+        aus eigener Erfahrung weiá, daá gerade l„ngere Textdokumente niemals
+        so interessant sind, wie die Spiele, die sie letztendlich erkl„ren
+        sollen. Und dieser Text ist ziemlich lang !
+
+        Das Spiel ist durch Versuch und Irrtum recht schnell zu begreifen,
+        aber die Prozedur einer Bestellung/Registrierung der Vollversion ist
+        bereits mehrere Male zu beiderseitiger Unzufriedenheit in die Hose
+        gegangen. Beispielsweise wird mir der Registrierungsbetrag von
+        NUR 25,- DM beleglos berwiesen und auf meinem Kontoauszug steht:
+        "Fr MAUMAU, bitte Vollversion senden !" (Bitte nicht nachmachen !)
+        Mir fehlt die Adresse, an die ich die Vollversion schicken kann, und
+        der Kunde wundert sich, warum ich ihm die Vollversion nicht schicke.
+        Auch bei bruchteilhaft angegebenen Adressen, z.B. ohne Straáenangabe,
+        ist unsere "geliebte" Bundespost unerbittlich und schickt mir die
+        Vollversionen gnadenlos zurck.
+
+        Falls Du eine Vollversion ber einen Shareware-Service bezogen hast
+        oder eine Vollversion bei mir bestellen willst, m”chte ich Dich
+        bitten, die der Vollversion beiliegende Registrierkarte oder das
+        ausgedruckte Bestell-Formular REGFORM.TXT auszufllen und an mich zu
+        schicken.
+
+        Falls Du den Registrierungsbetrag von 25 DM beleglos berweisen
+        m”chtest (statt Scheck oder bar), achte bitte darauf, daá auf meinem
+        Kontoauszug Deine vollst„ndige Adresse auftaucht, denn sonst kann
+        ich Dir die Vollversion nicht zuschicken. Also lieber statt
+        "Verwendungszweck" die Anschrift angeben.
+        Die Buchstaben "MM" reichen als Verwendungszweck aus.
+        Nochmal: Bitte in jedem Fall die vollst„ndige Adresse angeben !
+
+        Nur wenn ich pers”nlich von Dir Nachricht bekomme, bist Du ordentlich
+        registriert. Auch jede Vollversion, die nicht direkt von mir bezogen
+        wird, hat eine eigene Identifikations-Nummer. Bei Rckfragen,
+        Problemen, Inkompatibilit„ten und natrlich auch bei der
+        Registrierung einer Vollversion muá diese Nummer stets angegeben
+        werden.
+
+        Da das Verschicken von Mnzgeld problematisch ist und eine
+        šberweisung von kleinen Betr„gen stressig und relativ teuer ist,
+        habe ich lange berlegt, wie eine vernnftige Update-Regelung
+        aussehen k”nnte. Fr weniger als 10 DM lohnt sich der Aufwand fr
+        mich nicht mehr, da allein 3 DM Porto, die Kosten fr
+        Versandumschlag, Diskette, Aufkleber und nicht zuletzt die Zeit,
+        die dabei draufgeht, eine individuelle Volversion anzufertigen,
+        bercksichtigt werden mssen. Deshalb bitte ich diejenigen
+        registrierten Anwender, die ein Update m”chten, mir einfach per Post
+        einen 10 DM Schein zuzusenden und sie erhalten dafr die jeweils
+        aktuelle Vollversion. Auch hier gilt: Adresse angeben !
+
+        Bitte habt Verst„ndnis, daá ich nicht, wie z.B. groáe Software-
+        Hersteller, Werbematerial und Infobroschren ber Neu- und Weiter-
+        entwicklungen verschicken kann. Schreibt bitte einfach oder ruft mich
+        an ! Da der Master bislang in Serien erschien, die sich oft nur
+        durch Kleinigkeiten, wie z.B. die Postleitzahlenumstellung
+        unterschieden, k”nnt ihr so erfahren, ob sich ein Update auch
+        wirlich lohnt. Das Update von irgendeiner „lteren Version auf den
+        MAU MASTER 95 ist in jedem Fall eine šberlegung wert.
+
+
+        Was muá man noch wissen ?
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Dieser Text ist bei Shareware- und Vollversion identisch.
+
+        Unterschiede und Vorteile der Vollversion des MAU MASTER 95 VGA sind
+        in einem gesonderten Kapitel am Ende dieses Textes aufgefhrt und
+        beschrieben.
+
+        Auáer den Extras der Vollversion sind die Regeln und die Bedienung,
+        welche im Folgenden erkl„rt werden, bei beiden Versionen gleich.
+
+        Dieses spielstarke MauMau Programm l„át sich direkt von der DOS -
+        Kommandozeile aus starten.
+
+        Tippe einfach MAUMAU ein !
+
+        Wenn Dir der Name des Programms zum Eingeben zu unbequem erscheint,
+        dann benenne das Hauptprogramm einfach um. (z.B. einfach nur in MAU
+        oder MASTER)
+        Die Dateien mit der Endung ".ICN" drfen allerdings nicht umbenannt
+        werden, da sie sonst vom Hauptprogramm nicht mehr gefunden werden
+        und somit das Program nicht l„uft.
+        Die Statistikdatei MAU95.QUO (Bestenliste) kann im Bedarfsfall
+        gel”scht werden, weil der MAU MASTER diese Datei immer wieder neu
+        anlegt.
+
+
+        Los geht's
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Du wirst aufgefordert Deinen Namen anzugeben, damit der MEISTER
+        weiá, mit wem er es zu tun hat.
+        Wenn Du willst, kannst Du auch ein Limit angeben.
+        Wer das Limit mit seinen Minuspunkten zuerst berschreitet, hat
+        natrlich verloren. Wird kein Limit angegeben, so werden die
+        Minuspunkte solange aufaddiert bis Du das Spiel beenden m”chtest
+        oder das H”chstlimit (999 Voreinstellung) erreicht ist.
+        Im Folgenden werden Minuspunkte als sogenannte "Miese" bezeichnet.
+
+        Wieviel "Kredit" die Spieler noch haben, zeigt das Programm in
+        einem Nummerndisplay am oberen rechten Bildrand an.
+
+        Da es keine einheitlichen MauMau-Regeln gibt, habe ich versucht,
+        m”glichst viele sinnvolle Regeln einzubauen, ohne das Programm
+        unn”tig zu komplizieren, um dadurch ein spannendes und bersicht-
+        liches Spiel zu erm”glichen.
+        MauMau ist eigentlich ein sehr einfaches Spiel. Daá es aber KEIN
+        Glcksspiel ist, merkt man sp„tstens, wenn man gegen das Programm
+        spielt.
+
+        Dieses hier gespielte "Wettkampf"-MauMau wird mit einem Romm‚-Blatt
+        (52 Karten) plus zwei JOKER (Universalkarten) gespielt.
+
+        "Verl„ngern" ist m”glich !
+
+        Bilder, ausgenommen BUBE und JOKER, sind niedrige Werte !
+
+        Du kannst das Spiel jederzeit abbrechen, indem Du die ESC-Taste
+        drckst oder mit der Maus die ENDE-Taste anklickst.
+
+        Am Ende eines jeden Durchgangs werden die Karten des Verlierers
+        der Runde ausgewiesen, zusammengez„hlt und auf das Miesenkonto
+        addiert.
+
+        Wird ein Spiel mit einem Joker oder einem Buben abgeschlossen,
+        so werden die Verlustpunkte des Verlierers aus diesem Spiel
+        verdoppelt.
+
+        Wird ein Spiel mit einer Sieben abgeschlossen, so muá der Verlierer
+        noch zus„tzliche Karten aufnehmen.
+        Diese Karten werden in der Endabrechnung blau eingef„rbt .
+
+        Ein Druck auf eine beliebige Taste er”ffnet dann den n„chsten
+        Durchgang.
+
+        Wird das Limit berschritten, z„hlt das Programm Dein Spielergebnis
+        zu allen Deinen jemals gegen den MAU MASTER erzielten Punkten hinzu.
+        Auf diese Weise errechnet sich die Miesenquote in der Bestenliste.
+        So kannst Du sehen, ob Du dich langfristig verbessert oder
+        verschlechtert hast.
+
+        Durch die Bestenliste werden auch die "Leistungen" verschiedener
+        Spieler miteinander vergleichbar, allerdings ist dies bei einer
+        unterschiedlichen Anzahl von Spielen je Spieler nicht mehr
+        sonderlich aussagef„hig.
+        Du erreichst die Bestenliste durch einen Druck auf die Leertaste
+        (Space) oder in der Endabrechnung (nach Limit-šberschreitung) durch
+        einen Druck auf die rechte Maustaste oder indem Du die Schaltfl„che
+        <LISTE> anklickst.
+
+        Wir spielen z.B. ”fter mit mehreren Spielern jeweils fnf oder zehn
+        Runden auf ein Limit von 100 gegen den MASTER. Wer danach die beste
+        Punktzahl hat, hat gewonnen. (... der oder die Verlierer spendieren
+        die Getr„nke !!!)
+
+        Einen solchen Wettbewerb spielen wir im "Turniermodus", der durch
+        einen Druck auf die Taste <T> eingestellt werden kann.
+        Daraufhin wird die "ewige" Bestenliste fr die Dauer des Turniers
+        ausgeschaltet und nur noch eine Turnierliste gefhrt, deren
+        Ergebnisse in die normale Bestenliste nicht eingehen.
+        Wenn ein Spielerwechsel vorgenommen wird, muá vorher die Schaltfl„che
+        <NEU> in der unteren Funktionsleite angeklickt werden. Daraufhin
+        tr„gt der neue Spieler seinen Namen und eventuell ein neues Limit ein.
+
+        Ein einmal eingestellter Turniermodus kann nur durch die Tasten-
+        Kombination <E> oder <ESC> und danach die mittlere Maustaste, wenn
+        vorhanden, oder die <Leertaste> ausgeschaltet werden. Es erfolgt
+        dann quasi ein Neustart, bei dem die "ewige" Bestenliste wieder
+        geladen wird.
+
+        Diese "ewige" Liste kann gel”scht werden, damit man ganz von Vorne
+        anfangen kann, denn es kann vorkommen, daá gerade beim Kennenlernen
+        des Programms und der Spielst„rke des Meisters die eigenen Ergebnisse
+        nicht gerade berauschend sind und man selbst durch sp„tere gute
+        Leistungen nicht so leicht aus dem "Keller" der Bestenliste
+        herauskommt. Tippe entweder "Delete MAU95.QUO" in der
+        DOS-Kommandozeile oder l”sche diese Datei aus dem laufenden Programm
+        heraus, indem Du auf die Taste <Q> drckst und dann die L”schung
+        best„tigst.
+
+        šBRIGENS: Auch die Leistungen der nicht in den TOP TEN aufgefhrten
+                  Namen werden natrlich fortgeschrieben ! Spieler, die nicht
+                  unter den zehn Besten sind, werden ber ihren aktuellen
+                  Rang in der Liste informiert. Eine Meldung in der oberen
+                  rechten Ecke der Bestenliste gibt Auskunft ber die Anzahl
+                  der Eintr„ge, d.h. die Anzahl aller in der Bestenliste
+                  aufgefhrten Spieler.
+                  Wer einen Drucker besitzt (also jeder) kann die Bestenliste
+                  auch ausdrucken. (Voraussetzung ist ein Drucker an LPT1)
+                  Einfach Schaltfl„che <DRUCK> anklicken oder <D> eingeben.
+
+
+
+        MAUMAU-REGELN
+        =================================================================
+        1. Sinn des Spiels ist es, m”glichst geschickt und schnell seine
+           Karten loszuwerden und zu versuchen, den MEISTER an der Ablage
+           seiner Karten zu hindern. Er versucht das auch bei Dir !!!!
+
+        2. Welcher Spieler anfangen darf, bestimmt beim ersten Spiel der
+           Zufallsgenerator, danach wird immer gewechselt.
+
+        3. Jeder Spieler erh„lt vom Stapel eine bestimmte Anzahl an Karten.
+           (Voreinstellung: Fnf Karten)
+           Dann wird eine Karte vom Stapel als erste Karte aufgedeckt.
+           Wird als allererste Karte ein BUBE oder ein JOKER aufgedeckt,
+           dann kann jede beliebige Karte daraufgelegt werden.
+           (siehe aber 5.)
+           Ist die allererste Karte eine 7 oder eine 8 , dann ist die
+           Karte "aktiv", d.h. man muá nehmen bzw. aussetzen, sofern man
+           nicht verl„ngern kann.
+
+        4. Es k”nnen immer gleiche Werte oder gleiche Farben abgelegt
+           werden : Fnf auf Fnf, Dame auf Dame, Karo auf Karo u.s.w.
+
+        5. Auf einen Buben kann man allerdings keinen weiteren Buben legen
+           und auf einen Joker geht auch kein Bube.
+           Genausowenig darf man auf einen Joker einen anderen Joker legen.
+           Einen Buben mit einem Joker zu berstimmen ist jedoch erlaubt !
+           Klartext:  BUBE  auf BUBE  --> NEIN
+                      BUBE  auf JOKER --> NEIN
+                      JOKER auf JOKER --> NEIN
+                      JOKER auf BUBE  --> JA
+
+        6. Willst Du die Farbe „ndern, weil Du glaubst, daá der MEISTER
+           von der aktuellen Farbe zu viele Karten hat, oder Du in einer
+           anderen Farbe besser weiterspielen kannst, dann kannst Du
+           jederzeit (siehe aber 5.) einen Buben oder einen Joker legen
+           und Dir eine neue Farbe wnschen.
+           ( FARBEN: Karo, Herz, Pik, Kreuz bzw. Schell, Rot, Grn, Eichel)
+
+        7. Wenn eine 8 gelegt wird, dann muá der Gegner fr die Ablage
+           seiner Karten einmal aussetzen, es sei denn, er legt seinerseits
+           eine 8 darauf. Dann muá sein Gegner aussetzen, wenn er keine 8
+           zum "VERLNGERN" hat.
+
+        8. Wenn eine 7 gelegt wird, so muá der Gegner zwei Karten vom
+           Stapel nehmen. Wenn er aber seinerseits eine 7 darauflegt, dann
+           muá sein Gegner vier Karten nehmen. Beim Verl„ngern der 7 wird
+           die Anzahl der zu nehmenden Karten also jeweils um zwei Karten
+           erh”ht.
+
+        9. Die Karten 7 und 8 k”nnen natrlich auch mit einem Joker
+           verl„ngert werden. Da der Joker keinen eigenen Wert hat, nimmt
+           er immer den Wert an, auf den er gelegt wird.
+           Diese Regel NR.9 ist wichtig ! Ich habe ein paar Beschwerden
+           zugeschickt bekommen, daá der MASTER "betrgt". Aber eigentlich
+           ist dies nur eine logische Konsequenz aus Regel NR.10.
+           Also volle Absicht !
+
+        10. Weil der Joker beim Ablegen den Wert der Karte annimmt, auf die
+            er gelegt wird, kannst Du auch diesen Wert auf den Joker legen
+            und muát nicht unbedingt die Farbe spielen, die mit dem Joker
+            gewnscht wurde.
+            (Beispiel: Der MASTER legt einen Joker auf eine Kreuz-3 und
+            wnscht sich die Farbe Pik, dann kannst Du auch eine Herz-3
+            auf den Joker legen.)
+
+        11. Es sind zwei Joker im Spiel. (Voreinstellung)
+
+        12. Wird das Spiel mit Bube oder Joker beendet, so sagt man "MAU MAU"
+            wird es mit irgendeiner anderen Karte beendet, heiát es "MAU".
+
+        13. Werte z„hlen ihre aufgedruckten Zahlen: z.B 6 = sechs Miese.
+            DAME   z„hlt   3 Miese.
+            K™NIG  z„hlt   4 Miese.
+            AS     z„hlt  11 Miese.
+            BUBE   z„hlt  20 Miese.
+            JOKER  z„hlt  40 Miese.
+
+
+
+        MAU MASTER - Tastenbelegung
+        ===================================================================
+
+        Es stehen Dir mehrere Tastenkombinationen zur Bedienung des Spiels
+        zur Verfgung. Das Spiel ist allerdings weitgehend mit der Maus
+        spielbar, so daá sich Tastaturabfragen auf die Eingabe des Namens
+        und des Limits beschr„nken k”nnen.
+
+        Zur Auswahl der Karte k”nnen die Cursortasten verwendet werden.
+        Mit Ihnen kann ein hellblauer Rahmen bewegt werden, der jeweils
+        die um die ausgew„hlte Karte gelegt wird. Wer die Karten mit der
+        Maus ausw„hlt, ben”tigt diesen Rahmen nicht. Er kann durch einen
+        Druck auf die Taste <Entf> ausgeblendet werden. Du kannst ihn auch
+        im Men KONFIGURATION ausschalten.
+
+        Zum Ablegen einer Karte muát Du die Taste <ENTER> oder die <0>
+        drcken !
+        Wenn Du Karten nimmst oder aussetzen muát, dann drcke die Taste <1>.
+
+        Wenn du mit einem Buben oder Joker die Spielfarbe „ndern willst,
+        kannst Du diese mit den Cursortasten einstellen und mit ENTER oder
+        <0> best„tigen.
+        Die Tasten <0> und <1> sind deshalb mit diesen Funktionen belegt
+        worden, weil sie im Zahlenblock auf der Tastatur den Pfeiltasten
+        (Cursortasten) am n„chsten liegen, und dadurch das Spiel bequem
+        mit einer Hand bedient werden kann. (NUM Lock einschalten !)
+
+        Selbstverst„ndlich kann der MAU MASTER auch mit der Maus gespielt
+        werden. Die linke Maustaste ist immer Best„tigungstaste, w„hrend
+        man mit der rechten Maustaste entweder Karten vom Stapel nimmt,
+        sein Aussetzen anzeigt oder eine Farbe ausw„hlt. Linksh„nder k”nnen
+        im Men KONFIGURATION die Tastenbelegung der Maustasten auch umkehren.
+        Im Folgenden gehe ich aber von einem Rechtshandbetrieb aus.
+
+        In der Serie I/95 erscheinen bei der Auswahl eines Jokers oder
+        eines Buben mit der Maus auf der Spielkarte vier Schaltfl„chen mit
+        Farbsymbolen, die dann jeweils mit der linken Maustaste angeklickt
+        werden k”nnen. Eine Farbwahl mit der rechten Maustaste oder mit
+        den Cursortasten ist aber weiterhin m”glich. Wenn die Farbe mit
+        der rechten Maustaste oder den Cursortasten ausgesucht wird, so
+        ist diese Vorgehensweise allerdings bergeordnet, d.h. daá ein
+        Druck auf die linke Maustaste keine Schaltfl„che mehr aktivieren
+        kann, sondern zur Best„tigung der Angaben im Ereignisfeld dient.
+
+        Wenn mit einem Buben die Farbe ge„ndert wird, dann wird das neue
+        Farbsymbol jeweils in den Ecken der Karten gegen die eigene Farbe
+        ausgetauscht. Damit aber erkennbar bleibt, daá es sich z.B. um
+        einen PIK-Buben handelt, mit dem Herz gewnscht wurde, bleiben die
+        gr”áeren Farb-Symbole in der Diagonalen unver„ndert.
+        Fr den Joker gilt hnliches, nur daá der ja keine eigene Farbe hat.
+
+        šber die Anzahl Deiner Karten, der des Gegners und der Karten auf
+        dem Stapel informiert Dich eine Statistik.
+
+        Der Stapel wird erst dann neu durchgemischt, wenn die letzte Karte
+        von ihm genommen wurde. Somit k”nnen einmal abgelegte Karten bis
+        dahin nicht mehr auftauchen.
+
+        Im normalen MauMau-Spiel muá die "LETZTE KARTE" angesagt werden,
+        damit der Gegner gewarnt wird, daá Du im Begriff bist, das Spiel
+        zu gewinnen, und so noch einmal die Chance erh„lt, Deinen Sieg zu
+        verhindern.
+        Hier geschieht die Warnung vor der letzten Karte automatisch.
+
+        Wichtige Spielentscheidungen werden in dem Anzeigefeld dokumentiert.
+
+
+        SONDERTASTEN:
+        -  Durch Bet„tigung der Taste <K> oder durch Anklicken der
+           Schaltfl„che <K-Satz> kannst Du in der Vollversion im
+           laufenden Spiel den Kartensatz wechseln. Es erscheint ein
+           Auswahlfenster, in dem die Nummer eines der im Verzeichnis
+           gefundenen Kartens„tze eingegeben werden kann. Die Kartens„tze
+           k”nnen auch mit der Maus ausgew„hlt werden. In der Shareware-
+           Version kann aus dem laufenden Programm nur der Kartensatz
+           ORIGINAL geladen werden. Wie Du dennoch in der Sharewareversion
+           den mitgelieferten DEMOSATZ laden kannst, wird in der Textdatei
+           DEMOSATZ.TXT beschrieben.
+
+        -  Mit den Tasten <-> und <+> kann die Spielgeschwindigkeit
+           beschleunigt bzw. verlangsamt werden. Die Sekundendauer der
+           "šberlegungszeit des MASTERs" wird entsprechend im Ereignisfeld
+           eingeblendet. Diese Funktion ist auch erreichbar, wenn Du den
+           Mauszeiger auf die entsprechende Taste in der unteren Schaltleiste
+           stellst und eine Maustaste drckst.
+
+        -  Ein Druck auf die Taste <P> schaltet den Piepton an und aus.
+           šber den Piepton-Status informiert bei einem Druck auf diese
+           Taste eine Einblendung im Ereignisfeld. Aus Rcksicht auf die
+           Nachbarn handelt es sich eher um einen Summton.
+
+        -  Ein Druck auf die Funktionstaste F1 oder ein Anklicken der
+           Schaltfl„che <HILFE> ”ffnet ein Hilfefenster in dem nochmal die
+           Tastenbelegung beschrieben wird. Innerhalb des Hilfefensters
+           funktionieren diese Tasten allerdings nicht.
+
+        -  Die Funktionstaste F6 oder die Schaltfl„che <INFO> ”ffnet ein
+           Fenster, in dem meine Adresse und die Versionsnummer der
+           jeweiligen Vollversion anzeigt werden. Jede Vollversion hat eine
+           eigene Kenn-Nummer !!!
+           Bei Shareware-Versionen wird nur ausgewiesen, daá es sich um
+           eine solche handelt.
+
+        -  Ein Anklicken der Schltfl„che <NEU> oder ein Druck auf die
+           Taste <N> erm”glicht einen raschen Spielerwechsel und/oder die
+           Einstellung eines neuen Limits.
+
+        -  Mit den bereits oben dokumentierten Tasten <Q> und <T> kann die
+           Bestenliste ganz oder nur fr die Dauer eines Turniers gel”scht
+           werden.
+
+        -  Fall Du nur mit der Tastatur (Richtungstasten,Null,Eins) spielst,
+           kann der Mauszeiger, m”glicherweise als st”rend empfunden werden.
+           Zwar kann man ihn jedesmal mit der Maus aus dem Bild "fahren",
+           aber er taucht nach einer Limitberschreitung wieder auf.
+           Deshalb kann der Mauszeiger durch einen Druck auf die Funktions-
+           taste F8 oder im Konfigurationsfenster aus- bzw. eingeschaltet
+           werden.
+
+        -  In der Voreinstellung werden alle vom Stapel genommenen Karten
+           zu den bereits gehaltenen Karten dazugemischt und dann neu
+           angezeigt. Ein Druck auf die Taste <S> schaltet die Sortierung
+           der genommenen Karten ein oder aus. Bei ausgeschalteter
+           Sortierung werden die neu hinzukommenden Karten einfach hinten
+           angelegt.
+
+        -  Wer sich nicht mit der Joker-Regelung des MauMasters anfreunden
+           kann (Regeln 9 und 10), kann durch Druck auf die Taste <J> die
+           weitere Vergabe von Jokern aus dem Stapel unterdrcken.
+           Bereits ausgeteilte Joker bleiben aber bis zu Ihrer Ablage im
+           Spiel.
+
+        -  Zur vorbergehenden Unterbrechung des Spiels entl„át ein
+           Druck auf <F9> den Spieler ins Betriebssystem (DOS-Shell).
+           Durch die Eingabe von "Exit" in der DOS-Kommandozeile und
+           anschlieáenden Druck auf die Enter-Taste gelangt man wieder in
+           das Spiel zurck.
+
+        -  Falls der Firmen-Chef vorbeikommt, drckt man einfach auf die
+           Funktionstaste <F12> und der Bildschirm wird schwarz. Wenn danach
+           die ESCAPE-Taste gedrckt wird, bricht der MauMaster das Spiel
+           ab, und man landet im DOS. Jede andere Taste ruft das Spiel bei
+           dem unterbrochenen Stand wieder auf. Diese Funktion darf nicht
+           mit dem eingebauten Bildschirmschoner verwechselt werden ! Der
+           schaltet den Bildschirm n„mlich immer aus, wenn 90 Sekunden lang
+           keine Eingabe erfolgte. Das Bild ist dann aber schon wieder da,
+           wenn nur die Maus ein wenig bewegt wird.
+
+        -  Die Bestenliste kann in dieser Version des MauMasters auch
+           ausgedruckt werden. Druck auf Taste <D>. Wenn der Drucker nicht
+           bereit ist oder nicht an LPT1 angeschlossen ist, klappt das
+           natrlich nicht.
+
+        -  Durch Druck auf die Taste <D> erh„lt man die Auswahl zwischen
+           den verschiedenen Bl„ttern. Eingestellt werden k”nnen:
+                            - Franz”sisches Blatt
+                            - Chemnitzer Modell
+                            - Deutsches Blatt
+                              a) Unter / Ober / K”nig
+                              b) Bube  / Dame / K”nig
+
+        Alles weitere zum Spiel selbst ist nicht weiter schwer
+        herauszufinden. Der Summton (sofern aktiv) macht Dich auf Fehler
+        aufmerksam. Schummeln ist deshalb nicht m”glich !
+
+        Aber: Wenn Du die Taste <M> ("Mogeln") drckst oder die Master-Taste
+              in der Schaltleiste anklickst, werden am unteren Bildrand die
+              Karten des Meisters eingeblendet. Allerdings zeugt das nicht
+              von besonders ausgepr„gtem Sportsgeist, denn er kennt Deine
+              Karten nicht.
+
+        Und : Wer mogelt und dadurch gewinnt hat natrlich keine Chance,
+              in der Bestenliste "verewigt" zu werden. Mogelnde Verlierer
+              dagegen ...
+
+
+        MAU MASTER's Kommandozeilen-Parameter
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Es ist m”glich, schon beim Start des Programms eigene Konfigurations-
+        Parameter anzugeben. Diese máten anderenfalls im laufenden Spiel
+        nacheinander separat eingestellt werden.
+        Die Einstellungen schon zum Programmstart vorzugeben, ist immer dann
+        sinnvoll, wenn man einige Parameter, wie Hintergrundfarbe oder
+        Verz”gerungszeit immer wieder auf bestimmte eigene Werte setzt und
+        das Programm ohnehin mit einer Batch-Datei aufruft.
+        Syntax fr Start mit Parameter-Vorgaben:
+             i=instr(kommando$,"T:")                 'Ton-Datei
+             i=instr(kommando$,"X:")                 'Soundkarten-Konfiguration
+
+        MAUMAU [Kartensatz] [F:n] [A:n] [L:n] [N:$] [S:n] [Z:n] [J:n] [M:n]
+                ³            ³     ³     ³     ³     ³     ³     ³     ³
+                ³            Farbe ³     Limit Name  ³     Zeit  ³    Maus l/r
+                Bildkarten         Anzahl            ³           Joker
+                                                     Sortieren
+
+        und:  [B:n]         [T:n]       [X:$]
+               ³             ³           ³
+               ³             Tondatei    ³
+               Blatt (1-3)               manuelle Sondblaster-Konfiguration
+
+        (n) steht hier immer fr einen gewnschten Wert.
+        ($) steht hier fr eine einzugebende Zeichenkette, z.B Dein Name.
+
+
+        Parameter:
+
+        Kartensatz     Voreingestellt ist der Kartensatz ORIGINAL. Wenn fr
+                       Kartensatz hier DEMOSATZ angegeben wird, l„dt der
+                       MauMaster die Bildkarten DEMOSATZ. Der
+                       Kartensatzname des gewnschten Kartensatzes muá
+                       immer direkt hinter dem Programmnamen MAUMAU
+                       angegeben werden (natrlich durch ein Leerzeichen
+                       getrennt) !
+
+                       Die Reihenfolge und Anzahl der brigen
+                       Kommandozeilen-Parameter ist dagegen v”llig egal !
+
+        F:(n)          Hintergrundfarbwerte fr n sind 0 (schwarz) bis
+                       63 (weiá).
+
+        A:(n)          Anzahl der zu Spielbeginn verzeilten Karten.
+                       Voreingestellt ist n=5 (Minimum)
+                       Maximal kann hier n=15 angegeben werden.
+
+        L:(n)          Es k”nnen Limits von 1 bis 999 eingestellt werden.
+                       Voreinstellung : 999
+
+        N:($)          Der Name des Spielers darf aus mehreren Teilen
+                       bestehen, z.B. Vor- und Nachname. Allerdings werden
+                       nur die ersten 12 Buchstaben weiterverwendet.
+
+        S:(n)          Sollen die jeweils vom Stapel genommenen Spielkarten
+                       zwischen die bereits auf der Hand gehaltenen
+                       dazugemischt, d.h. in eine aufsteigende Reihenfolge
+                       gebracht, oder einfach nur hinten angelegt werden ?
+                       n=0  ->  Anlegen
+                       n=1  ->  Einsortieren (Voreinstellung)
+
+        Z:(n)          Eine Verz”gerungszeit der Meldungen und der "Denk"-
+                       Geschwindigkeit des Masters kann minimal 0 Sekunden
+                       und maximal 9.9 Sekunden betragen.
+
+        J:(n)          Wer gewohnt ist, MAUMAU ohne Joker zu spielen, kann
+                       hier durch Eingabe von n=0 die Ausgabe von Jokern
+                       im Spiel einfach unterdrcken. Voreingestellt ist
+                       n=1, d.h. es wird mit Jokern gespielt.
+
+        M:(n)          Wer Linksh„nder ist oder sich angew”hnt hat, die
+                       Maus mit der linken Hand zu fhren, kann durch den
+                       Parameter M:1 die Tastenbelegung auf der Maus um-
+                       definieren. Die rechte Maustaste ist dann die
+                       Ablagetaste bzw. Wahltaste, mit der rechten
+                       Maustaste wird dann ausgesetzt oder genommen. Der
+                       Mauszeiger selbst zeigt auch grafisch an, ob das
+                       Spiel auf Linke-Hand-Betrieb oder Rechte-Hand-
+                       Betrieb eingestellt ist. Im Hilfefenster kann dieser
+                       Modus w„hrend des laufenden Spiels ge„ndert werden.
+                       Voreinstellung ist M:0, also Rechte-Hand-Betrieb.
+
+        B:(n)          Es k”nnen drei verschiedene Bl„tter eingestellt
+                       werden.
+                       1 = Franz”sisches Blatt (Voreinstellung)
+                       2 = Chemnitzer Modell
+                       3 = Deutsches Blatt (Unter/Ober)
+                       4 = Deutsches Blatt (Bube/Dame)
+
+        T:(n)          Um gesprochene Antworten des Masters auszugeben, sind
+                       die Sprachinformationen in zwei Tondateien enthalten.
+                       Je nachdem, ob der Master mit einer weiblichen oder
+                       m„nnlichen Stimme sprechen soll, w„hlt man eine dieser
+                       Dateien aus.
+                       1 = m„nnliche Stimme (Voreinstellung)
+                       2 = weibliche Stimme
+
+        X:($)          Diesen Schalter solltest Du nur versuchen, wenn der
+                       Master trotz vorhandener Soundblaster oder kompatiblen
+                       Soundkarte nicht spricht. Die Zeichenkette hinter
+                       diesem Schalter hat die Form A(nnn) D(n) I(n).
+                       Beispiel:
+                                   MAUMAU X: A220 D1 I7
+
+                       Diese Eingabe meldet dem Master eine Soundkarte mit
+                       der Adresse h220 , dem DMA-Kanal 1 und Interrupt 7.
+                       Normalerweise sucht der Master zun„chst nach einem
+                       solchen Eintrag, der in der AUTOEXEC.BAT eingetragen
+                       sein sollte. Nur wenn das Setup-Programm der Soundkarte
+                       einen solchen Eintrag nicht automatisch vorgenommen hat,
+                       ist hier eine manuelle Eingabe dieser Werte n”tig.
+                       Daá der Master dann spricht, kann ich trotzdem nicht
+                       garantieren. Siehe bitte auch FRAGEN.TXT.
+
+
+
+        Beispiel einer m”glichen Gesamtkonfiguration:
+
+        MAUMAU original f:29 a:5 l:999 n:spieler s:1 z:0.9 j:1 m:0 b:1
+
+        Da dieses Beispiel genau die Voreinstellungen enth„lt, sind diese
+        Angaben natrlich nicht besonders sinnvoll.
+        M”chtest Du aber Deinen Namen voreinstellen, das Limit auf 100
+        setzen, sechs Karten vorab ausgeben, einen schwarzen Hintergrund
+        w„hlen, die Karten unsortiert anzeigen, den Kartensatz DEMOSATZ
+        spielen, Verz”gerungszeit auf 0.6 Sekunden setzen,die Maus mit
+        der linken Hand bedienen und mit dem Altenburger Blatt spielen,
+        dann lautet die Eingabe:
+
+        MAUMAU demosatz n:Dein Name l:100 a:6 f:0 s:0 z:.6 m:1 b:3
+
+        Wie Du siehst, ist die Reihenfolge der "Doppelpunkt"-Parameter
+        unwichtig. Jedoch muá ein eventuell gew„hlter Kartensatzname immer
+        unmittelbar hinter MAUMAU stehen, natrlich durch ein Leerzeichen
+        getrennt.
+
+        Alle Einstellungen k”nnen im laufenden Spiel nachtr„glich
+        ausgew„hlt werden. (Beachte Unterschiede Shareware-/Vollversion !)
+        Wenn Du beim Programmstart regelm„áig viele Schalter setzt, und diese
+        letztlich immer gleich bleiben, dann empfiehlt es sich, dafr eine
+        Bach-Datei zu schreiben. Siehe auch FRAGEN.TXT.
+
+        Einschr„nkung:
+        In der Shareware-Version ist die Einstellung ber die
+        Kommandozeile die einzige M”glichkeit, einen anderen als den
+        voreingestellten Kartensatz zu laden.
+
+        Auch wenn hier Einiges auf den ersten Blick verwirrend klingt,
+        ist das Spiel im Prinzip ganz einfach zu bedienen. In den meisten
+        F„llen gengt ein Mausklick.
+
+        Deshalb wnsche ich Euch viel Spaá mit dem MAU MASTER 95 VGA !!!
+
+
+
+        MAU MASTER als Shareware-Programm:
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+        Vielen Dank allen, die die Vollversion des MAU MASTER 95 VGA
+        erworben haben !
+        Das Shareware-Prinzip lebt von der Anerkennung der Anwender fr die
+        Bemhungen der Programmierer. Dadurch, daá zufriedene Anwender die
+        Anstrengungen der Programmierer von Shareware-Programmen "belohnen",
+        sorgen sie selbst dafr, daá sie auch in Zukunft auf ein breites
+        Spektrum guter und preiswerter Programme zugreifen k”nnen, und sich
+        nicht mit den meist berteuerten "kommerziellen" Programm-Angeboten
+        begngen mssen.
+
+        Shareware-Programmierer investieren oft ebensoviel Zeit in die
+        Entwicklung Ihrer Programme, wie dies bei der professionellen
+        Software-Erzeugung der Fall ist. Und oft zeichnen sich ihre
+        Programme durch eine gr”áere Anwenderfreundlichkeit und Liebe
+        fr's Detail aus.
+
+        Kein privater Shareware-Erzeuger wird sich eine "goldene Nase"
+        verdienen, aber dieses Prinzip der Anerkennung durch den Anwender
+        ist Anreiz genug, weiterhin bestehende Programme zu verbessern und
+        neue Programme einem weiten Anwenderkreis zug„nglich zu machen.
+
+        Vielfach sind Shareware-Programme in Umfang und Funktionen
+        leicht eingeschr„nkt. So sind beim MAU MASTER in der Share-Version
+        z.B. verschiedene Kartens„tze aus dem laufenden Spiel nicht direkt
+        nachladbar und verschiedene Einblendungen weisen den Anwender auf
+        die Vollversion hin. Dies ist keine Einschr„nkung, sondern eine
+        leichte Behinderung des Spielflusses, die in der Vollversion
+        natrlich entf„llt.
+
+        Es hebt gewiá nicht die "Registriermoral", wenn Programmierer ihre
+        Programme bis zur Unspielbarkeit einschr„nken, allerdings halte
+        ich es fr sinnvoll und gerechtfertigt, daá ein Anwender
+        unmiáverst„ndlich auf den Shareware-Charakter des gerade von ihm
+        benutzten Programms aufmerksam gemacht wird.
+        Denn warum sollen alle, d.h. die Shareware-Services und die Anwender
+        der Programme profitieren, nur die Programmautoren selbst nicht ?
+
+        Deshalb m”chte ich mich nochmals bei allen bedanken, denen dieses
+        Programm 25,-DM wert war, und die sich fairerweise registrieren
+        lieáen. Es soll ihr Schaden nicht sein ...
+
+        Bei eventuellen Rckfragen bin ich erreichbar unter :
+
+             ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿         ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+             ÃÄÄÄÄ KLAUS HINRICHS ÄÄÄÄ´         ³Osnabrcker Volksbank³
+             ÃÄÄÄ LERCHENSTRAáE 18 ÄÄÄ´         ³BLZ  26590025        ³
+             ÃÄÄÄ 49088  OSNABRšCK ÄÄÄ´         ³Kto. 1553033700      ³
+             ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ         ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        Bis 21.00 Uhr stehe ich oft auch im Telefonbuch.
+
+
+        Sollten Fehler auftreten im Programm (Absturz, Fehlermeldungen
+        u.s.w ), notiere bitte die angegebene Art des Fehlers und Spiel-
+        situation, unter der der Fehler aufgetreten ist, und informiere
+        mich darber. Auf eine Fehler-Abfang-Routine wurde in frhereren
+        Version absichtlich verzichtet, damit eventuell auftretende
+        Fehler nicht nur allgemein "abgehandelt" werden, sondern durch
+        Umprogrammierung wirklich ausgeschlossen werden konnten. Da mir
+        aber kaum Fehler gemeldet wurden, habe ich in der Version I/95
+        eine solche Routine implementiert, die zwar trotzdem noch immer
+        zu einem Programmabbruch fhrt, aber dafr mehr Infos ber den
+        aufgetretenen Fehler liefert.
+
+        Trotz n„chtelangen Austestens kann ich nicht garantieren, daá das
+        Programm v”llig fehlerfrei ist.
+        Ich wáte nicht, wie der MAU MASTER irgendwelchen Schaden anrichten
+        sollte, eine Haftung meinerseits dafr, welcher Art auch immer,
+        schlieáe ich aber dennoch aus. Das bezieht sich auch auf die
+        begleitenden Programme.
+        Eventuelle Probleme, sofern sie dennoch auftreten sollten, lassen
+        sich aber sicher relativ schnell und einfach beheben.
+
+        Damit das Programm funktionieren kann mssen alle zugeh”rigen
+        Dateien in demselben Verzeichnis stehen. Beim Spielen auf Diskette
+        darf diese nicht schreibgeschtzt sein, den eine eventuelle
+        Aktualisierung der Bestenliste wrde unweigerlich zum Absturz
+        fhren. Die gepackten Archivdateien sind natrlich nicht spielbar
+        sondern mssen zuvor dekomprimiert werden. Dies geschieht bei der
+        Installation automatisch.
+
+
+
+        Die Geschichte des Programms:
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Der erste MAU MASTER wurde bereits gegen Ende der 80er Jahre auf
+        einem C-64 geschrieben und so programmiert, daá selbst der Autor
+        auch bei Kenntnis der Karten des Computers nicht vorhersehen konnte,
+        welche Karten der MASTER in bestimmten Spielsituationen ablegen
+        wrde.
+
+        Somit h„ngt der Kartenabwurf des Programms einerseits vom Zufall
+        ab, verfolgt andererseits aber auch eine vom MASTER selbst
+        bestimmte Strategie, die nicht allein darin besteht, "hohe" Karten
+        m”glichst zuerst loszuwerden.
+
+        Dieses Grundgerst ist praktisch ber die Jahre dasselbe geblieben;
+        eine Ver„nderung wurde nicht zuletzt deshalb nicht vollzogen, damit
+        die Spielst„rke erhalten bleibt.
+        Auch wurden keine unterschiedlichen Spielst„rken zum Ausw„hlen
+        programmiert, weil es unsinnig ist, dem Programm beizubringen,
+        "absichtlich" schlechter zu spielen oder nicht gewinnen zu "wollen".
+
+        Es wurden lediglich Programmteile umgeschrieben, die mit anderen
+        Befehlen neuerer BASIC-Dialekte besser zu realisieren waren.
+        Deshalb ist der Quellcode jetzt auch eine bunte Mischung aus
+        C-64er BASIC, GWBASIC und PowerBASIC.
+        Die optische Ausgestaltung und die Bedienung durch den Spieler
+        wurde ganz mit dem PowerBASIC-Compiler programmiert, unter dem der
+        Quellcode dann auch in die vorliegenden ausfhrbaren Versionen
+        compiliert wurde.
+        Es gibt mehrere unterschiedliche Versionen, die ich im Laufe der
+        Jahre an Freunde und Bekannte zum Ausprobieren verteilt habe.
+        Mit den Basisversionen MAU MASTER 92 und MAU MASTER 93 und deren
+        Varianten hielt das Programm seinen Einzug in den Shareware-Markt.
+
+        Bisherige Versionen:
+
+        MAU MASTER 92                 ab Juni     1992
+
+        MAU MASTER 93  Serie  1/93    ab Januar   1993
+        MAU MASTER 93  Serie  7/93    ab Juli     1993 (neue Postleitzahlen)
+        MAU MASTER 93  Serie 12/93    ab Oktober  1993
+        MAU MASTER 93  Serie 13/93    ab Dezember 1993
+
+        MAU MASTER 93/94  Serie 93/94 ab Februar  1994 (nur Vollversion)
+        MAU MASTER 94                 ab Februar  1994 (nur Sharewareversion)
+
+        MAU MASTER 95  Serie I/95     ab Dezember 1994
+
+        Es gibt ein paar Versionen mit Mischbezeichnungen, die sich von
+        den Hauptausgaben nur durch kleine Ver„nderungen "unter der Haube"
+        unterscheiden.
+
+        Dieses Benutzerhandbuch beschreibt den MAU MASTER 95, Serie I/95.
+
+        Wenn irgendetwas nicht funktioniert, informiert mich bitte darber.
+
+        Das MAU MASTER Malprogramm MAUPAINT habe ich ursprnglich nur fr
+        meine eigenen Zwecke programmiert, n„mlich um die VGA-Bildkarten
+        optisch ein wenig "aufzupeppen".
+        Da es wahrscheinlich jedem Spieler gefallen wrde, mit seinem
+        "eigenen" Kartensatz zu spielen, habe ich dieses Utility dem
+        Programm beigefgt. Der Umgang damit ist nicht schwer, deshalb
+        gibt's dazu auch keine ausfhrlichere Anleitung.
+        (...liegt auch ein bischen an meiner Faulheit.)
+
+        Auf einige Punkte sei dennoch hingewiesen:
+        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        ³    MAUPAINT.EXE, das Malprogramm fr den MAU MASTER 95 VGA      ³
+        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        Die Entwicklung dieses "Malprogramms" wurde in den Dokumentationen
+        zu allen Vorg„ngerversionen des MAU MASTERs als noch nicht abge-
+        schlossen bezeichnet. Das trifft auch auf die aktuelle Version von
+        MAUPAINT.EXE zu, obwohl es bereits in einigen Punkten stark
+        verbessert wurde. Dieser Text soll lediglich ein paar
+        Besonderheiten des neuen Malprogramms verdeutlichen:
+
+        - Das Programm ist jetzt komplett mit der Maus steuerbar.
+
+        - Nach zweimaligem Druck (linke Maustaste) auf die Schaltfl„che
+          <LADEN> oder einmaligem Klicken auf die Schaltfl„che <ALLE>
+          erscheinen auf dem Zeichenfeld die Bezeichnungen s„mtlicher im
+          Unterverzeichnis befindlichen Bildkarten, die vom Malprogramm
+          editiert werden k”nnen. Aus dieser Auflistung kann mit der Maus
+          ausgew„hlt werden. Dadurch entf„llt das l„stige Eintippen des
+          Kartennamens.
+
+        - Das Zeichenfeld ist durch einen helleren Rahmen begrenzt, der
+          oben, unten und rechts auch fr den Mauscursor eine Aktionsgrenze
+          darstellt.
+
+        - Mit den Tasten <+> und <-> bzw. den Funktionstasten F2 und F3
+          kann „hnlich wie beim MAU MASTER selbst die Hintergrundfarbe
+          eingestellt werden. Dabei stellt sich die Farbe Nr.2, die
+          normalerweise "grn" bedeutet, als transparente Farbe heraus,
+          die immer den Wert der eingestellten Hintergrundfarbe annimmt.
+          Dadurch ist gew„hrleistet, daá die Spielkarten im Malprogramm
+          die gleichen Farben aufweisen, wie im Spiel selbst.
+
+        Alles Weitere ist durch das Programm selbst erkl„rt oder drfte
+        nicht schwer herauszufinden sein.
+
+        Im Freundeskreis tauschen wir schon seit l„ngerer Zeit unsere
+        neuesten und verrcktesten Kartenkreationen aus, und ich wrde mich
+        sehr freuen, wenn ich auch von Dir einmal einen sch”nen Kartensatz
+        zugeschickt bekomme. Ich schicke Dir meine dafr!
+
+        Der registrierte Benutzer der Vollversion bekommt auch ein Programm
+        mitgeliefert (PCXCUT.EXE), mit dem er aus PCX-Dateien seine eigenen
+        Bildkarten ausschneiden kann !
+        (Der Umgang mit diesem Programm wird in einer separaten Textdatei
+        erkl„rt.)
+
+
+        ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+        ³   VORTEILE und VORZšGE der Vollversion des MAU MASTER 95 VGA    ³
+        ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+        Was unterscheidet die Vollversion von der Sharewareversion ?
+
+
+        1.  Wechsel des Bildkartensatzes im laufenden Programm
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Ein Druck auf die Funktionstaste F2 er”ffnet ein POP-UP Eingabe-
+        Fenster, in dem die anw„hlbaren Kartens„tze angezeigt werden.
+        Jeder Kartensatz (nach Namen aufsteigend sortiert) erh„lt eine
+        Nummer, unter der er abzurufen ist.
+        Nach Eingabe der Nummer und Druck auf die RETURN-Taste (ENTER)
+        wird der neue Kartensatz geladen und alle Bildkarten durch
+        die gewnschten Motive ersetzt. Noch einfacher geht es, wenn mit
+        der Maus in der Schaltleiste die Funktion K-STZE angeklickt wird.
+        Dann kann der gewnschte Kartensatz ebenfallls mit der Maus
+        ausgew„hlt werden.
+
+
+        2.  Optischen Darstellung
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Es k”nnen bis zu 15 Karten auf dem Spielfeld angezeigt werden.
+        Falls mehr Karten vorhanden sind, wird eine Meldung ausgegeben.
+        Die Behinderung durch den Shareware-Hinweis entf„llt !
+
+
+        3.  Erstellen eigener Kartens„tze
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Das mit der Vollversion mitgelieferte Programm PCXCUT erm”glicht
+        es, PCX-Bilddateien (16 Farben) zu konvertieren und Ausschnitte
+        aus diesen Bildern als Bildkarten fr den MASTER auszuschneiden.
+        Die meisten Malprogramme erm”glichen dieses Bild-Format und somit
+        wird es zu einem Kinderspiel, eigene Kartens„tze zu gestalten.
+        So lassen sich die MAU MASTER - Bildkarten auch als Werbefl„che
+        nutzen, wenn z.B. die Jokerkarte das Firmenlogo tr„gt.
+        Solche Werbe-Kartens„tze drfen allerdings nur mit der Shareware-
+        Version weitergegeben werden.
+
+
+        4.  Weitere Kartens„tze
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Die Shareware-Version enth„lt lediglich zwei Kartens„tze. Die
+        Vollversion dagegen einen ganzen Haufen mehr !
+
+
+        5.  Zwei weitere Spiele (CARDWARE)
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Zus„tzlich zu der eigentlichen Vollversion des MAU MASTER 95 liegen
+        noch zwei weitere kleinere Spiele bei:
+
+        KNUBBEL  entspricht einem bekannten Wrfelspiel Kniffel.
+
+        PUZZ     ist ein Zahlen-Verschiebe-Spiel.
+        oder
+        SMARTIES (Master Mind Variante)
+        oder
+        4erKETTE (Vier Gewinnt Variante)
+        oder
+        FALLOUT  (Eine Art Tetris)
+
+        Diese Spiele drfen an Freunde und Bekannte weitergegeben
+        werden (im Gegensatz zu der Vollversion des MAU MASTERs).
+        Wem diese Spiele gefallen, den m”chte ich bitten, mir eine
+        Ansichtskarte mit einem Motiv seines Heimatortes zuzuschicken.
+        Ich sammele n„mlich Postkarten.
+        Weitere solcher Cardware-Spiele sind geplant.
+        Alle Cardwarespiele dieser Reihe sind auf einer Diskette gnstig
+        bei mir zu erwerben. Nachfragen !
+
+
+        6.  Service
+        ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+        Registrierte Benutzer der Vollversion erhalten natrlich einen
+        gnstigen Update-Service und k”nnen sich jederzeit (m”glichst nicht
+        nachts) mit Fragen an mich wenden.
+
+
+
+        P.S.: Kritik und Zuspruch wird gern entgegengenommen !
+
+        Auf gutes ZusammenSPIEL
+
+                    Euer  Klaus
+
+
