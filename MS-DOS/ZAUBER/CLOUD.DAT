@@ -1,0 +1,270 @@
+'Name:  C:\SEE4\CLOUD.DAT
+'Desc: SEE enhancements to CLOUD.SC1
+'----------------------------------------------------------------------
+INPUT, CLOUD.SC1, OUTPUT, CLOUD$.SC1
+
+north, 16000
+east, 13000
+color, 15, 5, 10
+altitude, 2000
+range, 2143 nm
+heading, 90
+library, cloud1
+
+north, 16100
+east, 13100
+color, 15, 5, 10
+altitude, 2500
+range, 2345 nm
+heading, 20
+library, cloud1
+
+north, 15900
+east, 12900
+color, 15, 5, 10
+altitude, 1500
+range, 2255 nm
+heading, 220
+library, cloud1
+
+north, 16100
+east, 12900
+color, 15, 5, 10
+altitude, 2250
+range, 2300 nm
+heading, 120
+library, cloud1
+
+north, 15900
+east, 13100
+color, 15, 5, 10
+altitude, 1750
+range, 2275 nm
+heading, 300
+library, cloud1
+
+north, 16200
+east, 13000
+color, 15, 5, 10
+altitude, 1250
+range, 2175 nm
+heading, 80
+library, cloud1
+
+north, 15800
+east, 13000
+color, 15, 5, 10
+altitude, 1890
+range, 2190 nm
+heading, 200
+library, cloud1
+
+north, 16000
+east, 12800
+color, 15, 5, 10
+altitude, 2000
+range, 2155 nm
+heading, 110
+library, cloud1
+
+north, 16000
+east, 13000
+color, 15, 5, 10
+altitude, 12500
+range, 2100 nm
+heading, 0
+library, cloud
+
+north, 16000
+east, 13200
+color, 15, 5, 10
+altitude, 15000
+range, 2285 nm
+heading, 90
+library, cloud
+
+north, 16000
+east, 12800
+color, 15, 5, 10
+altitude, 17500
+range, 2225 nm
+heading, 270
+library, cloud
+
+north, 16200
+east, 13000
+color, 15, 5, 10
+altitude, 13500
+range, 2215 nm
+heading, 160
+library, cloud
+
+north, 15800
+east, 13000
+color, 15, 5, 10
+altitude, 16000
+range, 2275 nm
+heading, 95
+library, cloud
+
+north, 16000
+east, 13200
+color, 15, 5, 10
+altitude, 1250
+range, 2245 nm
+heading, 90
+library, cloud1
+
+north, 16300
+east, 13300
+color, 15, 5, 10
+altitude, 1500
+range, 2255 nm
+heading, 35
+library, cloud1
+
+north, 16300
+east, 12700
+color, 15, 5, 10
+altitude, 1320
+range, 2235 nm
+heading, 55
+library, cloud1
+
+north, 15700
+east, 12700
+color, 15, 5, 10
+altitude, 1450
+range, 2265 nm
+heading, 320
+library, cloud1
+
+north, 15700
+east, 13300
+color, 15, 5, 10
+altitude, 1700
+range, 2435 nm
+heading, 220
+library, cloud1
+
+north, 16200
+east, 13200
+color, 15, 5, 10
+altitude, 1325
+range, 2345 nm
+heading, 120
+library, cloud1
+
+north, 16200
+east, 12800
+color, 15, 5, 10
+altitude, 2500
+range, 2225 nm
+heading, 5
+library, cloud1
+
+north, 15800
+east, 12800
+color, 15, 5, 10
+altitude, 2250
+range, 2265 nm
+heading, 110
+library, cloud1
+
+north, 15800
+east, 13200
+color, 15, 5, 10
+altitude, 1600
+range, 2654 nm
+heading, 180
+library, cloud1
+
+north, 16000
+east, 13000
+color, 15, 5, 10
+altitude, 25750
+range, 2500 nm
+heading, 330
+x4
+library, cloud
+
+north, 16300
+east, 13300
+color, 15, 5, 10
+altitude, 30000
+range, 2500 nm
+heading, 45
+x4
+library, cloud
+
+north, 15700
+east, 12700
+color, 15, 5, 10
+altitude, 25000
+range, 2500 nm
+heading, 90
+x4
+library, cloud
+
+north, 16300
+east, 12700
+color, 15, 5, 10
+altitude, 32500
+range, 2500 nm
+heading, 340
+x4
+library, cloud
+
+north, 15700
+east, 13300
+color, 15, 5, 10
+altitude, 31500
+range, 2500 nm
+heading, 310
+x4
+library, cloud
+
+
+
+
+
+
+
+
+SAVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

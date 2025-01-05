@@ -1,0 +1,41 @@
+
+
+                          "CLOUDKIT.ZIP"
+                        DATAWINGS - 8/14/92
+                           by Gene Lacy
+
+            " COAST TO COAST CLOUDS ON ONLY 7781 BYTES ! "
+              ----------------------------------------
+
+                CLOUDKIT.ZIP contains (6) files:
+                CLOUDKIT.TXT - This text file
+                USCLOUDS.SC1 - ASD file containing clutters of clouds
+                CLOUD.RPT    - SEE04 process file
+                CLOUD.DAT    - SEE04 data file
+                CLOUD.SC0    - SEE04 "Large cloud for high altitudes"
+                CLOUD1.SC0   - SEE04 "Small cloud for low altitudes"
+
+      USCLOUDS.SC1 was created with SubLOGIC's Instrument Pilot Scenery in
+mind.  This ASD file will blanket your FS4 flying environment from coast to
+coast with multi-layers of randomly appearing unpredictable cloud polygons.
+The SEE04 files are included should you desire too thin'em out a little or
+reconfigure altitudes of the various layers.
+      The whole concept of USCLOUDS is simple yet effective.  How often have you had your destination field in sight from 10 miles out only to have it obscurred from view by clouds during your descent stage!  Remember the rules.
+If you're not on an IFR plan, you'd better remain clear of clouds.
+      DataWings thanks Laemming Wheeler for his creative inputs during
+the CPAA conference in Ithaca.  USCLOUDS is merge friendly at only 7781 bytes and borderless from East Coast to West.  Note that USCLOUDS covers the
+entire United States and may take priority over your smaller localized areas
+of ASD coverage in the static scenery auto-load.  You might want to run with
+manual scenery select only, merge clouds with your localized scenery or
+modify the boundaries of the cloud files to avoid any conflict.  What ever
+method you choose, DataWings wishes you a pleasant PC flight through these
+slightly more challenging skies.  Enjoy USCLOUDS!
+                                                 
+                   CLOUDKIT.ZIP presented by:
+                   Gene Lacy 
+                   DataWings "Your discount SubLOGIC dealer"
+                   9015 Puritan Way
+                   Rosharon, TX 77583
+                   (713)431-1079
+
+***END*************************************************************************

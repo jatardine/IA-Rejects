@@ -1,0 +1,290 @@
+ SEE version 04 [release 1.01]      copyright 1991/92 Laemming Wheeler
+ ======================================================================
+
+ This file..... cloud.RPT
+ Source file... c:\fs4\cloud.sc1
+ Created file.. cloud$.sc1
+
+ East  center: 13000.0000 
+ North center: 16000.0000 
+       Radius:  2999      
+
+ ******  Listing --  navaid   [1]  ****************************
+
+ ******  Listing --  polygon  [2]  ****************************
+
+ ******  Listing --  river    [3]  ****************************
+
+ ******  Listing --  road     [4]  ****************************
+
+ ******  Listing --  line     [5]  ****************************
+
+ ******  Listing --  runway   [6]  ****************************
+   1     R:   50  N:14785.0000  E: 9969.0000  [  58]
+
+ ******  Listing --  mountain [7]  ****************************
+
+ ******  Listing --  gate     [8]  ****************************
+
+ ******  Listing --  building [9]  ****************************
+====================================================================
+         Total: 1    [ 140 ]
+
+  Attempting to open c:\fs4\CONFIG.AD1 (ASD file)
+ <ASD>
+  Attempting to open c:\fs4\design.mod (MODE file)
+ Can't find c:\fs4\design.mod (mode) file
+ <MODE>
+ <END>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  1 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  2 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  3 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  4 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  5 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  6 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  7 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  8 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num:  9 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 10 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 11 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 12 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 13 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 14 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 15 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 16 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 17 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 18 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 19 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 20 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 21 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+  Attempting to open c:\see4\lib\cloud1.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 22 [library] c:\see4\lib\cloud1.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+ <X4>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 23 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+ <X4>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 24 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+ <X4>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 25 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+ <X4>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 26 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+ <NORTH>
+ <EAST>
+ <COLOR>
+ <ALTITUDE>
+ <RANGE>
+ <HEADING>
+ <X4>
+  Attempting to open c:\see4\lib\cloud.sc0 (LIBRARY file)
+ Executed: Obj: 8 Num: 27 [library] c:\see4\lib\cloud.sc0
+ <LIBRARY>
+  Attempting to open c:\fs4\cloud$.sc1 (OUTPUT file)
+
+ c:\fs4\cloud$.sc1:  7781 bytes
+ <SAVE>
