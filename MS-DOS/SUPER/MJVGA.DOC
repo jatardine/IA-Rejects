@@ -1,0 +1,603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 Mah Jongg
+				  -V-G-A-
+			       Version  1.1
+
+
+
+			 Program and Documentation
+                    Copyright 1988, 1989  Ron Balewski
+
+
+
+
+Mah Jongg -V-G-A- is a User-Supported (Shareware) prooduct.  It is
+freely available through User's Groups, Bulletin Boards, etc.  You have
+the opportunity to try the game and see if it suits your needs.  If you
+find that you enjoy and use this game, please send the requested
+contribution of $15.00 to:
+
+     Ron Balewski
+     412 E. Ridge St.
+     Nanticoke, PA  18634
+
+
+User-supported shareware can exist only as long as you, the users, will
+support it!
+
+
+
+
+
+
+TABLE OF CONTENTS:
+-------------------
+
+
+
+	WHAT IS MAH JONG -V-G-A- ............... 3
+
+	HARDWARE REQUIREMENTS .................. 3
+
+	THE GAME OF MAH JONGG .................. 4
+	     The Tiles ......................... 4
+	     The Suits ......................... 4
+	     The Game Board .................... 4
+	     Playing Mah Jongg ................. 5
+	     Strategy .......................... 5
+
+	PLAYING MAH JONGG -V-G-A- .............. 6
+	     The Basics ........................ 6
+	     The Added Features ................ 7
+                  Info... ...................... 7
+                  Messages ..................... 7
+		  Restore ...................... 7
+		  Quit ......................... 7
+		  New Game ..................... 7
+		  Save ......................... 7
+		  What's Left .................. 8
+		  Back-up ...................... 8
+		  Help ......................... 8
+
+	WHAT'S NEXT ............................ 9
+
+	ADVERTISEMENT .......................... 9
+
+        SHARWEWARE ............................. 9
+
+	DISCLAIMER ............................. 9
+
+        PERMISSION TO DISTRIBUTE .............. 10
+
+
+
+
+
+
+ Special thanks to Warren Storosko for his valuable assistance with this
+project.  Many of Mah Jongg -V-G-A-'s special features are a direct
+result of his helpful suggestions.
+
+
+
+
+
+
+
+
+
+                            -  Page 2  -
+
+
+
+
+
+WHAT IS MAH JONG -V-G-A-?
+
+     Mah Jongg -V-G-A- is a high-tech simulation of the ancient Chinese
+game of Mah Jongg.  Some historians date Mah Jongg back to the time of
+Confucius -- over 25 centuries ago!
+
+     It's believed that sailors and fishermen played Mah Jongg as a
+diversion from the monotony of their long voyages.  The game was
+originally played with cards, but eventually bone and bamboo tiles were
+substituted since these were less likely to be blown off the deck.
+
+     Mah Jongg -V-G-A- recreates the beauty and addictive pleasure of
+Mah Jongg, but uses modern data processing techniques and
+high-resolution graphics instead of bamboo tiles.
+
+     In an attempt to make this game as elegant and as enjoyable as
+possible, the author has used some of the most advanced features of
+today's state-of-the-art MS-DOS computers.  Not all PC computers are
+able to run Mah Jongg -V-G-A-.  But if yours can, prepare yourself for
+the meeting of the past and future!!!
+
+
+WHAT DO I NEED?
+
+     Mah Jongg -V-G-A- will run on properly-equipped PC's and
+compatibles with 512k of memory.  It should run with less, but I don't
+know the exact lower limit.
+
+     A VGA graphics card and a Microsoft-compatible mouse are also
+required.
+
+     I also recommend a secondary monochrome monitor.  Mah Jongg -V-G-A-
+will use both the VGA and the monochrome monitors simultaneously to
+display the game board and statistics.  While you don't NEED the
+monochrome display, I find it to be a useful part of the game.
+
+     A fast processor isn't really necessary.  While a fast machine and
+a fast graphics card will speed up tile removal somewhat, the game plays
+just fine on a standard turbo XT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			     -  Page 3 -
+
+
+
+
+
+THE GAME OF MAH JONGG
+---------------------
+
+THE TILES
+
+     There are 42 different tiles used in Mah Jongg as follows:  27 Suit
+tiles (nine tiles in each of three suits), 3 Dragons, 4 Winds, 4 Seasons,
+and 4 Flowers.
+
+
+THE SUITS
+
+     The Suit Of Dots - This suit goes back to the original sailor's
+version of Mah Jongg.  The dots probably represent money.
+
+     The Suit Of Bam - Bam stands for Bamboo.  Because bamboo was used
+to make deadly spears, this suit is thought to represent power or
+victory.
+
+     The Suit Of Crak - These are also called Characters or Actors.
+Crak may represent actual people or may simply be characters from the
+Chinese alphabet.
+
+     The Dragons - In the Ancient Mah Jongg, each suit was associated
+with a Dragon as follows:
+
+		   White dragons - Suit Of Dots
+		   Red Dragons   - Suit Of Bam
+		   Green Dragons - Suit Of Crak
+
+This association has no direct bearing on the current play of the game.
+
+     The Winds - These tiles simply represent the four directions of the
+winds -- North, South, East, and West.
+
+     The Flowers - The four flowers - Orchid, Plum, Mum, and Bamboo -
+were introduced by a medieval princess to add beauty and romance to the
+game.
+
+     The Seasons - This is another direct representation -- this time of
+the seasons - Spring, Summer, Autumn, and Winter.  It is thought that
+the seasons were added to Mah Jongg by river gamblers.
+
+
+THE GAME BOARD
+
+     Each game board consists of 144 tiles made up of four
+of each type of tile EXCEPT for the Seasons and Flowers of which there
+is one each.  The tiles are laid out in a formation called a Dragon.
+The position of each tile in the dragon is completely random, making
+each dragon unique.  Some are more formidable than others.  Some are
+actually impossible to defeat.  But all are challenging and exciting.
+
+
+
+
+			     - Page 4 -
+
+
+
+
+
+     The tiles are placed in stacks ranging in height from one tile at
+the edge to five tiles at the center.  The easiest way to understand the
+dragon is to see one.  Run Mah Jongg -V-G-A-.  The dragon you'll see
+will be a far better explanation than I can give.
+
+
+PLAYING MAH JONGG
+
+     The object of Mah Jongg is simple -- remove all of the tiles by
+matching pairs.  But there IS a catch.  Only tiles which are "free" can
+be removed.
+
+     A tile is considered "free" if there's nothing on top of it and if
+it can slide out to the left OR right.  If tiles on both sides are
+stacked to the same height the tile is not "free" to be removed.
+
+     Two tiles MUST be free and MUST be an exact match (exceptions
+later) before they can be removed from the dragon.  Removal of
+mis-matched tiles and removal of un-free tiles is not allowed.
+
+     The exception:  Since there is one each of the Seasons and the
+Flowers, these tiles cannot be matched identically.  So any flower can
+match with any other flower.  Likewise, any season can match with any
+other season.
+
+
+STRATEGY:
+
+     During my countless hours of testing Mah Jongg -V-G-A-, I've found
+a few pieces of strategy that seem to help:
+
+--> Concentrate on removing the four tiles which are blocking the most
+moves - the top tile, the single tile on the left, and the two tiles on
+the right.
+
+--> Look for quadruples.  If all four of a given tile are free, remove
+them all immediately.  This will get them out of the way and won't cause
+problems later.
+
+--> Keep an eye out for doubles (two tiles free) of tiles with only two
+left (the monochrome screen helps here).  These should also be removed
+immediately.
+
+--> Before removing two tiles of four remaining, be sure that no OBVIOUS
+harm (trapped tiles) will occur.
+
+--> Always check for triples.  If you've found a pair with four
+remaining, see if any more are free.  Then, take the two which will free
+up the most tiles.
+
+
+
+
+
+
+
+			     - Page 5 -
+
+
+
+
+
+PLAYING MAH JONGG -V-G-A-
+-------------------------
+
+THE BASICS
+
+     To start Mah Jongg -V-G-A-, just place the game disk into a drive,
+log onto that drive, and type MJVGA at the DOS prompt.  After some disk
+activity, the opening screen will come up.  A short time later, the
+title screen will fade and the dragon will be drawn.
+
+     If you have a monochrome monitor connected to your computer, you
+should be sure that it's turned on.  From here on, I'll assume that
+you're looking at both monitors.  If you only have a VGA monitor, just
+ignore all references to the Monochrome.
+
+     Tiles are removed by first selecting one, then selecting its mate.
+To select a tile, just point to it with the mouse and press the left
+mouse button.  The tile will change color (and its listing on the
+monochrome will be highlighted) to show that it has been selected. You
+don't have to double-click to remove the tiles.  When two tiles have
+been selected, they will (after validation) be removed.
+
+     To de-select a tile, just click on it again.  The tile and its
+listing will return to normal.
+
+     If you click on a tile which is not free, a 'Tile Not Free"
+meessage will appear on the left side of the screen after which the
+offending tile will automatically be de-selected.  Likewise, if you
+select two tiles wcich don't match, you'll see a "Tiles don't match"
+message after which both tiles will be de-selected.
+
+     The counter at the top-left of the VGA screen (and on the right
+side of the monochrome screen) will show how many tiles remain in the
+dragon.
+
+     This is all you really need to know to play the game.  But, there
+are some other features which make the play a lot more enjoyable.  The
+menu of features can be found in the upper right section of the VGA
+display.  I'll explain each of these features individually in a moment.
+But, to activate any one of them, just point to the desired feature with
+the mouse and click the left button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			     -  Page 6  -
+
+
+
+
+
+THE ADDED FEATURES
+
+     For convenience, I'll describe the features as they appear in the
+menu from top to bottom, starting with Info...
+
+
+INFO...
+=======
+        Selecting INFO... simply displays the game title, a copyright
+        notice, a shareware notice, and the author's name & address.
+        This isn't necessary, but it's nice to have just in case the
+        program gets separated from its .DOC file.  To return to the
+        game, click the RIGHT mouse button.
+
+
+MESSAGES ARE ON / OFF
+=====================
+	This option controls whether or not the "Tile not free" and
+	Tiles do not match" messages are printed.  The messages are
+	initially on.  They can be toggled on / off by clicking on the
+	box.  When the messages are turned off, un-free tile selections
+	are ignored and mis-matched selections are simply reset.
+	Experienced players may prefer to turn off the messages to keep
+	mis-clicks from slowing up the game with messages.
+
+
+RESTORE
+=======
+	Restore will load a game previously saved to disk.  A window
+	will open and you'll be asked to type a file name.  If you hit
+	this button accidentally, just cancel the restore by pressing
+	Return without typing a file name.
+
+
+QUIT
+====
+	Selecting Quit will clear both monitors and return you to the
+	DOS prompt.
+
+
+NEW GAME
+========
+	Clicking on New Game will start a new game of Mah Jongg.  The
+	VGA screen will clear and the title screen will appear while the
+	computer shuffles the tiles.  Then, the title screen will fade
+	and a new dragon will be drawn.
+
+
+SAVE
+====
+	The Save command is Restore's partner.  You can save a current
+	game to disk for later completion by clicking here.  You'll be
+	asked for a file name for the game.  If you decide not to save
+	the game, just press Return without typing anything.  Either
+	way, you'll be returned to the current game.
+
+                             -  Page 7  -
+
+
+
+
+
+WHAT'S LEFT
+===========
+	To see exactly what tiles are left in the dragon, just click
+	here!  The dragon will be replaced by a graphic depiction of
+	exactly how many of which tiles are left.  Very useful for
+	determining tricky moves!  To return to the game board, just
+	click the RIGHT mouse button.
+
+	Of course, monochrome users will seldom have to use this
+	feature.  All of this information (and much more) is constantly
+	displayed on the monochrome monitor.
+
+
+BACK-UP
+=======
+	Each time you click on Back-up, your last move will be taken
+	back.  Note that the tile(s) which are being returned to the
+	board will be momentarily highlighted on the monochrome screen.
+	This feature helps you to quickly return to "wherever I removed
+	those such-and-such tiles."  You can back-up all the way to the
+	beginning of the game, if you like.
+
+
+HELP
+====
+	Help is really it's own little sub-function.  When you click on
+	help, the machine will pause for a moment (it's looking for
+	moves) and will then do one of two things.  If no moves are
+	left, yu'll see a "No moves left" message on the left side of
+	the screen.  You're now free to start a new game or back-up to
+	try to correct errors in this one (I often do this).
+
+	If one or more moves is left, the message will tell you how
+	many.   The tiles for the first move will be highlighted on
+	both monitors.  Then, a small control panel with four buttons
+	will appear on the bottom left section of the VGA screen.  To
+	leave Help, click on Exit.  To see the next move, just click on
+	"Next".  Click on "Previous" to display the previous move.  When
+	you've decided which move you'd like to take, you can execute it
+	by first stepping to it with the Next / Previous buttons and
+	then clicking on "Do It!"  The help menu will disappear and your
+	selected move will be executed.
+
+	The help system is automatically exited when you select Do It!
+	to keep you from playing the entire game from within the Help
+	menu.  After all, we've got to give the Dragon a fighting
+	chance!!
+
+
+
+
+
+
+
+
+
+			     -  Page 8  -
+
+
+
+
+
+WHAT'S NEXT
+
+     If enough people are interested in Mah Jongg -V-G-A-, there are a
+couple things I'd like to do to it (such as giving the user a choice of
+tile sets).  If you have any ideas on how to improve Mah Jongg -V-G-A-,
+please let me know!  All suggestions are welcome!
+
+
+ADVERTISEMENT
+
+     I also have a CGA monochrome version of this program available.  I
+wrote it to be easy-to-see for use on today's laptop PC's with LCD
+screens.  It's not quite as elagent as Mah Jongg -V-G-A-, but it sure is
+fun!!  If you could use a copy, please let me know.  I've released that
+version as shareware, too, and will be glad to send you a demo copy for
+a nominal fee.
+
+   As a special offer, you can register both Mah Jongg -V-G-A- and Mah
+Jongg LapTop for only $20.00.  And for an additional $5.00, I'll send
+you Mah Jongg -V-G-A- on a 5.25" disk and Mah Jongg LapTop on either
+3.5" or 5.25" (your choice).
+
+
+SHAREWARE
+
+     Please remember that this game is NOT public domain.  It is
+shareware!  If you play and enjoy this game regularly, you are urged to
+send the registration fee of $20.00 (or any amount that you see fit).
+Remember, shareware will only be around as long as YOU support the
+concept!
+
+     Whether or not you choose to register, I'd like to hear your
+comments and suggestions on Mah Jongg -V-G-A-.  If you'd like a reply,
+please include a stamped, self-addressed envelope.
+
+     All comments and contributions can be sent to:
+
+	      Ron Balewski
+	      412 E. Ridge St.
+	      Nanticoke, PA  18634
+
+
+
+
+
+DISCLAINER
+
+     In no event shall the Author be liable to you for any damages,
+including any lost profits, lost savings, or other incidental or
+consequential damages arising out of the use of or inability to use this
+program, even if the Author has been advised of the possibility of such
+damages, or for any claim by any other party.
+
+
+
+
+                             -  Page 9  -
+
+
+
+
+
+PERMISSION TO COPY
+
+     Individuals, clubs, and other organizations are granted permission
+by the author to freely copy and distribute this program and
+documentation as long as:
+
+
+
+1:  There is no charge for the software or documentation.  However, you
+may charge a service fee for disk duplication and distribution, as long
+as such fee is not more than $5.00.
+
+2.  Club members are informed of the user-supported (shareware) concept
+and are encouraged to support it with their donations.
+
+3.  The program or its documentation are not modified in any way.
+
+4.  All files are distributed together on the same diskette (if
+possible).  No file may be deleted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			     -  Page 10  -
+
+

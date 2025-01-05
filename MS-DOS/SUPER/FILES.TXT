@@ -1,0 +1,21 @@
+The following files should be on your Mah Jongg -V-G-A- disk:
+
+
+
+MJVGA.EXE -- The program!!  It won't work without this one!!!  
+
+MJVGA.DOC -- Tme manual.  Not vital, but nice to have!
+
+FILES.TXT -- You're reading it, so it must be there!!!
+
+V00  .ICN -- Graphic icon files.  If even one of the 55 files is
+  thru       missing, Mah Jongg -V-G-A- will complain and refuse
+V54  .ICN    to run.
+
+PAL  .CFG -- Color palette file.  If this is missing, Mah Jongg
+	     -V-G-A- will run, but the colors will be bizarre!!
+
+
+If you give a copy of this program to anyone, PLEASE be sure that
+all of the files are on the disk!!!  Thanks!!!
+

@@ -1,0 +1,151 @@
+BH
+
+
+                             MAGIC POOL  Version 1.0
+                             ~~~~~~~~~~~~~~~~~~~~~~~
+                           (C) by Thomas Gramespacher,
+                               Bertram Hildebrand,
+                                 Martin Skutella
+
+
+
+   Kurze Bedienungsanleitung zum Spielmen:
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Grunds„tzliches:
+    þMenpunkte  k”nnen entweder durch Anklicken per Maus oder durch die je-
+     weils angegebene Taste aktiviert werden.  Das  Men  ist jedoch deakti-
+     viert, sobald ein Meldungsfenster ge”ffnet ist.
+
+    þIm Hilfetext werden folgende Abkrzungen benutzt:
+      L|| linke  Maustaste
+      ||R rechte Maustaste
+
+
+   N„chste Seite: Enter / L||                    Hilfe beenden mit ESC / ||R
+>
+
+
+                                                                   Seite 2/6
+
+   Enter: Stoá ausfhren im normalen Modus (N):
+          Zu Spielbeginn und in anderen  Situationen, in denen sich die wei-
+          áe Kugel nicht auf dem Spielfeld befindet, werden Sie vor dem Stoá
+          aufgefordert, die weiáe Kugel im Kopffeld aufzusetzen. Bewegen Sie
+          dazu die weiáe Kugel mit der Maus oder den Pfeiltasten an die  ge-
+          wnschte Stelle und drcken Sie dann  L||  oder  "Enter".  Ist die
+          weiáe Kugel schon auf dem Spieltisch,  so entf„llt dieser Schritt.
+
+          Die Meldung "Bitte Zielpunkt eingeben" erscheint ber dem Men und
+          der Mauscursor wird zu einem Kreis mit einem Punkt in  der  Mitte.
+          Geben Sie nun den Zielpunkt an,  indem Sie auch hier mit der  Maus
+          oder den Pfeiltasten den gewnschten Punkt ansteuern und  mit  L||
+          oder "Enter" best„tigen.
+
+          Danach folgen Sie der  Anweisung  "Bitte Geschwindigkeit angeben",
+          indem Sie den Balken unter dieser Meldung mit der  Maus  oder  den
+          Pfeiltasten nach  links (langsamer) oder  rechts (schneller)  ein-
+          stellen und wie gewohnt mit L|| oder Enter best„tigen.
+
+   N„chste Seite: Enter / L||                    Hilfe beenden mit ESC / ||R
+>
+
+
+                                                                   Seite 3/6
+
+          Unmittelbar danach wird der Stoá ausgefhrt.  Warten Sie, bis alle
+          Kugeln zur Ruhe gekommen sind und der Mauscursor wieder erscheint.
+          War Ihr Stoá ein Foul,  so zeigt dies der Computer an.  Best„tigen
+          Sie eine eventuelle Foul-Meldung mit "Enter" oder drcken Sie ggf.
+          "H", um eine Erkl„rung fr das Foul zu erhalten.
+
+          Bemerkung:  Mit "Esc"  bzw.  ||R  gelangen Sie grunds„tzlich einen
+                      Schritt zurck,  also z.B.  vom Eingeben der Geschwin-
+                      digkeit zum Eingeben des Zielpunktes.
+
+   Enter: Stoá ausfhren im professionellen Modus (P):
+          Grunds„tzlich verh„lt sich hier alles wie im "normalen Modus". So-
+          bald jedoch feststeht, welcher Spieler welche Kugeln hat,  muá je-
+          der Spieler vor seinem folgenden Stoá eine Tasche und eine  Kugel,
+          die er in die Tasche spielen will,  ansagen.  Das geschieht in der
+          blichen Weise, indem man zuerst eine (eigene!) Kugel, danach eine
+          Tasche anklickt.  Ist dies erledigt,  so verl„uft alles,  wie oben
+          unter "normaler Modus" erkl„rt ist.
+
+   N„chste Seite: Enter / L||                    Hilfe beenden mit ESC / ||R
+>
+
+
+                                                                   Seite 4/6
+
+
+   Esc:  Abbruch des aktuellen Spiels:
+         Es erscheint eine Sicherheitsabfrage,  die Sie entweder mit "Enter"
+         best„tigen oder mit "Esc" rckg„ngig machen k”nnen.
+
+   F1:   Hilfe: zeigt diesen Hilfetext.
+
+   F2:   Tip:
+         Der Computer fhrt den bestm”glichen Stoá vor und  kehrt  dann  zur
+         Ausgangssituation zurck.
+
+   F3:   šber  "F3"  lassen sich s„mtliche Ger„usche  (Anklicken eines Men-
+         punktes und Zusammenprall der Kugeln) ein- und ausschalten.
+
+   F4:   Wiederholung:
+         Der Computer wiederholt den letzten Stoá; auch eventuelle Foul-Mel-
+         dungen werden erneut angezeigt.
+
+
+   N„chste Seite: Enter / L||                    Hilfe beenden mit ESC / ||R
+>
+
+
+                                                                   Seite 5/6
+
+   F5:   Optionen:
+         Es erscheint ein Fenster,  in dem die aktuellen Spieloptionen ange-
+         zeigt werden. Man kann nun durch Drcken von
+
+         "F" die Farbe des Spieltisches ver„ndern.
+             M”gliche Einstellungen sind GRšN, BLAU, ROT.
+             Bemerkung: In Verbindung mit Bildschirmadaptern,  die keine Žn-
+             derung der Farbpalette erlauben, ist keine Einstellung m”glich.
+
+         "S" den Spielmodus w„hlen. MAGIC POOL untersttzt zwei Spielmodi:
+             NORMAL und PROFESSIONELL.
+             Normal:        Dies ist ein vereinfachter Spielmodus,  bei  dem
+                            - in Abweichung zu den internationalen Pool Bil-
+                            lard Regeln -  der  n„chste  Stoá nicht angesagt
+                            werden muá.                       ~~~~~
+             Professionell: Der professionelle Modus h„lt sich strikt an die
+                            internationalen Regeln;  d.h.  jeder Spieler muá
+                            seinen n„chsten Stoá ansagen.
+
+   N„chste Seite: Enter / L||                    Hilfe beenden mit ESC / ||R
+>
+
+
+                                                                   Seite 6/6
+
+         "W" die Weiterschaltung zwischen  MANUELL  und  AUTOMATISCH hin und
+             her schalten.  Standardm„áig  ist  die manuelle Weiterschaltung
+             eingestellt,  d.h. nach jedem Stoá muá der Spieler das Menfeld
+             "Stoá" anklicken,  um die n„chste Kugel zu spielen.  Fr  einen
+             flssigeren Spielablauf kann man die automatische  Weiterschal-
+             tung w„hlen. In diesem Fall befindet sich das Programm nach je-
+             dem erfolgreichen Stoá gleich wieder bei der  Zielpunkteingabe.
+
+         "T" s„mtliche Ger„usche  (Anklicken eines Menpunktes und Zusammen-
+             prall der Kugeln) EIN- und AUSschalten.
+
+
+   Drcken Sie "Enter", wenn Sie alle gewnschten Žnderungen vorgenommen ha-
+   ben und diese bernehmen wollen.  Mit "Esc" werden die Einstellungen  auf
+   ihre alten Werte zurckgesetzt.
+
+
+
+
+   Ende der Hilfestellung. Drcken Sie Enter / L||.
+>
+
